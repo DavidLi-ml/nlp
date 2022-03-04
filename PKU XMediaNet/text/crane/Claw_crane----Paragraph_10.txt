@@ -1,0 +1,1 @@
+Instant replay: the user can opt to touch a certain button and have the claw automatically move to where it was last dropped, in order to try again for a prize that was just missed on the previous try.

@@ -1,0 +1,1 @@
+Geosynchronous Orbit (GEO): Geocentric circular orbit with an altitude of 35,786 kilometres (22,236 mi). The period of the orbit equals one sidereal day, coinciding with the rotation period of the Earth. The speed is approximately 3,000 metres per second (9,800 ft/s).

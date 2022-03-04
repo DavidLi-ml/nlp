@@ -1,0 +1,1 @@
+The probability that A rolls a higher number than B, the probability that B rolls higher than C, and the probability that C rolls higher than A are all 5/9, so this set of dice is nontransitive. In fact, it has the even stronger property that, for each die in the set, there is another die that rolls a higher number than it more than half the time.

@@ -1,0 +1,1 @@
+Quadcopters have four rotors often with parallel axes (sometimes rotating in the same direction with tilted axes) which are commonly used on model aircraft.

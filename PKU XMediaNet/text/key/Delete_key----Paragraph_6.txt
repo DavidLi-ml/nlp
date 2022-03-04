@@ -1,0 +1,1 @@
+On Unix-like systems, the delete key is usually mapped to ESC[3~ which is the VT220 escape code for the "delete character" key.

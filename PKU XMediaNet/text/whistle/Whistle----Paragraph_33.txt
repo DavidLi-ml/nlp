@@ -1,0 +1,1 @@
+Similarity is best exposed by determining a speed, U, that is characteristic of the dynamics, and a dimension, L, that is characteristic of the geometry. If these values are used in dimensionless numbers, such as those listed below, much understanding of the phenomenon can be achieved.

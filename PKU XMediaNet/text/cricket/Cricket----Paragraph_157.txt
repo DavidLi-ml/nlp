@@ -1,0 +1,1 @@
+Balls faced (BF): The total number of balls received, including no balls but not including wides.

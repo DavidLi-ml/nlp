@@ -1,0 +1,1 @@
+One factor determining the size of a keyboard is the presence of duplicate keys, such as a separate numeric keyboard, for convenience.

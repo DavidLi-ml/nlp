@@ -1,0 +1,1 @@
+Hanger width can greatly influence the turning characteristics of a truck. A wider hanger is thought to be more stable (turn less quickly). This is because the board generally has less leverage over the hanger, the wheels have a further distance to travel to get to an angle, and more board lean is lost due to bushing compression.

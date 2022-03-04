@@ -1,0 +1,1 @@
+Resolution: See Figure. The smallest increment of motion or distance that can be detected or controlled by the control system of a mechanism. The resolution of any joint is a function of encoder pulses per revolution and drive ratio, and dependent on the distance between the tool center point and the joint axis.

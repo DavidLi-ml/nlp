@@ -1,0 +1,1 @@
+In analog color TV, color is represented by the phase of the chroma subcarrier relative to a reference oscillator. Chroma key is achieved by comparing the phase of the video to the phase corresponding to the preselected color. In-phase portions of the video are replaced by the alternate background video.

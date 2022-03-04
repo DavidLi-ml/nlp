@@ -1,0 +1,1 @@
+Several implementation strategies for readers–writer locks exist, reducing them to synchronization primitives that are assumed to pre-exist.

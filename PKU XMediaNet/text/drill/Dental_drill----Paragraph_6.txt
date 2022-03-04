@@ -1,0 +1,1 @@
+Current iterations can operate at up to 800,000 rpm, however, most common is a 400,000 rpm "high speed" handpiece for precision work complemented with a "low speed" handpiece operating at a speed that is dictated by a micromotor which creates the momentum (max up to 40,000 rpm) for applications requiring higher torque than a high-speed handpiece can deliver.

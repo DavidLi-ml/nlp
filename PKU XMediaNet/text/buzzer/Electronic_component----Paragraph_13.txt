@@ -1,0 +1,1 @@
+Components incapable of controlling current by means of another electrical signal are called passive devices. Resistors, capacitors, inductors, transformers, and even diodes are all considered passive devices.

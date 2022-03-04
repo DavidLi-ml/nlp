@@ -1,0 +1,1 @@
+To transmit their input, typical cabled mice use a thin electrical cord terminating in a standard connector, such as RS-232C, PS/2, ADB or USB. Cordless mice instead transmit data via infrared radiation (see IrDA) or radio (including Bluetooth), although many such cordless interfaces are themselves connected through the aforementioned wired serial buses.

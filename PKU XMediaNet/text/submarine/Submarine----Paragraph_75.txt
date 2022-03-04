@@ -1,0 +1,1 @@
+Submarines in a neutral buoyancy condition are not intrinsically trim-stable. To maintain desired trim, submarines use forward and aft trim tanks. Pumps can move water between the tanks, changing weight distribution and pointing the sub up or down. A similar system is sometimes used to maintain stability.

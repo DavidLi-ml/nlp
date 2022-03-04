@@ -1,0 +1,1 @@
+Modern double-pane and triple-pane windows often include one or more low-e coatings to reduce the window's U-factor (its insulation value, specifically its rate of heat loss). In general, soft-coat low-e coatings tend to result in a lower solar heat gain coefficient (SHGC) than hard-coat low-e coatings.

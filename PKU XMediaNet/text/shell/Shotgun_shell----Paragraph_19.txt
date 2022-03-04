@@ -1,0 +1,1 @@
+These formulas accurately estimate the diameter (dn) in inches of any shotgun gauge size (n). For example, a 67.62-gauge equates to a lead ball diameter of 0.410-inch by this formula, hence the .410 shotgun shell nomenclature.

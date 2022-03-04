@@ -1,0 +1,1 @@
+In genetic engineering, a gene cassette is a manipulable fragment of DNA carrying, and capable of expressing, one or more genes of interest between one or more sets of restriction sites. It can be transferred from one DNA sequence (usually on a vector) to another by 'cutting' the fragment out using restriction enzymes and 'pasting' it back into the new context.

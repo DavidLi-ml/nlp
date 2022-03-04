@@ -1,0 +1,1 @@
+Compressor and Peltier refrigerators are powered by electricity. Absorption units can be designed to get power from any heat source. A noticeable difference between the two types is the absence of refrigerant with Peltier coolers (these use a different method of cooling). But Peltier coolers use more electricity because they are thermodynamically inefficient.

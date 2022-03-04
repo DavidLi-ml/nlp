@@ -1,0 +1,1 @@
+At values of the ratio of particle diameter to wavelength more than about 10, the laws of geometric optics are mostly sufficient to describe the interaction of light with the particle, and at this point the interaction is not usually described as scattering.

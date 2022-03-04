@@ -1,0 +1,1 @@
+Pioneer also made computer-controlled units such as the LD-V2000. It had a back-panel RS-232 serial connection through a five-pin DIN connector, and no front-panel controls except Open/Close. (The disc would be played automatically upon insertion.)

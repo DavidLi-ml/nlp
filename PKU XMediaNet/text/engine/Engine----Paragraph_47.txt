@@ -1,0 +1,1 @@
+where r is the length of the lever, F is the force applied on it, and r×F is the vector cross product. Torque is measured typically either in newton-metres (N·m, SI units) or in foot-pounds (ft·lb, imperial units).

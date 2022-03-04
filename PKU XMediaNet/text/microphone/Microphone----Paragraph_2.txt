@@ -1,0 +1,1 @@
+Most microphones today use electromagnetic induction (dynamic microphones), capacitance change (condenser microphones) or piezoelectricity (piezoelectric microphones) to produce an electrical signal from air pressure variations. Microphones typically need to be connected to a preamplifier before the signal can be recorded or reproduced.

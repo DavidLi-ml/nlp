@@ -1,0 +1,1 @@
+Dynamic microphones (also known as moving-coil microphones) work via electromagnetic induction. They are robust, relatively inexpensive and resistant to moisture. This, coupled with their potentially high gain before feedback, makes them ideal for on-stage use.

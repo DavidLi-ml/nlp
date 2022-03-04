@@ -1,0 +1,1 @@
+The software industry has put much effort into finding methods for preventing programmers from inadvertently introducing bugs while writing software. These include:

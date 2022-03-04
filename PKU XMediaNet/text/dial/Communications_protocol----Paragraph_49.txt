@@ -1,0 +1,1 @@
+To ensure both sides use the same protocol, the pieces also carry data identifying the protocol in their header.

@@ -1,0 +1,1 @@
+Do not allow the stack after printing to be too high, thus allowing air to circulate to aid drying.

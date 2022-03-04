@@ -1,0 +1,1 @@
+  ) is a sum of the static lift, the head loss due to friction and any losses due to valves or pipe bends all expressed in metres of fluid. Power is more commonly expressed as kilowatts (103 W, kW) or horsepower (hp = kW*0.746). The value for the pump efficiency, 

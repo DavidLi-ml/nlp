@@ -1,0 +1,1 @@
+A bicycle stays upright while moving forward by being steered so as to keep its center of mass over the wheels. This steering is usually provided by the rider, but under certain conditions may be provided by the bicycle itself.

@@ -1,0 +1,1 @@
+The CAS is typically an electro-mechanical, servo control actuation system, which takes input from the guidance system and manipulates the airfoils or fins at the rear of the missile that guide or steers the weapon to target.

@@ -1,0 +1,1 @@
+Manual modes: Manual (M), Program (P), Shutter priority (S), Aperture priority (A).

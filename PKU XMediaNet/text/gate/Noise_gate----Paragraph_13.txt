@@ -1,0 +1,1 @@
+Noise gates are useful when editing live recordings in order to remove background noise between passages or pieces of dialogue. However care must be taken in setting the gates so they do not trigger due to spurious noise such as when people move chairs.

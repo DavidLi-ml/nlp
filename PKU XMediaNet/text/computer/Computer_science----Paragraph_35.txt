@@ -1,0 +1,1 @@
+Computer performance analysis is the study of work flowing through computers with the general goals of improving throughput, controlling response time, using resources efficiently, eliminating bottlenecks, and predicting performance under anticipated peak loads.

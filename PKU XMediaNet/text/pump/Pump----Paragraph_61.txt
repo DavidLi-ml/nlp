@@ -1,0 +1,1 @@
+As has been noted, a typical pump failure based on actual year 2002 reports, costs US$5,000 on average. This includes costs for material, parts, labor and overhead. Extending a pump's MTBF from 12 to 18 months would save US$1,667 per year — which might be greater than the cost to upgrade the centrifugal pump's reliability.

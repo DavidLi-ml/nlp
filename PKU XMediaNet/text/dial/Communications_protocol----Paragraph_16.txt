@@ -1,0 +1,1 @@
+Acknowledgements of correct reception of packets is required for connection-oriented communication. Acknowledgements are sent from receivers back to their respective senders.

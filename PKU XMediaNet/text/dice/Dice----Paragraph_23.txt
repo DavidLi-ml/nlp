@@ -1,0 +1,1 @@
+Dice with an odd number of flat faces can be made as "long dice". They are based on an infinite set of prisms. All the (rectangular) faces they may actually land on are congruent, so they are equally fair. (The other 2 sides of the prism are rounded or capped with a pyramid, designed so that the die never actually rests on those faces.)

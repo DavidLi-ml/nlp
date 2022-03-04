@@ -1,0 +1,1 @@
+In the 1950s, modified standard versions of the A, B, and C models were used as console typewriters or terminals on many early computers (e.g., JOHNNIAC, IBM 1620, PDP-1). The IBM Selectric typewriter, introduced in 1961, was easier to interface to a computer and was favored in new designs, such as the IBM 1130 computer and the IBM 1050 terminal.

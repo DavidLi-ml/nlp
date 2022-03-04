@@ -1,0 +1,1 @@
+Pipe sizes are specified by a number of national and international standards, including API 5L, ANSI/ASME B36.10M and B36.19M in the US, BS 1600 and BS EN 10255 in the United Kingdom and Europe.

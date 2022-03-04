@@ -1,0 +1,1 @@
+tab (HT), shortened from "horizontal tab" or "tabulator stop" – caused the print position to advance horizontally to the next pre-set "tab stop". This was used for typing lists and tables with vertical columns of numbers or words. The related term "vertical tab" (VT) never came into widespread use.

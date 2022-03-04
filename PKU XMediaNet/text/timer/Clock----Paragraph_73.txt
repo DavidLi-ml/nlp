@@ -1,0 +1,1 @@
+Digital clocks display the time in periodically changing digits on a digital display. A common misconception is that a digital clock is more accurate than an analog wall clock, but the indicator type is separate and apart from the accuracy of the timing source.

@@ -1,0 +1,1 @@
+Military robots include the SWORDS robot which is currently used in ground-based combat. It can use a variety of weapons and there is some discussion of giving it some degree of autonomy in battleground situations.

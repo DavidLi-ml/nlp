@@ -1,0 +1,1 @@
+Varactor, Tuning diode, Varicap, Variable capacitance diode – A diode whose AC capacitance varies according to the DC voltage applied.

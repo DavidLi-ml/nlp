@@ -1,0 +1,1 @@
+If the door swings toward you, it is "Reverse swing"; or if the door swings away from you, it is "Normal swing".

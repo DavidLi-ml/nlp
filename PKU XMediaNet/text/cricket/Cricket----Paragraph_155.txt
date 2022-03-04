@@ -1,0 +1,1 @@
+Centuries (100): The number of innings in which the batsman scored one hundred runs or more.

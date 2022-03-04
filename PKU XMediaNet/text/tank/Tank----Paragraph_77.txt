@@ -1,0 +1,1 @@
+Loader - The loader loads the gun, with a round appropriate to the target. In tanks with auto-loaders this position is omitted.

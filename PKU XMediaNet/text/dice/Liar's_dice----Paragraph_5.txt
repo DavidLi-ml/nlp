@@ -1,0 +1,1 @@
+the player may bid a higher quantity of the same face or the same quantity of a higher face (the most restrictive; a reduction in either face value or quantity is never allowed).

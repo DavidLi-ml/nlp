@@ -1,0 +1,1 @@
+In a multithreaded process system calls can be made from multiple threads. The handling of such calls is entirely dependent on the design of the specific operating system. The following list shows typical models followed by kernels:

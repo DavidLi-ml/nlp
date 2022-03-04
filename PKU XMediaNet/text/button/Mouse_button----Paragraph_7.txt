@@ -1,0 +1,1 @@
+With less abstracted software, a mouse button's current state (“mouse up” and “mouse down”) is monitored, allowing for modal operations such as drag and drop.

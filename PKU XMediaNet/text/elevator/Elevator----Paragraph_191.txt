@@ -1,0 +1,1 @@
+There are four elevator cars of the traditional design that run from the second level to the third level. The cars are connected to their opposite pairs (opposite in the elevator landing/hall) and use each other as the counterweight. As one car ascends from level 2, the other descends from level 3. The operations of these elevators are synchronized by a light signal in the car.

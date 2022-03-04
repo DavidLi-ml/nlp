@@ -1,0 +1,1 @@
+The design of the protocol layering and the network (or Internet) architecture are interrelated, so one cannot be designed without the other. Some of the more important features in this respect of the Internet architecture and the network services it provides are described next.

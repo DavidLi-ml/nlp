@@ -1,0 +1,1 @@
+The Ring Video Doorbell previously known as Doorbot is a doorbell replacement, created by Entrepreneur James Siminoff in 2012 that includes an infrared camera, and Wi-Fi connectivity. When the doorbell is pressed, the app begins a VOIP video call to connected smartphones, so that the owner can see and speak with whoever is at the door.

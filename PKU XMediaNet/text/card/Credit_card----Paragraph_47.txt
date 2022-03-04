@@ -1,0 +1,1 @@
+Clearing and Settlement: The acquirer sends the batch transactions through the credit card association, which debits the issuers for payment and credits the acquirer. Essentially, the issuer pays the acquirer for the transaction.

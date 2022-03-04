@@ -1,0 +1,1 @@
+Strictly speaking, PIR sensors do not detect motion; rather, they detect abrupt changes in temperature at a given point. As an intruder walks in front of the sensor, the temperature at that point will rise from room temperature to body temperature, and then back again. This quick change triggers the detection.

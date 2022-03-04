@@ -1,0 +1,1 @@
+The function NAND(a1, a2, ..., an) is logically equivalent to NOT(a1 AND a2 AND ... AND an).

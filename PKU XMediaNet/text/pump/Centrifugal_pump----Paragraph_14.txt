@@ -1,0 +1,1 @@
+    {\displaystyle Yth.g=H_{t}=c_{2}u.u_{2}-c_{1}u.u_{1}}

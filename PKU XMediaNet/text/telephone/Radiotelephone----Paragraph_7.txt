@@ -1,0 +1,1 @@
+Receivers usually features a squelch circuit to cut off the audio output from the receiver when there is no transmission to listen to. This is in contrast to broadcast receivers, which often dispense with this.

@@ -1,0 +1,1 @@
+   the mass of the rocket at the point of burnout of each stage.

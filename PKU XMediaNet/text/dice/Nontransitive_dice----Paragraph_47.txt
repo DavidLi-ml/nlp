@@ -1,0 +1,1 @@
+It is also possible to construct sets of nontransitive dodecahedra such that there are no repeated numbers and all numbers are primes. Miwin’s nontransitive prime-numbered dodecahedra win cyclically against each other in a ratio of 35:34.

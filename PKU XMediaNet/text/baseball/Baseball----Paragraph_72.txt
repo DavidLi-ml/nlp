@@ -1,0 +1,1 @@
+On-base percentage measures a batter's ability to get on base. It is calculated by taking the sum of the batter's successes in getting on base (hits plus walks plus hit by pitches) and dividing that by the batter's total plate appearances (at bats plus walks plus hit by pitches plus sacrifice flies), except for sacrifice bunts.

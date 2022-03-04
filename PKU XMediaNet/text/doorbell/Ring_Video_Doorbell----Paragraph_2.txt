@@ -1,0 +1,1 @@
+The app for Ring doorbell currently available on iOS, Android, and Windows 10 Mobile.

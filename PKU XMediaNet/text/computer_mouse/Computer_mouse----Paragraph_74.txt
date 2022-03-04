@@ -1,0 +1,1 @@
+Starting with Windows XP, Microsoft introduced a SDK for developing applications that allow multiple input devices to be used at the same time with independent cursors and independent input points.

@@ -1,0 +1,1 @@
+A team's score is reported in terms of the number of runs scored and the number of batsmen that have been dismissed. For example, if five batsmen are out and the team has scored 224 runs, they are said to have scored 224 for the loss of 5 wickets (commonly shortened to "224 for five" and written 224/5 or, in Australia, "five for 224" and 5/224).

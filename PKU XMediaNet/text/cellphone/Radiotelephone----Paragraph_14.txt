@@ -1,0 +1,1 @@
+Most shore stations monitor several frequencies. The frequencies with the longest range are usually near 20 MHz, but the ionospheric weather (propagation) can dramatically change which frequencies work best.

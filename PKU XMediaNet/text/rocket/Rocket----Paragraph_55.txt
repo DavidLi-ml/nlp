@@ -1,0 +1,1 @@
+As can be seen from the thrust equation, the effective speed of the exhaust controls the amount of thrust produced from a particular quantity of fuel burnt per second.

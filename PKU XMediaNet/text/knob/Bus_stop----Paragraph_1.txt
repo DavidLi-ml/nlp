@@ -1,0 +1,1 @@
+For operational purposes, there are three main kinds of stops: Scheduled stops, at which the bus should stop irrespective of demand; request stops (or flag stop), at which the vehicle will stop only on request; and hail and ride stops, at which a vehicle will stop anywhere along the designated section of road on request.

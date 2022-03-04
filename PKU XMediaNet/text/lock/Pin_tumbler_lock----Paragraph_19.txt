@@ -1,0 +1,1 @@
+This is an extension of the master-keyed system where each lock has its own individual key and the locks are divided into 2 or more groups. Each lock group is operated by a master-key and the entire system is operated by one grand master-key. This is ideally utilized in complex commercial systems.

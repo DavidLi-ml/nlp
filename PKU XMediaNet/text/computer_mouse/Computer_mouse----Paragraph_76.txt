@@ -1,0 +1,1 @@
+As of 2009, Linux distributions and other operating systems that use X.Org, such as OpenSolaris and FreeBSD, support 255 cursors/input points through Multi-Pointer X. However, currently no window managers support Multi-Pointer X leaving it relegated to custom software usage.

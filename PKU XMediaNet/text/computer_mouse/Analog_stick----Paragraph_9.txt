@@ -1,0 +1,1 @@
+In 1985, Sega's third-person rail shooter game Space Harrier, released for the arcades, introduced a true analog flight stick for movement. It could register movement in any direction as well as measure the degree of push, which could move the player character at different speeds depending on how far the joystick is pushed in a certain direction.

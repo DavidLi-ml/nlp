@@ -1,0 +1,1 @@
+In software engineering, mistake metamorphism (from Greek meta = "change", morph = "form") refers to the evolution of a defect in the final stage of software deployment. Transformation of a "mistake" committed by an analyst in the early stages of the software development lifecycle, which leads to a "defect" in the final stage of the cycle has been called 'mistake metamorphism'.

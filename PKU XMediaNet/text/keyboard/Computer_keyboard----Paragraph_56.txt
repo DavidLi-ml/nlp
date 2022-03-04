@@ -1,0 +1,1 @@
+Computer keyboards include control circuitry to convert key presses into key codes (usually scancodes) that the computer's electronics can understand. The key switches are connected via the printed circuit board in an electrical X-Y matrix where a voltage is provided sequentially to the Y lines and, when a key is depressed, detected sequentially by scanning the X lines.

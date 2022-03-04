@@ -1,0 +1,1 @@
+Geostationary orbit (GEO): A geosynchronous orbit with an inclination of zero. To an observer on the ground this satellite would appear as a fixed point in the sky.Clarke orbit: Another name for a geostationary orbit. Named after scientist and writer Arthur C. Clarke.

@@ -1,0 +1,1 @@
+Professional keyers use far more sophisticated functions. It is also very common for f() to depend on more than just the current pixel's color, it may also use the (x, y) position, the values of nearby pixels, the value from reference images, and values from user-drawn masks. These produce closed surfaces in a space with more than three dimensions.

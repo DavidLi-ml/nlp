@@ -1,0 +1,1 @@
+In 1911, Boris Rosing and his student Vladimir Zworykin created a system that used a mechanical mirror-drum scanner to transmit, in Zworykin's words, "very crude images" over wires to the "Braun tube" (cathode ray tube or "CRT") in the receiver. Moving images were not possible because, in the scanner: "the sensitivity was not enough and the selenium cell was very laggy".

@@ -1,0 +1,1 @@
+Experiments have also been made with unusual variant wheels, like the omniwheel or the mecanum wheel. These allow for a broader spectrum of movement.

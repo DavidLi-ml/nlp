@@ -1,0 +1,1 @@
+Because the range of each row is typically restricted to two complete octaves (with a few notes above and below), the inconsistent note pairing from one octave to the next remains manageable.

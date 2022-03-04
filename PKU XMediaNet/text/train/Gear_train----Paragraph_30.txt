@@ -1,0 +1,1 @@
+The number of teeth on a gear is proportional to the radius of its pitch circle, which means that the ratios of the gears' angular velocities, radii, and number of teeth are equal. Where NA is the number of teeth on the input gear and NB is the number of teeth on the output gear, the following equation is formed:

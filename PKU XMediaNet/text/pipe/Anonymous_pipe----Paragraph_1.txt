@@ -1,0 +1,1 @@
+Full-duplex (two-way) communication normally requires two anonymous pipes.

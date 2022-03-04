@@ -1,0 +1,1 @@
+The V.42, V.42bis and V.44 standards allow modems to accept uncompressed data at a rate faster than the line rate. These algorithms use data compression to achieve higher throughput.

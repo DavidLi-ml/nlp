@@ -1,0 +1,1 @@
+Elevators can be rope dependent or rope-free. There are at least four means of moving an elevator:

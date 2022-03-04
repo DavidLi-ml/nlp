@@ -1,0 +1,1 @@
+Cellular telephone services do not generate dial tones as no connection is made until the entire number has been specified and transmitted.

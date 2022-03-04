@@ -1,0 +1,1 @@
+Optical pickups are a type of pickup that sense string and body vibrations using infrared LED light. These pickups are not sensitive to EMI.

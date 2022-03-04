@@ -1,0 +1,1 @@
+These items define the characteristics of an intruder and when all three are detected simultaneously, an alarm signal is generated.

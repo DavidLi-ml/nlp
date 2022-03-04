@@ -1,0 +1,1 @@
+Early cameras used the PC serial port. USB is now the most widely used method (most cameras are viewable as USB mass storage), though some have a FireWire port. Some cameras use USB PTP mode for connection instead of USB MSC; some offer both modes.

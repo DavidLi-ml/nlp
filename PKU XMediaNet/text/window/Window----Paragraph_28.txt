@@ -1,0 +1,1 @@
+A multi-panel window, with at least three panels set at different angles to create a protrusion from the wall line.

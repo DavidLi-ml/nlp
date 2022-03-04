@@ -1,0 +1,1 @@
+Unspecified priority RW locks does not provide any guarantees with regards read vs. write access. Unspecified priority can in some situations be preferable if it allows for a more efficient implementation.

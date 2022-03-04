@@ -1,0 +1,1 @@
+The gaps are not seen in a simple snapshot of the locations of the asteroids at any one time because asteroid orbits are elliptical, and many asteroids still cross through the radii corresponding to the gaps. The actual spatial density of asteroids in these gaps does not differ significantly from the neighboring regions.

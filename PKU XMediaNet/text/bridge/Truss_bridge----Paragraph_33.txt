@@ -1,0 +1,1 @@
+A Post truss is a hybrid between a Warren truss and a double-intersection Pratt truss. Invented in 1863 by Simeon S. Post, it is occasionally referred to as a Post patent truss although he never received a patent for it. The Ponakin Bridge and the Bell Ford Bridge are two examples of this truss.

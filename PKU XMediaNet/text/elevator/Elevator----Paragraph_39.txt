@@ -1,0 +1,1 @@
+Elevator traffic simulation software can be used to model complex traffic patterns and elevator arrangements that cannot necessarily be analysed by RTT calculations.

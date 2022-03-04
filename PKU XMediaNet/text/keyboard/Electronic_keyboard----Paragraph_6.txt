@@ -1,0 +1,1 @@
+Computerized musical arranger: A software program which produces rhythms and chords by the means of computerized commands, typically MIDI. Electronic hardware can also do this.

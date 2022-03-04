@@ -1,0 +1,1 @@
+Microphones are referred to by their transducer principle, such as condenser, dynamic, etc., and by their directional characteristics. Sometimes other characteristics such as diaphragm size, intended use or orientation of the principal sound input to the principal axis (end- or side-address) of the microphone are used to describe the microphone.

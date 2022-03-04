@@ -1,0 +1,1 @@
+"D": Required for the transport of dangerous materials, requires all of the same checks as class P. In addition the driver must be over 25 at time of issue.

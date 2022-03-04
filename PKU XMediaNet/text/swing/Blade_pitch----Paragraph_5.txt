@@ -1,0 +1,1 @@
+It is quite common in aircraft for the propeller to be designed to vary pitch in flight, to give optimum thrust over the maximum amount of the aircraft's speed range, from takeoff and climb to cruise.

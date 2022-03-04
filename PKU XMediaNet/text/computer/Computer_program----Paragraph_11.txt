@@ -1,0 +1,1 @@
+In 1961, the Burroughs B5000 was built specifically to be programmed in the ALGOL 60 language. The hardware featured circuits to ease the compile phase.

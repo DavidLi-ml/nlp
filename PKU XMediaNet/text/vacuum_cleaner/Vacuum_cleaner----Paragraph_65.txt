@@ -1,0 +1,1 @@
+The airwatt is derived from English units. ASTM International defines the airwatt as 0.117354 × F × S, where F is the rate of air flow in ft3/min and S is the pressure in inches of water. This makes one airwatt equal to 0.9983 watts.

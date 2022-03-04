@@ -1,0 +1,1 @@
+A master-keyed system involves each lock having its own individual key which will not operate any other lock in the system, but where all locks can be operated by a single master-key. This is usually applied in commercial environments.

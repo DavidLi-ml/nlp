@@ -1,0 +1,1 @@
+Based on Eq.(1.13) Euler developed the head pressure equation created by the impeller see Fig.2.2

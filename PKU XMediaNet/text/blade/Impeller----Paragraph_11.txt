@@ -1,0 +1,1 @@
+Radial flow impellers impose essentially shear stress to the fluid, and are used, for example, to mix immiscible liquids or in general when there is a deformable interface to break. Another application of radial flow impellers are the mixing of very viscous fluids.

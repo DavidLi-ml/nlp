@@ -1,0 +1,1 @@
+During a nine-month period in 1842–43, Ada Lovelace translated the memoir of Italian mathematician Luigi Menabrea. The memoir covered the Analytical Engine. The translation contained Note G which completely detailed a method for calculating Bernoulli numbers using the Analytical Engine. This note is recognized by some historians as the world's first written computer program.

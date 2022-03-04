@@ -1,0 +1,1 @@
+In graphical computer applications, the enter or return key is often used to close and submit a form the user is editing. Usually the default "OK" or "Save" button on a form is highlighted and sometimes shows a Return symbol, giving a subtle visual clue that the user has the option of clicking the button or simply pressing Enter.

@@ -1,0 +1,1 @@
+As with positive displacement pumps, the base pressure will be reached when leakage, outgassing, and backstreaming equal the pump speed, but now minimizing leakage and outgassing to a level comparable to backstreaming becomes much more difficult.

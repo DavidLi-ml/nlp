@@ -1,0 +1,1 @@
+Wides (Wd): The number of wides bowled.

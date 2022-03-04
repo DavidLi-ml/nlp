@@ -1,0 +1,1 @@
+A traditional gravity assist can be compared to throwing a tennis ball at a train (it rebounds not just with incoming velocity, but is accelerated by the train), it uses the gravity of a planet and its relative motion around the Sun compared to the spacecraft. For example, Voyager 2 increased its velocity by performing gravity assists at Jupiter, Saturn, and Uranus.

@@ -1,0 +1,1 @@
+In web forms, the HTML element <input type="radio"> is used to display a radio button. Example:

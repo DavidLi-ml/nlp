@@ -1,0 +1,1 @@
+Because in most cases it is desirable to isolate coil-wound pickups from the unintended sound of internal vibration of loose coil windings, a guitar's magnetic pickups are normally embedded or "potted" in wax, lacquer, or epoxy to prevent the pickup from producing a microphonic effect.

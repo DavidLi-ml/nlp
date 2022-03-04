@@ -1,0 +1,1 @@
+To operate an electric match, a source of electricity of appropriate voltage and current is needed to provide current to the match. When sufficient electric current is passed through the bridgewire, the resistive heating causes the element to rise above the ignition temperature of the pyrogen, and the pyrogen begins to burn.

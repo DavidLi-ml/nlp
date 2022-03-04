@@ -1,0 +1,1 @@
+Declare a move N+1 (where N is the original total of moves) that beats all existing odd-numbered moves and loses to the others (for example, the rock (#1), scissors (#3), and lizard (#5) could fall into the German well (#6), while the paper (#2) covers it and Spock (#4) manipulates it).

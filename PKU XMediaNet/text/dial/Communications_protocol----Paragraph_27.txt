@@ -1,0 +1,1 @@
+In communications, message values are transferred using transmission media. By analogy, the equivalent of a store would be a collection of transmission media, instead of a collection of memory locations. A valid assignment in a protocol (as an analog of programming language) could be Ethernet:='message' , meaning a message is to be broadcast on the local ethernet.

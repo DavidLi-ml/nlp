@@ -1,0 +1,1 @@
+SHIFTSTATE (CONFIG.SYS directive)

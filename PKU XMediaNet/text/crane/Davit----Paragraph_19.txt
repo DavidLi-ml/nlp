@@ -1,0 +1,1 @@
+On-load: For this style of release mechanism, the lifeboat can be released at any point from the davit. This type of system allows a lifeboat to be released when it is not in the water, whether this is because of the emergency or an accident. Because of this, during an evacuation the release mechanism must be watched to make sure there is not an accidental activation. 

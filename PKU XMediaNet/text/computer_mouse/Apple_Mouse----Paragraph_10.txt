@@ -1,0 +1,1 @@
+Apple's first mice used a DE-9 connection carrying quadrature signals. As the personal computer was still in its infancy with no standards, Apple's mice could be used on any system capable of using such a quadrature mouse, in combination with a spliced cable or adapter as necessary.

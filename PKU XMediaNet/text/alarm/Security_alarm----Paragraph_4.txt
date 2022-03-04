@@ -1,0 +1,1 @@
+Sensors: Devices which detect intrusions. Sensors may be placed at the perimeter of the protected area, within it, or both. Sensors can detect intruders by a variety of methods, such as monitoring doors and windows for opening, or by monitoring unoccupied interiors for motions, sound, vibration, or other disturbances.

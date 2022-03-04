@@ -1,0 +1,1 @@
+Other words for bicycle include "bike", "pushbike", "pedal cycle", or "cycle". In Unicode, the code point for "bicycle" is 0x1F6B2. The entity &#x1F6B2; in HTML produces 🚲.

@@ -1,0 +1,1 @@
+The PC-link cable package included software to use the cable on an IBM-compatible PC, running under Windows 3.1. The software consisted of:

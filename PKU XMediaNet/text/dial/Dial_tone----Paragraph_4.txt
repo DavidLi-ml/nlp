@@ -1,0 +1,1 @@
+The modern dial tone varies between countries. The Precise Tone Plan for the North American Numbering Plan of the US, Canada, and Mexico specifies a combination of two tones (350 Hz and 440 Hz) which when mixed appear to have a modulation at 90 Hz. These two tones are also used as a dial tone in the UK but most of Europe uses a constant single tone of 425 Hz.

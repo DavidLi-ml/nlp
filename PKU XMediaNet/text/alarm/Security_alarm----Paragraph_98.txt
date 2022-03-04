@@ -1,0 +1,1 @@
+The first alarm-verification call goes to the location the alarm originated. If contact with a person is not made a second call is placed to a different number. The secondary number, best practices dictate, should be to a telephone that is answered even after hours, preferably a cellular phone of a decision maker authorized to request or bypass emergency response.

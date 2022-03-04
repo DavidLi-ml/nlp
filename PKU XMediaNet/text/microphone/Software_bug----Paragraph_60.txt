@@ -1,0 +1,1 @@
+Resource leaks, where a finite system resource (such as memory or file handles) become exhausted by repeated allocation without release.

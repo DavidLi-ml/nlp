@@ -1,0 +1,1 @@
+Hold button: This button delays the door closing timer, useful for loading freight and hospital beds.

@@ -1,0 +1,1 @@
+Below is the energy balance equation of the rate of energy lost of a solar balloon when drawing the boundary line around the balloon. The Solar Balloon experiences heat transfer due to convection and heat transfer due to radiation.

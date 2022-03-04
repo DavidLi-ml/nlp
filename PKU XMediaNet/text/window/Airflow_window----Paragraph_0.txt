@@ -1,0 +1,1 @@
+An airflow window is composed of at least two panes of glass and a cavity between them that allows the flow of ventilation air. They operate on similar principles to a double-skin facade, but on a smaller scale.  The general idea is to improve the energy efficiency of a cavity window by heating or cooling the cavity with ventilation air.

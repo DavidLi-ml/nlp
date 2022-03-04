@@ -1,0 +1,1 @@
+Some decks incorporated microprocessor programs to adjust tape bias and record level calibration automatically.

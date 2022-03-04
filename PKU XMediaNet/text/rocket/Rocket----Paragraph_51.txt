@@ -1,0 +1,1 @@
+   is more or less the speed the exhaust leaves the vehicle, and in the vacuum of space, the effective exhaust velocity is often equal to the actual average exhaust speed along the thrust axis. However, the effective exhaust velocity allows for various losses, and notably, is reduced when operated within an atmosphere.

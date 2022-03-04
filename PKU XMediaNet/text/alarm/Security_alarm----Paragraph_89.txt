@@ -1,0 +1,1 @@
+Some of the features of CP-01 keypads include a progress annunciation function that emits a different sound during the last 10 seconds of delay, which hastens exit from the premises. Also, the exit time doubles if the user disables the pre-warning feature.

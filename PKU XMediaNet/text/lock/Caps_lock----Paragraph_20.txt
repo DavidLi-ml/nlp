@@ -1,0 +1,1 @@
+c2:CapsLockOff—describes how to remap the Caps Lock key for other purposes.

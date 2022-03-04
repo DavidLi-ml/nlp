@@ -1,0 +1,1 @@
+A non-standard CEA resolution exists in some countries such as 1440×1080i: 777,600 pixels (~0.78 MP) per field or 1,555,200 pixels (~1.56 MP) per frame

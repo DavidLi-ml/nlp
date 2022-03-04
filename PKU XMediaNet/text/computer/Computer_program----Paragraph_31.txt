@@ -1,0 +1,1 @@
+An application suite consists of multiple applications bundled together. Examples include Microsoft Office, LibreOffice and iWork. They bundle a word processor, spreadsheet, and other applications.

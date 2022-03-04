@@ -1,0 +1,1 @@
+disadvantage: extremely sensitive to weather as rain, snow and fog for example would cause the sensors to stop working, need sterile perimeter line because trees, bushes or anything that blocks the beam would cause false alarm or lack of detection.

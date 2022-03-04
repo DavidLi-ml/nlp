@@ -1,0 +1,1 @@
+The FrogPad is a 20-key chorded keyboard about the size of a numeric keypad that can be used with one hand, and is optimized by character frequency. 85% of average keystrokes in English text can be typed without chording, and chords are limited to 2 fingers.

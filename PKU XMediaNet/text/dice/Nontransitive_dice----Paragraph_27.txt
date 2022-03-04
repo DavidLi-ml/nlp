@@ -1,0 +1,1 @@
+Like Miwin’s set, the probability of A winning versus B (or B vs. C, C vs. A) is 17/36. The probability of a draw, however, is 4/36, so that only 15 out of 36 rolls lose. So the overall winning expectation is higher.

@@ -1,0 +1,1 @@
+Decode the numerical code for the instruction into a set of commands or signals for each of the other systems.

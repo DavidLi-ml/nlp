@@ -1,0 +1,1 @@
+Enter wraps to the next line or activates the default or selected option. ASCII keyboards were labeled CR or Return. Typewriters used a lever that would return the cylinder with the paper to the start of the line.

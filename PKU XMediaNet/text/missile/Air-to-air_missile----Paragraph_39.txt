@@ -1,0 +1,1 @@
+This is the slant range between the launch aircraft and target at the time that the missile begins active guidance or acquires the target with the missile's active seeker. The greater the A-Pole means less time and possibly greater distance that the launch aircraft needs to support the missile guidance until missile seeker acquisition.

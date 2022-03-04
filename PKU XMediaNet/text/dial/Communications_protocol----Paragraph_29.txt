@@ -1,0 +1,1 @@
+By extending the assignment statement of an existing programming language with the semantics described, a protocolling language could easily be imagined.

@@ -1,0 +1,1 @@
+ASETNIOP is a virtual keyboard based on chords that appeared in 2012. The alphabet uses the 8 keys of the home row as ASET and NIOP (the eight most common letters in the English language), plus 18 chorded combinations. The layout also makes a less-cluttered 10-button keypad for tablet computers, touchscreens, touchpads, and can be used in wired gloves.

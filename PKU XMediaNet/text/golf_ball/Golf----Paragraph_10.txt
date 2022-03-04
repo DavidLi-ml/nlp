@@ -1,0 +1,1 @@
+Every round of golf is based on playing a number of holes in a given order. A "round" typically consists of 18 holes that are played in the order determined by the course layout. Each hole is played once in the round on a standard course of 18 holes; on a nine-hole course, players may play a "short game" playing each hole once, or a "full round" by playing each hole twice.

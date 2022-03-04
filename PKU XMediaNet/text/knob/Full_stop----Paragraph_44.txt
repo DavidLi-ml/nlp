@@ -1,0 +1,1 @@
+Urdu uses the "۔" (U+06D4) symbol.

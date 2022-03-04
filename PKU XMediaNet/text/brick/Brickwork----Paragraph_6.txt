@@ -1,0 +1,1 @@
+In this case the co-ordinating metric works because the length of a single brick (215 mm) is equal to the total of the width of a brick (102.5 mm) plus a perpend (10 mm) plus the width of a second brick (102.5 mm).

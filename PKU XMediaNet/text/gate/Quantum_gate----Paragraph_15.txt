@@ -1,0 +1,1 @@
+  . It is represented by the Pauli Y matrix:

@@ -1,0 +1,1 @@
+23.976 Hz (film-looking frame rate compatible with NTSC clock speed standards)

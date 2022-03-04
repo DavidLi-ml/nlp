@@ -1,0 +1,1 @@
+Degrees Of Freedom (DOF): The number of independent motions in which the end effector can move, defined by the number of axes of motion of the manipulator.

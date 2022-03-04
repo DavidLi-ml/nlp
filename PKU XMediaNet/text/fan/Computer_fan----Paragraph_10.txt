@@ -1,0 +1,1 @@
+Expansion slot fan –  a fan mounted in one of the PCI or PCI Express slots, usually to supply additional cooling to the graphics cards, or to expansion cards in general.

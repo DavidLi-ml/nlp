@@ -1,0 +1,1 @@
+The backup programs for DOS as well as Windows didn't support long file names. Also, because the tape ran at its usual speed, it took 90 minutes to record approximately 250 Megabytes of uncompressed data. These properties made the backup programs relatively uninteresting for users.

@@ -1,0 +1,1 @@
+This definition is used by the International Federation of Robotics, the European Robotics Research Network (EURON) and many national standards committees.

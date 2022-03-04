@@ -1,0 +1,1 @@
+Stationary recorders that had simple fourteen-segment displays, all track information was converted to upper case. They could display symbols that were impossible to enter with their own track info editors (such as the apostrophe).

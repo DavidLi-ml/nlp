@@ -1,0 +1,1 @@
+The fundamental concept of Turing's design is stored program, where all instruction for computing is stored in the memory.

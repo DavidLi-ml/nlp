@@ -1,0 +1,1 @@
+The figure on the left shows a one-third octave band spectrum taken under a glider flyover; the tone is 15 dB above the broad band sound. The aircraft speed U was 51 m/s (170 ft/s) and the frequency was near 1400 Hz.

@@ -1,0 +1,1 @@
+Angle modulation alters the instantaneous phase of the carrier wave to transmit a signal. It may be either FM or phase modulation (PM).

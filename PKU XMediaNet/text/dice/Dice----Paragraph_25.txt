@@ -1,0 +1,1 @@
+Fudge dice are cubical dice featuring two sides marked with plus signs, two with minus signs, and two blank. These are rolled in groups of four, with each plus sign adding to the total, while each minus sign reduces it; blank sides are ignored. This generates a range between –4 and +4. They are also used in the Fate role-playing game.

@@ -1,0 +1,1 @@
+A key recovery program is a program that is designed to read and decrypt and/or de-obfuscate the key to its original state. When the key is returned to its original state, it may be used to reinstall its corresponding software.

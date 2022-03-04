@@ -1,0 +1,1 @@
+In an ideal gas turbine, gases undergo three thermodynamic processes: an isentropic compression, an isobaric (constant pressure) combustion and an isentropic expansion. Together, these make up the Brayton cycle.

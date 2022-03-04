@@ -1,0 +1,1 @@
+where CL and CD are lift coefficient and drag coefficient respectively.

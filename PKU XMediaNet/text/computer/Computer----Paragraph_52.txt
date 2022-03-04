@@ -1,0 +1,1 @@
+These 4G languages are less procedural than 3G languages. The benefit of 4GL is that it provides ways to obtain information without requiring the direct help of a programmer. Example of 4GL is SQL.

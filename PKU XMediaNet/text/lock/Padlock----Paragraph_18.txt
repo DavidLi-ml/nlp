@@ -1,0 +1,1 @@
+While executing secure transactions on the web, the submitted information is encrypted using public-key cryptography. Some web browsers display a locked padlock icon while using the HTTPS protocol. Wikipedia also uses this icon on its protected pages.

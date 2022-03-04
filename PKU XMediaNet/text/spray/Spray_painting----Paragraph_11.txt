@@ -1,0 +1,1 @@
+Post-atomization charging: The atomized fluid comes into contact with an electrostatic field downstream of the outlet nozzle. The electrostatic field may be created by electrostatic induction or corona, or by one or more electrodes (electrode ring, mesh or grid).

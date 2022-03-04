@@ -1,0 +1,1 @@
+The color triangle formed by velocity vector u,c,w called "velocity triangle". this is an important role in old academic, this rule was helpful to detail Eq.(1) become Eq.(2) and wide explained how the pump works.

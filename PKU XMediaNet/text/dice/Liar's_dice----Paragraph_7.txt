@@ -1,0 +1,1 @@
+Instead of the current player being the only one who can raise the bet, challenge (or "call up") the previously-made bid, any player may raise or challenge a bid at any time. The first challenge made ends the round, and the challenger closest to the current bidder in the direction of play has priority if multiple players challenge at the same time.

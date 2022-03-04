@@ -1,0 +1,1 @@
+Pick-up strength and retain strength can be specified separately, as well as the delay between pick-up and return.

@@ -1,0 +1,1 @@
+Different types of nozzle are available for different application. Some nozzles create a water jet that is in a triangular plane (fan pattern), others emit a thin jet of water that spirals around rapidly (cone pattern). Nozzles that deliver a higher flow rate lower the output pressure. Most nozzles attach directly to the trigger gun.

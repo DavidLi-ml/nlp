@@ -1,0 +1,1 @@
+    {\displaystyle {\frac {P_{T1}}{P_{T2}}}={\frac {\rho _{1}}{\rho _{2}}}\lambda ^{3.5}}

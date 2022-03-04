@@ -1,0 +1,1 @@
+The bowstring arch through truss bridge was patented in 1841 by Squire Whipple. While similar in appearance to a tied-arch bridge, a bowstring truss is a truss and thus has diagonal load-bearing members. These diagonals result in a structure that more closely matches a Parker truss or Pratt truss than a true arch.

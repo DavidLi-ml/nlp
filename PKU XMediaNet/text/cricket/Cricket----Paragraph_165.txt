@@ -1,0 +1,1 @@
+No balls (Nb): The number of no balls bowled.

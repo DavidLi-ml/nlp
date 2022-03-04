@@ -1,0 +1,1 @@
+One criticism of imperative languages is the side effect of an assignment statement on a class of variables called non-local variables.

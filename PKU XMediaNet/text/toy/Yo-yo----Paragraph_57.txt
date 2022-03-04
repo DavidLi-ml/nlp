@@ -1,0 +1,1 @@
+Yo-yos with a higher moment of inertia will have more angular momentum when spinning at a given speed, and thus will spin freely for a longer period.

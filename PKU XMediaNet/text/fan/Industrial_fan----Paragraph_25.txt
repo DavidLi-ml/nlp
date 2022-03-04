@@ -1,0 +1,1 @@
+Surgeless blowers – These high-pressure, low-volume blowers have a reduced tendency for “surging” (periodic variation of flow rate) even at severely reduced fan speeds. This allows extreme turndown (low-flow) without significant pulsation.

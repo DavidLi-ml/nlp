@@ -1,0 +1,1 @@
+Mild steel bolts have property class 4.6, with is 400 MPa ultimate strength and 0.6*400=240 MPa yield strength. High-strength steel bolts have property class 8.8, which is 800 MPa ultimate strength and 0.8*800=640 MPa yield strength or above.

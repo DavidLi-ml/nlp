@@ -1,0 +1,1 @@
+A workaround common to users of two-button mice in environments designed for three buttons is mouse chording, to simulate a tertiary-click by pressing both buttons simultaneously.

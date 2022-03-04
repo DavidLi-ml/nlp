@@ -1,0 +1,1 @@
+DVDs use compressed audio formats such as Dolby Digital and DTS for multichannel sound. Most LaserDiscs were encoded with stereo (often Dolby Surround) CD quality audio 16bit/44.1 kHz tracks as well as analog audio tracks.

@@ -1,0 +1,1 @@
+For IA-64 architecture, EPC (Enter Privileged Code) instruction is used. The first eight system call arguments are passed in registers, and the rest are passed on the stack.

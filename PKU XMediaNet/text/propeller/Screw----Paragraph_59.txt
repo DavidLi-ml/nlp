@@ -1,0 +1,1 @@
+While not related to ISO metric screws, the sizes were actually defined in metric terms, a 0BA thread having a 6 mm diameter and 1 mm pitch. Other threads in the BA series are related to 0BA in a geometric series with the common factors 0.9 and 1.2. For example, a 4BA thread has pitch 

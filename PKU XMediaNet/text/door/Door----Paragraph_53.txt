@@ -1,0 +1,1 @@
+A remote sensor (e.g. based on infrared or radio waves) can be triggered by a portable remote control, or is installed inside a vehicle. These are popular for garage doors.

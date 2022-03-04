@@ -1,0 +1,1 @@
+   unique words, preferably ones the user will find easy to spell and to remember. The contents of the word list do not have to be protected or concealed in any way, as the security of a Diceware passphrase is in the number of words selected, and the number of words each selected word could be taken from.

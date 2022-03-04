@@ -1,0 +1,1 @@
+These performance ratios can also be used as references for how efficient a rocket system will be when performing optimizations and comparing varying configurations for a mission.

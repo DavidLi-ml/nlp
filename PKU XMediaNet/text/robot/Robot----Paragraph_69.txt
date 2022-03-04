@@ -1,0 +1,1 @@
+Mass-produced printed circuit boards (PCBs) are almost exclusively manufactured by pick-and-place robots, typically with SCARA manipulators, which remove tiny electronic components from strips or trays, and place them on to PCBs with great accuracy. Such robots can place hundreds of thousands of components per hour, far out-performing a human in speed, accuracy, and reliability.

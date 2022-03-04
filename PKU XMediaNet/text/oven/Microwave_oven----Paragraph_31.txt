@@ -1,0 +1,1 @@
+All microwaves use a timer for the cooking time, at the end of cooking time, the oven switches itself off.

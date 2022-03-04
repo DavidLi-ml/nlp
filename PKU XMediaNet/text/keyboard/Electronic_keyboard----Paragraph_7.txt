@@ -1,0 +1,1 @@
+Sound generator/sound chip: An electronic sound module typically contained within an integrated circuit or chip, which is capable of accepting MIDI commands and producing sounds. Keyboard sound generators are mostly based on PCM synth.

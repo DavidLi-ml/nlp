@@ -1,0 +1,1 @@
+An operating system is a computer program that acts as an intermediary between a user of a computer and the computer hardware. 

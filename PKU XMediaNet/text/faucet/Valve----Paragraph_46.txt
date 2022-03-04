@@ -1,0 +1,1 @@
+Some fluid system designs, especially in chemical or power plants, are schematically represented in piping and instrumentation diagrams. In such diagrams, different types of valves are represented by certain symbols.

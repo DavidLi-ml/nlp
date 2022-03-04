@@ -1,0 +1,1 @@
+If no specific OR gates are available, one can be made from NAND or NOR gates in the configuration shown in the image below. Any logic gate can be made from a combination of NAND or NOR gates.

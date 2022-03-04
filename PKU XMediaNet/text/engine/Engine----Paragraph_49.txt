@@ -1,0 +1,1 @@
+This formula with linear forces and speeds can be used equally well for both engines outputting thrust and engines exerting torque.

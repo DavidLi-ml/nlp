@@ -1,0 +1,1 @@
+As proven above, die A beats B two-thirds of the time but beats D only one-third of the time. The probability of die A beating C is 4/9 (A must roll 4 and C must roll 2). So the likelihood of A beating any other randomly selected die is:

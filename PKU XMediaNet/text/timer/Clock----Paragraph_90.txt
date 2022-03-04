@@ -1,0 +1,1 @@
+A clock mechanism may be used to control a device according to time, e.g. a central heating system, a VCR, or a time bomb (see: digital counter). Such mechanisms are usually called timers. Clock mechanisms are also used to drive devices such as solar trackers and astronomical telescopes, which have to turn at accurately controlled speeds to counteract the rotation of the Earth.

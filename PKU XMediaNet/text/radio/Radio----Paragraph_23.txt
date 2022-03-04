@@ -1,0 +1,1 @@
+The power consumed in a transmitting station varies depending on the distance of communication and the transmission conditions. The power received at the receiving station is usually only a tiny fraction of the transmitter's output, since communication depends on receiving the information, not the energy, that was transmitted.

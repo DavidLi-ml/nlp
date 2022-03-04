@@ -1,0 +1,1 @@
+Often cash registers are attached to scales, barcode scanners, checkstands, and debit card or credit card terminals. Increasingly, dedicated cash registers are being replaced with general purpose computers with POS software. Cash registers use bitmap characters for printing.

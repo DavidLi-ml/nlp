@@ -1,0 +1,1 @@
+Tractive Effort is defined as the average force developed during one revolution of the driving wheels at the rail head. This is expressed as:

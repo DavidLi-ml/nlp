@@ -1,0 +1,1 @@
+Normal probability paper is another graph paper with rectangles of variable widths. It is designed so that "the graph of the normal distribution function is represented on it by a straight line", i.e. it can be used for a normal probability plot.

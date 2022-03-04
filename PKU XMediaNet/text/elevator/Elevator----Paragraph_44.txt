@@ -1,0 +1,1 @@
+The widespread availability of variable frequency AC drives has allowed AC motors to be used universally, bringing with it the advantages of the older motor-generator, DC-based systems, without the penalties in terms of efficiency and complexity. The older MG-based installations are gradually being replaced in older buildings due to their poor energy efficiency.

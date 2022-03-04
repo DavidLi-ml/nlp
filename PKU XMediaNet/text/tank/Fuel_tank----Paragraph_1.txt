@@ -1,0 +1,1 @@
+Storage of fuel: the system must contain a given quantity of fuel and must avoid leakage and limit evaporative emissions.

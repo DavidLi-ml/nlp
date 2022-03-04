@@ -1,0 +1,1 @@
+Fans generate noise from the rapid flow of air around blades and obstacles, and sometimes from the motor. Fan noise has been found to be roughly proportional to the fifth power of fan speed; halving speed reduces noise by about 15 dB.

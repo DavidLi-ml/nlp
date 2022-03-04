@@ -1,0 +1,1 @@
+As a crude example, each finger might control one key which corresponds to one bit in a byte, so that using seven keys and seven fingers, one could enter any character in the ASCII set—if the user could remember the binary codes. Due to the small number of keys required, chording is easily adapted from a desktop to mobile environment.

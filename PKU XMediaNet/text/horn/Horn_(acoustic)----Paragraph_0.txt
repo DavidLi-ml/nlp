@@ -1,0 +1,1 @@
+An acoustic horn or waveguide is a tapered sound guide designed to provide an acoustic impedance match between a sound source and free air. This has the effect of maximizing the efficiency with which sound waves from the particular source are transferred to the air. Conversely, a horn can be used at the receiving end to optimize the transfer of sound from the air to a receiver.

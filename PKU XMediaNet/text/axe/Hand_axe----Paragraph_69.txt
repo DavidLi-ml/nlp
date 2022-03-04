@@ -1,0 +1,1 @@
+Elongation index: which separates common bifaces from the short (and, occasionally, from the elongated). For example, within the family of Oval bifaces the index is able to distinguish between discoidal bifaces and other types; in the Almond-shaped bifaces it can be used to recognize lanceolate or micoquien bifaces. The index is calculated using L/m and the thresholds are:

@@ -1,0 +1,1 @@
+the 12-hour notation with AM/PM indicator, with hours indicated as 12AM, followed by 1AM–11AM, followed by 12PM, followed by 1PM–11PM (a notation mostly used in domestic environments).

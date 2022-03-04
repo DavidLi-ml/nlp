@@ -1,0 +1,1 @@
+Slugging percentage measures a batter's ability to hit for power. It is calculated by taking the batter's total bases (one per each single, two per double, three per triple, and four per home run) and dividing that by the batter's at bats.

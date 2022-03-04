@@ -1,0 +1,1 @@
+Hexagonal paper shows regular hexagons instead of squares. These can be used to map geometric tiled or tesselated designs among other uses

@@ -1,0 +1,1 @@
+Most HDTV systems support resolutions and frame rates defined either in the ATSC table 3, or in EBU specification. The most common are noted below.

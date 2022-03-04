@@ -1,0 +1,1 @@
+Slab avalanche hazard analysis can be done using the Rutschblock Test. A 2 m wide block of snow is isolated from the rest of the slope and progressively loaded. The result is a rating of slope stability on a seven step scale. (Rutsch means slide in German).

@@ -1,0 +1,1 @@
+Electrical resonance of tuned circuits in radios allow individual stations to be selected. A resonant circuit will respond strongly to a particular frequency, and much less so to differing frequencies. This allows the radio receiver to discriminate between multiple signals differing in frequency.

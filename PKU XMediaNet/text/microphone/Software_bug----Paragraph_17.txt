@@ -1,0 +1,1 @@
+Different stages of a "mistake" in the entire cycle may be described as "mistakes", "anomalies", "faults", "failures", "errors", "exceptions", "crashes", "bugs", "defects", "incidents", or "side effects".

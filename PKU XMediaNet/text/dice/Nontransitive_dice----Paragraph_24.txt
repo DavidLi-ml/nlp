@@ -1,0 +1,1 @@
+For rolling high number, B beats A, C beats B, D beats C, A beats D.

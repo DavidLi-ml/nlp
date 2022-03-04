@@ -1,0 +1,1 @@
+In 2012 Sandia National Laboratories announced a self-guided bullet prototype that could track a target illuminated with a laser designator. The bullet is capable of updating its position 30 times a second and hitting targets over a mile away.

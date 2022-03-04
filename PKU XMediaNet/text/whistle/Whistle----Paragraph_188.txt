@@ -1,0 +1,1 @@
+  , is fixed. The effective length of the tube is fixed since the radiation impedances at each end are fixed. Unlike the pipe organ, however, these instruments have side ports to change the resonance frequency and thus the acoustical Strouhal number.

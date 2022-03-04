@@ -1,0 +1,1 @@
+The characteristics of a tank are determined by the performance criteria required for the tank. The obstacles that must be traversed affect the vehicles front and rear profiles. The terrain that is expected to be traversed determines the track ground pressure that may be allowed to be exerted for that particular terrain.

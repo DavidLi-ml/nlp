@@ -1,0 +1,1 @@
+Multiple lines of the same computer program may be simultaneously executed using threads. Multithreading processors are optimized to execute multiple threads efficiently.

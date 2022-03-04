@@ -1,0 +1,1 @@
+For four strings, the 5th fret on one string is the same open-note as the next string; for example, a 5th-fret note on the sixth string is the same note as the open fifth string. However, between the second and third strings, an irregularity occurs: The 4th-fret note on the third string is equivalent to the open second string.

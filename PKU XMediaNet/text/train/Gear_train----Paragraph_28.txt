@@ -1,0 +1,1 @@
+The simplest example of a gear train has two gears. The "input gear" (also known as drive gear) transmits power to the "output gear" (also known as driven gear). The input gear will typically be connected to a power source, such as a motor or engine. In such an example, the power output of the output (driven) gear depends on the ratio of the dimensions of the two gears.

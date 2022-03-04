@@ -1,0 +1,1 @@
+Active sonar uses the reflection of sound emitted from the search equipment to detect submarines. It has been used since WWII by surface ships, submarines and aircraft (via dropped buoys and helicopter "dipping" arrays), but it reveals the emitter's position, and is susceptible to counter-measures.

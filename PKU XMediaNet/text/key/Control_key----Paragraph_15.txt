@@ -1,0 +1,1 @@
+In Quickbooks, the Control Key is used to validate login credentials during OLSU 1016 and OLSU 1013 errors. Keeping it depressed while sending information to the Quickbooks servers fixes the errors.

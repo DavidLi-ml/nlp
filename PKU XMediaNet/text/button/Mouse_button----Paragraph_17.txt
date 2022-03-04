@@ -1,0 +1,1 @@
+Scrollmice almost always mount their scroll wheels on an internal spring-loaded frame and switch, so that simply pushing down makes them work as an extra button, made easier to do without accidentally spinning it by wheel detents present in most scrollmice. Thus most mice today effectively have three buttons.

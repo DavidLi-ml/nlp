@@ -1,0 +1,1 @@
+In Unix-like systems and Microsoft Windows, the dot character represents the working directory of the file system. Two dots (..) represent the parent directory of the working directory.

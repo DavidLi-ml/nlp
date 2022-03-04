@@ -1,0 +1,1 @@
+One can verify that A beats {B,C,E}; B beats {C,D,F}; C beats {D,E,G}; D beats {A,E,F}; E beats {B,F,G}; F beats {A,C,G}; G beats {A,B,D}. Consequently, for arbitrarily chosen two dice there is a third one that beats both of them. Namely,

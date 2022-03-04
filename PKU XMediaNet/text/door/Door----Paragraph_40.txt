@@ -1,0 +1,1 @@
+It is often useful to have doors which slide along tracks, often for space or aesthetic considerations.

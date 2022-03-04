@@ -1,0 +1,1 @@
+The first version is used for dynamic similarity of the fluid motion in whistles while the second version is used for dynamic similarity of the acoustical motion in whistles. Many whistles, especially those with Class III feedback, require use of both numbers (see (Monopole-Dipole Whistles). The acoustical Strouhal number is essentially the Helmholtz number with the 

@@ -1,0 +1,1 @@
+The motorcyclist's riding position depends on rider body-geometry (anthropometry) combined with the geometry of the motorcycle itself. These factors create a set of three basic postures.

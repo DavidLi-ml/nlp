@@ -1,0 +1,1 @@
+Takeoff Distance Available – The length of the takeoff run available plus the length of the clearway, if clearway is provided.

@@ -1,0 +1,1 @@
+Strong tones can occur in both rectangular and circular jets when the pressure ratio is greater than the critical and the flow becomes supersonic on exit, resulting in a sequence of repetitive shock cells. These cells can be seen in the exhaust of rockets or jets operating with an afterburner. As with subsonic jets, these flows can be unstable.

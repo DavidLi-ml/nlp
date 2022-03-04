@@ -1,0 +1,1 @@
+Output power limits may also depend on the mode of transmission. In Australia, for example, 400 W may be used for SSB transmissions, but FM and other modes are limited to 120 W.

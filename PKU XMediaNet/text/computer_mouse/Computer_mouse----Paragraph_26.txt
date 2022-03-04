@@ -1,0 +1,1 @@
+Combination of left or right-click and the mouse wheel.

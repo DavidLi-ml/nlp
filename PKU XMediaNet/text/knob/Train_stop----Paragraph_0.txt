@@ -1,0 +1,1 @@
+Part of a railway signalling system, a train stop, trip stop or tripcock (sometimes called a tripper) is a train protection device that automatically stops a train if it attempts to pass a signal when the signal aspect and operating rules prohibit such movement, or (in some applications) if it attempts to pass at an excessive speed.

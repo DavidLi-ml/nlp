@@ -1,0 +1,1 @@
+Oxide glass: alumina 90% + germanium oxide (GeO2) 10%. Extremely clear glass, used for fiber-optic waveguides in communication networks. Light loses only 5% of its intensity through 1 km of glass fiber. Most optical fiber is based on silica, as are all the glasses above.

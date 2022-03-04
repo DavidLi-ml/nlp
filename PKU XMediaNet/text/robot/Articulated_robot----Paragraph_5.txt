@@ -1,0 +1,1 @@
+Gripper: A device for grasping or holding, attached to the free end of the last manipulator link; also called the robot’s hand or end-effector.

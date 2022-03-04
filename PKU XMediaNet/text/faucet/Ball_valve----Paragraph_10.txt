@@ -1,0 +1,1 @@
+In Reduced port (more commonly known as reduced bore) ball valves, flow through the valve is one pipe size smaller than the valve's pipe size resulting in flow area being smaller than pipe. As the flow discharge remains constant and is equal to area of flow (A) times velocity (V), 

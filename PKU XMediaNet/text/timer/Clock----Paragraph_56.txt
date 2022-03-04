@@ -1,0 +1,1 @@
+In early mechanical clocks before 1657, it was a crude balance wheel or foliot which was not a harmonic oscillator because it lacked a balance spring. As a result, they were very inaccurate, with errors of perhaps an hour a day.

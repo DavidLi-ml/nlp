@@ -1,0 +1,1 @@
+Group of attributes defined by name. In one group can be chosen only one radio button.

@@ -1,0 +1,1 @@
+But more typically, the first step in locating a bug is to reproduce it reliably. Once the bug is reproduced, the programmer may use a debugger or some other tool to monitor the execution of the program in the faulty region, and find the point at which the program went astray.

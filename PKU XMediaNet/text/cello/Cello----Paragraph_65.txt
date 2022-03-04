@@ -1,0 +1,1 @@
+Metronomes provide a steady tempo by sounding out a certain number of beats per minute.

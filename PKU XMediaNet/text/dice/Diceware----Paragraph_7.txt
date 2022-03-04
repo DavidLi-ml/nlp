@@ -1,0 +1,1 @@
+Key size discusses how many bits of key are considered "secure".

@@ -1,0 +1,1 @@
+A Whipple truss, named after its inventor Squire Whipple, is usually considered a subclass of the Pratt truss because the diagonal members are designed to work in tension. The main characteristic of a Whipple truss is that the tension members are elongated, usually thin, and at a shallow angle, and cross two or more bays (rectangular sections defined by the vertical members).

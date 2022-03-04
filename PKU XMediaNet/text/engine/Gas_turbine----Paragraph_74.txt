@@ -1,0 +1,1 @@
+When external combustion is used, it is possible to use exhaust air from the turbine as the primary combustion air. This effectively reduces global heat losses, although heat losses associated with the combustion exhaust remain inevitable.

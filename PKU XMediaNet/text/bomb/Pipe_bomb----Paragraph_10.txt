@@ -1,0 +1,1 @@
+Pipe bombs can fail to explode if the gas pressure buildup is too slow, resulting in bleed-out through the detonator ignition hole. Insufficiently tight threading can also bleed gas pressure through the threads faster than the chemical reaction pressure can rise.

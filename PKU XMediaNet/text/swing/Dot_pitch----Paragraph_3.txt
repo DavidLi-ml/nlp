@@ -1,0 +1,1 @@
+The exact difference between horizontal and diagonal dot pitch varies with the design of the monitor (see pixel geometry and widescreen), but a typical entry-level 0.28 mm (diagonal) monitor has a horizontal pitch of 0.24 or 0.25 mm, a good quality 0.26 mm (diagonal) unit has a horizontal pitch of 0.22 mm.

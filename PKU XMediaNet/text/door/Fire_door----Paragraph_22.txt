@@ -1,0 +1,1 @@
+The self-closing device is operational; that is, the active door completely closes when operated from the full open position.

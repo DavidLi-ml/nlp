@@ -1,0 +1,1 @@
+A radio communication system sends signals by radio. Types of radio communication systems deployed depend on technology, standards, regulations, radio spectrum allocation, user requirements, service positioning, and investment.

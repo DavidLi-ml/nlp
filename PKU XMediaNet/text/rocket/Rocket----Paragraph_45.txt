@@ -1,0 +1,1 @@
+In addition, the inertia and centrifugal pseudo-force can be significant due to the path of the rocket around the center of a celestial body; when high enough speeds in the right direction and altitude are achieved a stable orbit or escape velocity is obtained.

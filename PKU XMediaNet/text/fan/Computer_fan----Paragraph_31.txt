@@ -1,0 +1,1 @@
+If a fan is not desirable, because of noise, reliability, or environmental concerns, there are some alternatives. Some improvement can be achieved by eliminating all fans except one in the power supply which also draws hot air out of the case.

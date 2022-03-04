@@ -1,0 +1,1 @@
+For some scientific work timing of the utmost accuracy is essential. It is also necessary to have a standard of the maximum accuracy against which working clocks can be calibrated. An ideal clock would give the time to unlimited accuracy, but this is of course not realisable.

@@ -1,0 +1,1 @@
+1. Initial stages should have lower Isp, and later/final stages should have higher Isp.

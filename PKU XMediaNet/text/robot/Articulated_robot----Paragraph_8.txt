@@ -1,0 +1,1 @@
+Reach: The maximum horizontal distance from the center of the robot base to the end of its wrist.

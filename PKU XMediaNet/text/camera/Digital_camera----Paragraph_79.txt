@@ -1,0 +1,1 @@
+In January 2008, Silicon Image announced a new technology for sending video from mobile devices to a television in digital form. MHL sends pictures as a video stream, up to 1080p resolution, and is compatible with HDMI.

@@ -1,0 +1,1 @@
+There are several ways of connecting a keyboard to a system unit (more precisely, to its keyboard controller) using cables, including the standard AT connector commonly found on motherboards, which was eventually replaced by the PS/2 and the USB connection. Prior to the iMac line of systems, Apple used the proprietary Apple Desktop Bus for its keyboard connector.

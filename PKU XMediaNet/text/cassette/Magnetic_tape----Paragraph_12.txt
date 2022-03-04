@@ -1,0 +1,1 @@
+Magnetic tape was first used to record computer data in 1951 on the Eckert-Mauchly UNIVAC I. The recording medium was a thin strip of one half inch (12.65 mm) wide metal, consisting of nickel-plated bronze (called Vicalloy). Recording density was 128 characters per inch (198 micrometre/character) on eight tracks.

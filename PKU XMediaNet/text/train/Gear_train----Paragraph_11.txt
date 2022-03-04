@@ -1,0 +1,1 @@
+where NA is the number of teeth on the input gear and NB is the number of teeth on the output gear.

@@ -1,0 +1,1 @@
+Provide the necessary data to an ALU or register.

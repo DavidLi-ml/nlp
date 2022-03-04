@@ -1,0 +1,1 @@
+The most basic alarm consists of one or more sensors to detect intruders, and an alerting device to indicate the intrusion. However, a typical premises security alarm employs the following components:

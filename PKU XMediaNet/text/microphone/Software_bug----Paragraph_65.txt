@@ -1,0 +1,1 @@
+Deadlock, where task A can't continue until task B finishes, but at the same time, task B can't continue until task A finishes.

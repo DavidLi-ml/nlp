@@ -1,0 +1,1 @@
+The costs of support equipment, range costs and launch pads generally scale up with the size of the rocket, but vary less with launch rate, and so may be considered to be approximately a fixed cost.

@@ -1,0 +1,1 @@
+Another smart bullet is one that can transmit data about the location into which it has been fired. A prototype has been created by researchers at the University of Florida in Gainesville, Florida, USA with funding from Lockheed Martin. The bullet (projectile) has a sensor inside of it that can send wireless data up to 70 meters.

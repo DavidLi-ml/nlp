@@ -1,0 +1,1 @@
+Pinwheel bond is made of four bricks surrounding a square half-brick, repeated in a square grid.

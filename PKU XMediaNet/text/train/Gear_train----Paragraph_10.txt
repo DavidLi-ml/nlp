@@ -1,0 +1,1 @@
+    {\displaystyle {\frac {\omega _{A}}{\omega _{B}}}={\frac {r_{B}}{r_{A}}}={\frac {N_{B}}{N_{A}}}.}

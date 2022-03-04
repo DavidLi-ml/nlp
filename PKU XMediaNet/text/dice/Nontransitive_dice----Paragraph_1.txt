@@ -1,0 +1,1 @@
+It is possible to find sets of dice with the even stronger property that, for each die in the set, there is another die that rolls a higher number than it more than half the time. Using such a set of dice, one can invent games which are biased in ways that people unused to nontransitive dice might not expect (see Example).

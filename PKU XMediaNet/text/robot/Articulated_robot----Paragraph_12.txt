@@ -1,0 +1,1 @@
+Robot Program: A robot communication program for IBM and compatible personal computers. Provides terminal emulation and utility functions. This program can record all of the user memory, and some of the system memory to disk files.

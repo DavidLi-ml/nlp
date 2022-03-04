@@ -1,0 +1,1 @@
+Used to cool the heatsink of the northbridge of a motherboard's chipset; this may be needed where the system bus is significantly overclocked and dissipates more power than as usual, but may otherwise be unnecessary. As more features of the chipset are integrated into the central processing unit, the role of the chipset has been reduced and the heat generation reduced also.

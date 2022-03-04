@@ -1,0 +1,1 @@
+Version 6 of the Unicode standard includes a character designated to represent a radio button (🔘) at code point 128,280 (U+1F518), found in the Miscellaneous Symbols and Pictographs section. Similar characters are the circled dot operator (U+2299), fisheye (U+25C9), and bullseye (U+25CE).

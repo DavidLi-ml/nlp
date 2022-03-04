@@ -1,0 +1,1 @@
+All DCC-recorders used the SCMS copy protection system which uses two bits in the S/PDIF digital audio stream and on tape to differentiate between "protected" vs. "unprotected" audio, and between "original" vs. "copy":

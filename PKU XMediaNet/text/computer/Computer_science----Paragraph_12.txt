@@ -1,0 +1,1 @@
+Scientific computing enabled practical evaluation of processes and situations of great complexity, as well as experimentation entirely by software. It also enabled advanced study of the mind, and mapping of the human genome became possible with the Human Genome Project. Distributed computing projects such as Folding@home explore protein folding.

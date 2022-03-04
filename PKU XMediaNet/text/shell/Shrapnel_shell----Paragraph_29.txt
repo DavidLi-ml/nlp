@@ -1,0 +1,1 @@
+An added complication was that the actual fuze running time was affected by the meteorological conditions, with the variation in gun muzzle velocity being an added complication. However, the British used fuze indicators at each gun that determined the correct fuze running time (length) corrected for muzzle velocity.

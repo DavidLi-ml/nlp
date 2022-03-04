@@ -1,0 +1,1 @@
+Economy rate (Econ): The average number of runs conceded per over. (Econ = Runs/overs bowled).

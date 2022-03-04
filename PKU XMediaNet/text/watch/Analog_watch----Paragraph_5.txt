@@ -1,0 +1,1 @@
+There are relatively minor inaccuracies due to the difference between local time and zone time, and due to the equation of time. The method functions less well as one gets closer to the equator.

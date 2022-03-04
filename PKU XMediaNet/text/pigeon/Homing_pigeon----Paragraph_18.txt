@@ -1,0 +1,1 @@
+The humorous IP over Avian Carriers (RFC 1149) is an Internet protocol for the transmission of messages via homing pigeon. Originally intended as an April Fools' Day RFC entry, this protocol was implemented and used, once, to transmit a message in Bergen, Norway, on April 28, 2001.

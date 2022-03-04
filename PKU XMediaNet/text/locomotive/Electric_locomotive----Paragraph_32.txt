@@ -1,0 +1,1 @@
+While recently designed systems operate on AC, many DC systems are still in use – e.g. in South Africa and the United Kingdom (750 V and 1,500 V); Netherlands, Japan, Mumbai, Ireland (1,500 V); Slovenia, Belgium, Italy, Poland, Russia, Spain (3,000 V) and Washington DC (750 V).

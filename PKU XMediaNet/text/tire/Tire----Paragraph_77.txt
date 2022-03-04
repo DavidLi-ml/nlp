@@ -1,0 +1,1 @@
+Relaxation length is the delay between when a slip angle is introduced and when the cornering force reaches its steady-state value.

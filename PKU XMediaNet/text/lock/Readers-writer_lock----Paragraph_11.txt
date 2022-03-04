@@ -1,0 +1,1 @@
+Each of lock-for-read and lock-for-write has its own inverse operation. Releasing a read lock is done by decrementing r and signalling c if r has become zero (both while holding m), so that one of the threads waiting on c can wake up and lock the R/W lock. Releasing the write lock means setting w to false and broadcasting on c (again while holding m).

@@ -1,0 +1,1 @@
+There are two aspects to how pneumatic tires support the rim of the wheel on which they are mounted. First, tension in the cords pull on the bead uniformly around the wheel, except where it is reduced above the contact patch. Second, the bead transfers that net force to the rim.

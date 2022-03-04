@@ -1,0 +1,1 @@
+The API range - now ISO 3183. E.g.: API 5L Grade B - now ISO L245 where the number indicates yield strength in MPa

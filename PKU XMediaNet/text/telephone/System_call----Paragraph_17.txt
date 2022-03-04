@@ -1,0 +1,1 @@
+Many-to-one model: All system calls from any user thread in a process are handled by a single kernel-level thread. This model has a serious drawback –  any blocking system call (like awaiting input from user) can freeze all the other threads. Also, since only one thread can access the kernel at a time, this model cannot utilize multiple cores of processor.

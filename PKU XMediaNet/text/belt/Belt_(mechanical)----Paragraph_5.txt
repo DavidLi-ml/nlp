@@ -1,0 +1,1 @@
+The angular-velocity ratio may not be constant or equal to that of the pulley diameters, due to slip and stretch. However, this problem has been largely solved by the use of toothed belts. Temperatures ranges from −31 °F (−35 °C) to 185 °F (85 °C). Adjustment of center distance or addition of an idler pulley is crucial to compensate for wear and stretch.

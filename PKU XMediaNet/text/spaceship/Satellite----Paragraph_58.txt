@@ -1,0 +1,1 @@
+Tundra orbit: A highly elliptic orbit with inclination of 63.4° and orbital period of one sidereal day (roughly 24 hours). Such a satellite spends most of its time over a single designated area of the planet.

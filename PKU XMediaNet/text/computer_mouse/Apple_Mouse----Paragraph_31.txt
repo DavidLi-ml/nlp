@@ -1,0 +1,1 @@
+The Mighty Mouse also has a touch sensors under the top area place around the scroll wheel. This allows the computer to know if it should do a right or left click.

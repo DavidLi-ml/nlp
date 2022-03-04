@@ -1,0 +1,1 @@
+The standardization process is described by RFC2026.

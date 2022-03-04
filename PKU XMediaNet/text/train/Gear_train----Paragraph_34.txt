@@ -1,0 +1,1 @@
+    {\displaystyle R={\frac {\omega _{A}}{\omega _{B}}}={\frac {N_{B}}{N_{A}}}.}

@@ -1,0 +1,1 @@
+Chain failure is much less of a problem on hub-geared systems (e.g. Bendix 2-speed, Sturmey-Archer AW) since the parallel pins have a much bigger wearing surface in contact with the bush. The hub-gear system also allows complete enclosure, a great aid to lubrication and protection from grit.

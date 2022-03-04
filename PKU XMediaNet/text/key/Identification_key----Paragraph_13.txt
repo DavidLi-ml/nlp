@@ -1,0 +1,1 @@
+Obsolescence: Older keys may not include more recently described species. They may also use outdated species names, which must then be mapped to the current ones.

@@ -1,0 +1,1 @@
+If the key has several choices it is described as polychotomous or polytomous. If the entire key consists of exactly two choices at each branching point, the key is called dichotomous. The majority of single-access keys are dichotomous.

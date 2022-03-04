@@ -1,0 +1,1 @@
+Since there are seven notes in the diatonic scale, and since each button produces two notes, the note pairings on the buttons change in each octave. In the second full octave of the instrument’s range, E is paired with D (instead of with F in the first octave), and so on.

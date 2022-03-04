@@ -1,0 +1,1 @@
+Recoil operation uses the backward force applied by the projectile (due to Newton's Third Law of Motion) to retract the bolt assembly.

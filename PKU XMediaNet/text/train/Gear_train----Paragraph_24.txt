@@ -1,0 +1,1 @@
+    {\displaystyle F_{\theta }=T_{A}{\frac {\partial \omega _{A}}{\partial \omega }}-T_{B}{\frac {\partial \omega _{B}}{\partial \omega }}=T_{A}-T_{B}/R=0.}

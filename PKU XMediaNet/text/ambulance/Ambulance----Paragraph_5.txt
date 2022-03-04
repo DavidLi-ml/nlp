@@ -1,0 +1,1 @@
+Ambulances can be grouped into types depending on whether or not they transport patients, and under what conditions. In some cases, ambulances may fulfil more than one function (such as combining emergency ambulance care with patient transport).

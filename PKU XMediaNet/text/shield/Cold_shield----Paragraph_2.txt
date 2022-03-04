@@ -1,0 +1,1 @@
+Cold shields are typically used in IR optical devices for military, scientific and industrial applications to protect IR sensors from stray IR radiation (lowering noise figures). Most cold shield applications require near instantaneous cooling, making low mass of the structure very important. Therefore, electroforming is the preferred method of fabricating cold shields.

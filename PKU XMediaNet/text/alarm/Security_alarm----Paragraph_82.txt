@@ -1,0 +1,1 @@
+Fire sensors can be "isolated", meaning that when triggered, they will not trigger the main alarm network. This is important when smoke and heat is intentionally produced. The owners of buildings can be fined for generating False alarms that waste the time of emergency personnel.

@@ -1,0 +1,1 @@
+Infantry - designed to carry infantry units, may also mount machine guns.

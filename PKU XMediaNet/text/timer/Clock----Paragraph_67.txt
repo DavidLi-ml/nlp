@@ -1,0 +1,1 @@
+This counts the pulses and adds them up to get traditional time units of seconds, minutes, hours, etc. It usually has a provision for setting the clock by manually entering the correct time into the counter.

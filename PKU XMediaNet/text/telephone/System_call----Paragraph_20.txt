@@ -1,0 +1,1 @@
+Hybrid model: This model implements both many to many and one to one model depending upon choice made by the kernel. This is found in old versions of IRIX, HP-UX and Solaris.

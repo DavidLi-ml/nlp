@@ -1,0 +1,1 @@
+StingRay devices are often used in combination with Hailstorm towers that jam the mobile phone signals forcing phones to drop down from 4G and 3G network bands to older, more insecure 2G bands.

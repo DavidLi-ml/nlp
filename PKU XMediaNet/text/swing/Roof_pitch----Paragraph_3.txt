@@ -1,0 +1,1 @@
+Convention is to use whole numbers when even (e.g. "three in twelve") or the nearest single or two-digit fraction when not (e.g. either "five and a quarter in twelve" or "five point two-five in twelve", each expressed numerically as 5.25:12).

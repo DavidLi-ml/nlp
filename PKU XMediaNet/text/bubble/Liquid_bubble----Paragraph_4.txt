@@ -1,0 +1,1 @@
+The above explanation only holds for bubbles of one medium submerged in another medium (e.g. bubbles of air in a soft drink); the volume of a membrane bubble (e.g. soap bubble) will not distort light very much, and one can only see a membrane bubble due to thin-film diffraction and reflection.

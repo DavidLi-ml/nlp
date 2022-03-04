@@ -1,0 +1,1 @@
+If words were simply concatenated rather than separated by spaces, concatenating could form words that are already in the word list. For example, "in" and "put" form "input"; all three words can be found in the above-mentioned word list. This could slightly decrease the entropy, when compared with the recommended method of using spaces to separate each word in the list.

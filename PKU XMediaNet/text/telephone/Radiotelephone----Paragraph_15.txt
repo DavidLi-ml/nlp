@@ -1,0 +1,1 @@
+Single-sideband (SSB) is used because the short wave bands are crowded with many users, and SSB permits a single voice channel to use a narrower range of radio frequencies (bandwidth), about 3.5 kHz. In comparison, AM radio uses about 8 kHz, and narrowband (voice or communication-quality) FM uses 9 kHz.

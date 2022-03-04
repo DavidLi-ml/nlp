@@ -1,0 +1,1 @@
+A fiber optic microphone converts acoustic waves into electrical signals by sensing changes in light intensity, instead of sensing changes in capacitance or magnetic fields as with conventional microphones. 

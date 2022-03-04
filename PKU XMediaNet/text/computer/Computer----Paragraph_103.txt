@@ -1,0 +1,1 @@
+Software refers to parts of the computer which do not have a material form, such as programs, data, protocols, etc. When software is stored in hardware that cannot easily be modified (such as BIOS ROM in an IBM PC compatible), it is sometimes called "firmware".

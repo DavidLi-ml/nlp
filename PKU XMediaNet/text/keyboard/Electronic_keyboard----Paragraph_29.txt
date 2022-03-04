@@ -1,0 +1,1 @@
+Synthesizer - Electronic keyboards that uses various sound synthesis technologies to produce a wide variety of sounds.

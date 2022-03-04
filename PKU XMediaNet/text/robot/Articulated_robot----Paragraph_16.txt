@@ -1,0 +1,1 @@
+Work Envelope: A three-dimensional shape that defines the boundaries that the robot manipulator can reach; also known as reach envelope.

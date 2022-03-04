@@ -1,0 +1,1 @@
+Evaporation: A liquid refrigerant evaporates in a low partial pressure environment, thus extracting heat from its surroundings (e.g. the refrigerator's compartment). Because of the low partial pressure, the temperature needed for evaporation is also low.

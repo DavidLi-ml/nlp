@@ -1,0 +1,1 @@
+Arc lighters use a spark to create a plasma conduit between electrodes, which is then maintained by a lower voltage. The arc is then applied to a flammable substance to cause ignition.

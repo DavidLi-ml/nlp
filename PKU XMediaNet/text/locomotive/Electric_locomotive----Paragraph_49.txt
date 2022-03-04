@@ -1,0 +1,1 @@
+Electrification systems used by the JR group, Japan's formerly state-owned operators, are 1,500 V DC and 20 kV AC for conventional lines and 25 kV AC for Shinkansen. Electrification at 600 V DC and 750 V DC are also seen in private lines. The frequency of the AC power supply is 50 Hz in Eastern Japan and 60 Hz in Western Japan.

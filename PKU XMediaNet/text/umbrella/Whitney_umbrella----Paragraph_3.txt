@@ -1,0 +1,1 @@
+Whitney's umbrella is a ruled surface and a right conoid. It is important in the field of singularity theory, as a simple local model of a pinch point singularity. The pinch point and the fold singularity are the only stable local singularities of maps from R2 to R3.

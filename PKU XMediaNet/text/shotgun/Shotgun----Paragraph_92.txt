@@ -1,0 +1,1 @@
+Grenade rounds use exploding projectiles to increase long range lethality. These are currently experimental, but the British FRAG-12, which comes in both armor penetrating and fragmentary forms, is under consideration by military forces.

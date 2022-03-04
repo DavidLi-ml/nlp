@@ -1,0 +1,1 @@
+Many industrial applications require a wide field of view. Traditionally maintaining consistent light over large 2D areas is quite difficult. With a line scan camera all that is necessary is to provide even illumination across the “line” currently being viewed by the camera. This makes possible sharp pictures of objects that pass the camera at high speed.

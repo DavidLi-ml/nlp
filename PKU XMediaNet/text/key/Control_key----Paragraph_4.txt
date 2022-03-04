@@ -1,0 +1,1 @@
+When the original purpose of the ASCII control characters became either obsolete or seldom used, later software appropriated the Control key combinations for other purposes.

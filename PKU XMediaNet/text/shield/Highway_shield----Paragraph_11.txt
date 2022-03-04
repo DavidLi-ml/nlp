@@ -1,0 +1,1 @@
+Secondary and local or county roads use an isosceles trapezoid as markers. Background colour is usually white, but they can be green. Tertiary road signs are rectangular in shape. Text is black or white and will indicate the county name.

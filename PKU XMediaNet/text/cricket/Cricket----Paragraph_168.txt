@@ -1,0 +1,1 @@
+Strike rate (SR): The average number of balls bowled per wicket. (SR = Balls/W)

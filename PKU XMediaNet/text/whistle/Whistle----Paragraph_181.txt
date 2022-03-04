@@ -1,0 +1,1 @@
+   but corrections must be made to take into account that one end of the pipe radiates into the surrounding medium and the other radiates through a slit with a jet flow. Boelkes and Hoffmann have made measurements of end correction for open-open tubes and derived the relation δ=0.33D. This cannot be exact since the driving end is not open.

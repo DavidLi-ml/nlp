@@ -1,0 +1,1 @@
+It allows bottles to be more easily stacked end to end.

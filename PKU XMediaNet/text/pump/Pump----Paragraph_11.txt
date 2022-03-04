@@ -1,0 +1,1 @@
+A positive displacement pump must not operate against a closed valve on the discharge side of the pump, because it has no shutoff head like centrifugal pumps. A positive displacement pump operating against a closed discharge valve continues to produce flow and the pressure in the discharge line increases until the line bursts, the pump is severely damaged, or both.

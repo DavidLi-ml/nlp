@@ -1,0 +1,1 @@
+alarms in an operation and maintenance (O&M) monitoring system, which informs the bad working state of (a particular part of) the system under monitoring.

@@ -1,0 +1,1 @@
+| is a vertical bar, originally used as a typographic separator for optical character recognition. Many character sets break it in the middle so it cannot be confused with the numeral "1" or the letter "l" (in most EBCDIC codepages, vertical bar and divided vertical bar are separate characters). This character is often known as a "pipe" or a "fencepost."

@@ -1,0 +1,1 @@
+Line and script printing shows good results.

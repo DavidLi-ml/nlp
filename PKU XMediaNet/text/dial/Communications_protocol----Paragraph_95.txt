@@ -1,0 +1,1 @@
+The physical layer describes details like the electrical characteristics of the physical connection, the transmission techniques used, and the setup, maintenance and clearing of physical connections.

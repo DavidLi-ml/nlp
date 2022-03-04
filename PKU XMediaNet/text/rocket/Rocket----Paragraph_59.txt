@@ -1,0 +1,1 @@
+The delta-v capacity of a rocket is the theoretical total change in velocity that a rocket can achieve without any external interference (without air drag or gravity or other forces).

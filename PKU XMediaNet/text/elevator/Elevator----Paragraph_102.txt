@@ -1,0 +1,1 @@
+During down-peak mode, elevator cars in a group are sent away from the lobby towards the highest floor served, after which they commence running down the floors in response to hall calls placed by passengers wishing to leave the building. This allows the elevator system to provide maximum passenger handling capacity for people leaving the building.

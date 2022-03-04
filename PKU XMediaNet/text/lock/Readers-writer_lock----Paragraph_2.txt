@@ -1,0 +1,1 @@
+Some RW locks allow the lock to be atomically upgraded from being locked in read-mode to write-mode, as well as being downgraded from write-mode to read-mode. [1]

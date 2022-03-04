@@ -1,0 +1,1 @@
+The Baltimore truss is a subclass of the Pratt truss. A Baltimore truss has additional bracing in the lower section of the truss to prevent buckling in the compression members and to control deflection. It is mainly used for rail bridges, showing off a simple and very strong design.

@@ -1,0 +1,1 @@
+Some cards may bear a stored value with which a payment is made, while most relay a message to the cardholder's bank to withdraw funds from a payer's designated bank account. In some cases, the primary account number is assigned exclusively for use on the Internet and there is no physical card.

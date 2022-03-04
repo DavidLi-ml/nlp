@@ -1,0 +1,1 @@
+A chorded keyboard allows users to press several keys simultaneously. For example, the GKOS keyboard has been designed for small wireless devices. Other two-handed alternatives more akin to a game controller, such as the AlphaGrip, are also used to input data and text.

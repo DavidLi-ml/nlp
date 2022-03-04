@@ -1,0 +1,1 @@
+For card not present transactions where the card is not shown (e.g., e-commerce, mail order, and telephone sales), merchants additionally verify that the customer is in physical possession of the card and is the authorized user by asking for additional information such as the security code printed on the back of the card, date of expiry, and billing address.

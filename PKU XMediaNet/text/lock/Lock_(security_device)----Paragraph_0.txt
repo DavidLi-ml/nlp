@@ -1,0 +1,1 @@
+A lock is a mechanical or electronic fastening device that is released by a physical object (such as a key, keycard, fingerprint, RFID card, security token etc.), by supplying secret information (such as a keycode or password), or by a combination thereof.

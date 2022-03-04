@@ -1,0 +1,1 @@
+Dial-up connections usually have latency as high as 150 ms or even more; this is longer than for many forms of broadband, such as cable or DSL, but typically less than satellite connections. Longer latency can make video conferencing and online gaming difficult, if not impossible. An increasing amount of Internet content such as streaming media will not work at dial-up speeds.

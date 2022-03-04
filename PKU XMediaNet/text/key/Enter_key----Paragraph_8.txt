@@ -1,0 +1,1 @@
+In Mathematica, the Return key creates a new line, whereas the Enter key (or Shift-Return) submits the current command for execution.

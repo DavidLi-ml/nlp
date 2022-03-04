@@ -1,0 +1,1 @@
+These variant dice are useful, e.g., to introduce students to different ways of comparing random variables (and how only comparing averages may overlook essential details).

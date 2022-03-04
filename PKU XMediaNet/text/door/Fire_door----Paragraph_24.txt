@@ -1,0 +1,1 @@
+Latching hardware operates and secure the door when it is in the closed position.

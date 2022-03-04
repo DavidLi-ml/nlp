@@ -1,0 +1,1 @@
+Any convex polygon may be triangulated as a single fan, by arbitrarily selecting any point inside it as the center.

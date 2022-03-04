@@ -1,0 +1,1 @@
+4-Wire PWM Controlled Fans Specification v1.3, Intel

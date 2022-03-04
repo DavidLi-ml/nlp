@@ -1,0 +1,1 @@
+Piezoelectric pickups use a "sandwich" of quartz crystal or other piezoelectric material, typically placed beneath the string saddles or nut. These devices respond to pressure changes from all vibration at these specific points.

@@ -1,0 +1,1 @@
+Fans may be controlled by sensors and circuits that reduce their speed when temperature is not high, leading to quieter operation, longer life, and lower power consumption than fixed-speed fans. Fan lifetimes are usually quoted under the assumption of running at maximum speed and at a fixed ambient temperature.

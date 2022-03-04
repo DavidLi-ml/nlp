@@ -1,0 +1,1 @@
+Either compiled or interpreted programs might be executed in a batch process without human interaction. Batch programming languages are called scripting languages. One common scripting language is Unix shell, and its executing environment is called the command-line interface.

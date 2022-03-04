@@ -1,0 +1,1 @@
+~ is the tilde, an accent backspaced and printed over other letters for non-English languages. Nowadays the key does not produce a backspaceable character and is used for 'not' or 'circa'.

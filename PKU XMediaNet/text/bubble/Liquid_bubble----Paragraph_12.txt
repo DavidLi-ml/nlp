@@ -1,0 +1,1 @@
+Smaller bubbles undergo isothermal pulsations. The corresponding equation for small bubbles of surface tension σ (and negligible liquid viscosity) is

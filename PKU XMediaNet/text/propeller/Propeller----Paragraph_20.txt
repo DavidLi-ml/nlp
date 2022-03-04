@@ -1,0 +1,1 @@
+For smaller motors there are self-pitching propellers. The blades freely move through an entire circle on an axis at right angles to the shaft. This allows hydrodynamic and centrifugal forces to 'set' the angle the blades reach and so the pitch of the propeller.

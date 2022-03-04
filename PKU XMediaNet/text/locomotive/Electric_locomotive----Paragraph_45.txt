@@ -1,0 +1,1 @@
+UIC classification system was typically used for electric locomotives, as it could handle the complex arrangements of powered and unpowered axles and could distinguish between coupled and uncoupled drive systems.

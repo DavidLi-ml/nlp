@@ -1,0 +1,1 @@
+One of the advantages of AM is that its signal can be detected (turned into sound) with simple equipment. If a signal is strong enough, not even a power source is needed; building an unpowered crystal radio receiver was a common childhood project in the early decades of AM broadcasting.

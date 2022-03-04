@@ -1,0 +1,1 @@
+The code has grown in complexity over the years, as is evident from the mix of metric and English units, and ad-hoc extensions to lettering and numbering schemes. New automotive tires frequently have ratings for traction, treadwear, and temperature resistance (collectively known as The Uniform Tire Quality Grade (UTQG) ratings).

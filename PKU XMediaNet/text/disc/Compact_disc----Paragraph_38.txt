@@ -1,0 +1,1 @@
+CD + Extended Graphics (CD+EG, also known as CD+XG) is an improved variant of the Compact Disc + Graphics (CD+G) format. Like CD+G, CD+EG utilizes basic CD-ROM features to display text and video information in addition to the music being played. This extra data is stored in subcode channels R-W. Very few, if any, CD+EG discs have been published.

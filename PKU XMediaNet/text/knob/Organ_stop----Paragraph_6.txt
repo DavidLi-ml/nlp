@@ -1,0 +1,1 @@
+Ranks which are neither divided nor extended (see below #Unification and extension) generally contain as many pipes as there are keys on the keyboard to which they are assigned: in most cases 61 pipes for a rank assigned to a manual and 32 pipes for a rank assigned to the pedal.

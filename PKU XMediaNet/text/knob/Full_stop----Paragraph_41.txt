@@ -1,0 +1,1 @@
+In some East Asian languages, notably Chinese and Japanese, a small circle is used instead of a solid dot: "。" (U+3002 "Ideographic Full Stop", Chinese: 句號). Notably, in Taiwan, Hong Kong, and Macao usage, the full stop is written at center height instead of on the line.

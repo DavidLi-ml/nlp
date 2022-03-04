@@ -1,0 +1,26 @@
+url/
+--Source URLs of PKU XMediaNet.
+    
+list/
+--Data list of PKU XMediaNet(file path + category number). The first 80% lines are for training, and the last 20% lines are for testing.
+    
+text/
+--Text data of PKU XMediaNet extracted from Wikipedia articles.
+    
+cateList.txt
+--Category list of PKU XMediaNet.
+
+feature/
+--Feature data of PKU XMediaNet, the order of features is consistent with the data list. 
+Download link: https://drive.google.com/file/d/1SkiCp9DsHwD7TFgdj92yfwwfNGDh2lip/view?usp=sharing or https://pan.baidu.com/s/1LiL_kOQA9bUc2MN8Vy-RKg (password: kcum)
+XMediaNet_TxtFea_3000.mat--for text, 3,000-dimensional BoW features .
+XMediaNet_ImgFea_4096.mat--for image, 4,096-dimensional CNN features from fc7 layer of 19-layer VGGNet [1], which is pre-trained on ImageNet.
+XMediaNet_VidFea_4096.mat--for video, 4,096-dimensional features from fc7 layer of C3D model [2], which is pre-trained on Sports1M.
+XMediaNet_AudFea_78.mat--for audio, 78-dimensional features extracted by jAudio [3] using its default setting.
+XMediaNet_TDFea_4700.mat--for 3D, concatenated 4,700-dimensional vectors of a LightField descriptor set [4].
+
+
+[1] K. Simonyan and A. Zisserman, “Very deep convolutional networks for large-scale image recognition,” in International Conference on Learning Representations, 2014.
+[2] D. Tran, L. Bourdev, R. Fergus, L. Torresani, and M. Paluri, “Learning spatiotemporal features with 3d convolutional networks,” in IEEE international conference on computer vision, 2015, pp. 4489–4497.
+[3] C. McKay, I. Fujinaga, and P. Depalle, “jaudio: An feature extraction library,” in International Conference on Music Information Retrieval, 2005, pp. 600–603.
+[4] D.-Y. Chen, X.-P. Tian, Y.-T. Shen, and M. Ouhyoung, “On visual similarity based 3d model retrieval,” in Computer graphics forum, vol. 22, no. 3, 2003, pp. 223–232.

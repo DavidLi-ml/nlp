@@ -1,0 +1,1 @@
+A gene cassette is a type of mobile genetic element that contains a gene and a recombination site. They may exist incorporated into an integron or freely as circular DNA. Gene cassettes often carry antibiotic resistance genes. An example would be the kanMX cassette which confers kanamycin (an antibiotic) resistance upon bacteria.

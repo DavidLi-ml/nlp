@@ -1,0 +1,1 @@
+   bits). Originally, in 1995, Diceware creator Arnold Reinhold considered five words (64 bits) the minimal length needed by average users. However, starting in 2014, Reinhold recommends that at least six words (77 bits) should be used.

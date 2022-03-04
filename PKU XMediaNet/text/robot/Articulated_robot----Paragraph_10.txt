@@ -1,0 +1,1 @@
+Repeatability: See Figure. The ability of a system or mechanism to repeat the same motion or achieve the same points when presented with the same control signals. The cycle-to-cycle error of a system when trying to perform a specific task

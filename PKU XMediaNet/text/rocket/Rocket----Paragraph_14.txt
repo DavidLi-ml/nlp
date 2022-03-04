@@ -1,0 +1,1 @@
+As well as these components, rockets can have any number of other components, such as wings (rocketplanes), parachutes, wheels (rocket cars), even, in a sense, a person (rocket belt). Vehicles frequently possess navigation systems and guidance systems that typically use satellite navigation and inertial navigation systems.

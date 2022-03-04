@@ -1,0 +1,1 @@
+Thrust is the force arising from the interaction between two masses which exert equal but opposite forces on each other due to their speed. The force F can be measured either in newtons (N, SI units) or in pounds-thrust (lbf, imperial units).

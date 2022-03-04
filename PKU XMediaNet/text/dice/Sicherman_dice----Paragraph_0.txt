@@ -1,0 +1,1 @@
+Sicherman dice /ˈsɪkərmən/ are the only pair of 6-sided dice that are not normal dice, bear only positive integers, and have the same probability distribution for the sum as normal dice.

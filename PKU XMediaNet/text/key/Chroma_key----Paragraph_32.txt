@@ -1,0 +1,1 @@
+Another challenge for bluescreen or greenscreen is proper camera exposure. Underexposing or overexposing a colored backdrop can lead to poor saturation levels. In the case of video cameras, underexposed images can contain high amounts of noise, as well. The background must be bright enough to allow the camera to create a bright and saturated image.

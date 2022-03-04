@@ -1,0 +1,1 @@
+Anchor: The anchor chain copies the style of the chain that holds large anchors on ships, an oval link with a dividing bar through the middle. The interlinking sections may be of a curb or trace style. Also a version called Maritime where only every other link is an anchor link.

@@ -1,0 +1,1 @@
+Interconnections between components. This may consist of direct wiring to the control unit, or wireless links with local power supplies.

@@ -1,0 +1,1 @@
+The fountain solution pH has to be controlled (pH greater than 5.5).

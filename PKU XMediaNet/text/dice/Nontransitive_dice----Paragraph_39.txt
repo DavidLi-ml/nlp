@@ -1,0 +1,1 @@
+A four-player set has not yet been discovered, but it was proven that such a set would require at least 19 dice.

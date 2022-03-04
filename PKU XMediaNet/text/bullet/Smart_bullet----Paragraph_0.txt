@@ -1,0 +1,1 @@
+Smart bullet is a term that has been used to describe several theoretical and prototype bullets. The "smart" part comes from the bullet doing something other than simply following its given trajectory, e.g. turning, speeding up, slowing down, sending data, etc. The patent number 5,788,178 for the guided bullet is held by Rolin F. Barrett Jr., of North Carolina, USA.

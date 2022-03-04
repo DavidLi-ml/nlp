@@ -1,0 +1,1 @@
+"Multiple-alarm fire", a locally-specific measure of the severity of a fire and the fire-department reaction required.

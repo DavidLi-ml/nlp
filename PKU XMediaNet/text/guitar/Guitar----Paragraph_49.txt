@@ -1,0 +1,1 @@
+Traditional electromagnetic pickups are either single-coil or double-coil. Single-coil pickups are susceptible to noise induced from electric fields, usually mains-frequency (60 or 50 hertz) hum. The introduction of the double-coil humbucker in the mid-1950s did away with this problem through the use of two coils, one of which is wired in a reverse polarity orientation.

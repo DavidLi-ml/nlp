@@ -1,0 +1,1 @@
+There are several methods used to monitor the stress on large structures like bridges. The most common method is the use of an accelerometer, which is integrated into the bridge while it is being built. This technology is used for long-term surveillance of the bridge.

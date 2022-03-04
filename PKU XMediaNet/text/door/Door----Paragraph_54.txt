@@ -1,0 +1,1 @@
+A switch is operated manually, perhaps after security checks. This can be a push button switch or a swipe card.

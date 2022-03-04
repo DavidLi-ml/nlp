@@ -1,0 +1,1 @@
+The lower figure on the right shows a number of turbulent sound spectra measured at various speeds. The frequencies were Strouhal number scaled with U and the sound levels were scaled with the dipole sound power rule of 

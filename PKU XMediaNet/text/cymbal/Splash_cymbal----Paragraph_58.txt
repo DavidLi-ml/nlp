@@ -1,0 +1,1 @@
+Restricts adjustment of the damping of either cymbal. The mounting bolt tension and the size of one felt are the same for both cymbals, as the mounting bolt, wingnut and this felt are all shared between them.

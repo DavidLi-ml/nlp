@@ -1,0 +1,1 @@
+Digital systems employing certain logic circuits take advantage of NAND's functional completeness.

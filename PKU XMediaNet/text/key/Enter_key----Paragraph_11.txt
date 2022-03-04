@@ -1,0 +1,1 @@
+In modern word processing applications, pressing the return key ends a paragraph and starts a new one. Spacing between the paragraphs can be defined through paragraph styles.

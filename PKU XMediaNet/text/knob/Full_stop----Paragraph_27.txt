@@ -1,0 +1,1 @@
+Bourne shell-derived command-line interpreters, such as sh, ksh, and Bash, use the dot as a command to read a file and execute its content in the running interpreter. (Some of these also offer source as a synonym, based on that usage in the C-shell.)

@@ -1,0 +1,1 @@
+Bells are made to exact formulas, so that given the diameter it is possible to calculate every dimension, and its musical note, or tone. The frequency of a bell's note varies with the square of its thickness, and inversely with its diameter. Much experimentation has been devoted to determining the exact shape that will give the best tone.

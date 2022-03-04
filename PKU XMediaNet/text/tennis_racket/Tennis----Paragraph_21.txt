@@ -1,0 +1,1 @@
+The rackets must not provide any kind of communication, instruction or advice to the player during the match.

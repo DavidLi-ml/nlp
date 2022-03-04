@@ -1,0 +1,1 @@
+The "adiabatic flame temperature" of a given fuel and oxidizer pair indicates the temperature at which the gases achieve stable combustion.

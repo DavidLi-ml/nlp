@@ -1,0 +1,1 @@
+Inverted F - Combines the advantages of the inverted-L antenna and the F-type antenna of, respectively, compactness and good matching. The antenna is grounded at the base and fed at some intermediate point. The position of the feed point determines the antenna impedance. Thus, matching can be achieved without the need for an extraneous matching network.

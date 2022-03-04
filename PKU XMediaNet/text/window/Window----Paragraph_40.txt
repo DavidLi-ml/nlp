@@ -1,0 +1,1 @@
+Fixed window is a unit of one non-moving lite. The terms single-light, double-light, etc., refer to the number of these glass panes in a window.

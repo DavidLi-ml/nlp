@@ -1,0 +1,1 @@
+After the boost stage, ballistic missiles follow a trajectory mainly determined by ballistics. The guidance is for relatively small deviations from that.

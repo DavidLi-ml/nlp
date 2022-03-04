@@ -1,0 +1,1 @@
+Noise gates have a Threshold control to set the level at which the gate will open. More advanced noise gates have more features.

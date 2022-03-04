@@ -1,0 +1,1 @@
+The last major dimensionless performance quantity is the payload ratio, which is the ratio between the payload mass and the combined mass of the empty rocket stage and the propellant.

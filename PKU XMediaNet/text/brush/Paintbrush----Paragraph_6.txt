@@ -1,0 +1,1 @@
+A decorator judges the quality of a brush based on several factors: filament retention, paint pickup, steadiness of paint release, brush marks, drag and precision painting. A chiseled brush permits the painter to cut into tighter corners and paint more precisely.

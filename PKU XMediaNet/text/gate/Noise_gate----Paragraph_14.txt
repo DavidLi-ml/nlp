@@ -1,0 +1,1 @@
+For vocal applications on stage an optical microphone switch may be used. An infra-red sensor senses if somebody is in front of the microphone and switches on the microphone.

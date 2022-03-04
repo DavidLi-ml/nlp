@@ -1,0 +1,1 @@
+Read the code for the next instruction from the cell indicated by the program counter.

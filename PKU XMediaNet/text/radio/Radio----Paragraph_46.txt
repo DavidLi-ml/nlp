@@ -1,0 +1,1 @@
+Analog television sends the picture as AM and the sound as AM or FM, with the sound carrier a fixed frequency (4.5 MHz in the NTSC system) away from the video carrier. Analog television also uses a vestigial sideband on the video carrier to reduce the bandwidth required.

@@ -1,0 +1,1 @@
+The strings of a violin are stretched across the bridge and nut of the violin so that the ends are essentially stationary, allowing for the creation of standing waves. The fundamental frequency and harmonic overtones of the resulting sound depend on the material properties of the string, such as the tension, length, mass, elasticity and damping factor.

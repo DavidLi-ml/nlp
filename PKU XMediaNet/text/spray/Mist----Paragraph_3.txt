@@ -1,0 +1,1 @@
+Mist makes a beam of light visible from the side via refraction and reflection on the suspended water droplets.

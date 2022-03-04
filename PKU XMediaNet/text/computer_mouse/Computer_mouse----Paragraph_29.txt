@@ -1,0 +1,1 @@
+Multi-touch: this method is similar to a multi-touch trackpad on a laptop with support for tap input for multiple fingers, the most famous example being the Apple Magic Mouse.

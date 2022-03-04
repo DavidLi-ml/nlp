@@ -1,0 +1,1 @@
+This is the reason why any engine outputting its power on a rotating shaft always informs, along with its rated power, the rotational speed at which that rated power is developed.

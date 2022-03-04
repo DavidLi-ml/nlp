@@ -1,0 +1,1 @@
+Strength - Concrete is a composite material with relatively high compressive strength properties, but lacking in tensile strength/ductility. This inherently makes concrete a useful material for carrying the weight of a structure. Concrete reinforced with steel rebar give the structure a stronger tensile capacity, as well as an increase in ductility and elasticity.

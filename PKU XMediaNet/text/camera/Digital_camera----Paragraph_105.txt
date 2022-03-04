@@ -1,0 +1,1 @@
+Some other camera backs use CCD arrays similar to typical cameras. These are called single-shot backs.

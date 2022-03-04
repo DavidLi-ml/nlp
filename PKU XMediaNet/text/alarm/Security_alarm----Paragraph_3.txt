@@ -1,0 +1,1 @@
+Premises control unit (PCU), Alarm Control Panel (ACP), or simply panel: The "brain" of the system, it reads sensor inputs, tracks arm/disarm status, and signals intrusions. In modern systems, this is typically one or more computer circuit boards inside a metal enclosure, along with a power supply.

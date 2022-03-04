@@ -1,0 +1,1 @@
+Philips defined a format similar to CD-i called CD-i Ready, which puts CD-i software and data into the pregap of track 1. This format was supposed to be more compatible with older audio CD players.

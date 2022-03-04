@@ -1,0 +1,1 @@
+Dragging a data file onto a program icon or window for viewing or processing. For instance, dropping an icon that represents a text file into a Microsoft Word window signifies "Open this document as a new document in Word"

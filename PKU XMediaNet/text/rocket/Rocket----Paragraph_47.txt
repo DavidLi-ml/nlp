@@ -1,0 +1,1 @@
+Drag is a force opposite to the direction of the rocket's motion. This decreases acceleration of the vehicle and produces structural loads. Deceleration force for fast-moving rockets are calculated using the drag equation.

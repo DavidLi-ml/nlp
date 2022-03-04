@@ -1,0 +1,1 @@
+Components that use the effect as mechanical transducers.

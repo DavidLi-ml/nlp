@@ -1,0 +1,1 @@
+With the above-mentioned variants, some players may stay quiet and win easily. To avoid that, the following rule may be added: Each time a player loses a challenge, he loses a die normally, but the two players sitting to their left and right lose a die as well (unless one of them was the player to win the challenge).

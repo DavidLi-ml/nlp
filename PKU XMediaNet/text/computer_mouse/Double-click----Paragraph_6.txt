@@ -1,0 +1,1 @@
+Using keyboard navigation instead of a mouse.

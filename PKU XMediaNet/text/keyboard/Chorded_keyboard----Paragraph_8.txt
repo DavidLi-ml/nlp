@@ -1,0 +1,1 @@
+The first widespread use of a chord keyboard was in the stenotype machine used by court reporters, which was invented in 1868 and is still in use. The output of the stenotype was originally a phonetic code that had to be transcribed later (usually by the same operator who produced the original output), rather than arbitrary text—automatic conversion software is now commonplace.

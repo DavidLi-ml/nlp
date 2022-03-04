@@ -1,0 +1,1 @@
+As well as providing an alternative to a conventional acoustic drum kit, electronic drums can be incorporated into an acoustic drum kit to supplement it. MIDI triggers can also be installed into acoustic drum and percussion instruments. Pads that can trigger a MIDI device can be homemade from a piezoelectric sensor and a practice pad or other piece of foam rubber.

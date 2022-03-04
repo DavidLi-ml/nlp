@@ -1,0 +1,1 @@
+Commander - The commander is responsible for commanding the tank, most often in conjunction with other tanks and supporting infantry. The commander is provided with all-round vision devices rather than the limited ones of the driver and gunner.

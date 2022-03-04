@@ -1,0 +1,1 @@
+Some early keypunch machines used a keyboard with 12 labeled keys to punch the correct holes in paper cards. The numbers 0 through 9 were represented by one punch; 26 letters were represented by combinations of two punches, and symbols were represented by combinations of two or three punches.

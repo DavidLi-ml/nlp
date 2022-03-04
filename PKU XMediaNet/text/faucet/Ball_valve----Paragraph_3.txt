@@ -1,0 +1,1 @@
+In the case that a ball valve is used for cryogenics or product that may expand inside of the ball, there is a vent drilled into the upstream side of the valve. This is referred to as a vented ball. Safety is the number one concern when engineers specify a vented ball.

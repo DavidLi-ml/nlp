@@ -1,0 +1,1 @@
+Typically chains with parallel shaped links have an even number of links, with each narrow link followed by a broad one. Chains built up with a uniform type of link, narrow at one and broad at the other end, can be made with an uneven number of links, which can be an advantage to adapt to a special chainwheel-distance, on the other side such a chain tends to be not so strong.

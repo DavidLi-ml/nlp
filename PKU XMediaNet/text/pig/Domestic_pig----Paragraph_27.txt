@@ -1,0 +1,1 @@
+Pig cells have been engineered to inactivate all 62 PERVs in the genome using CRISPR Cas9 genome editing technology, and eliminated infection from the pig to human cells in culture.

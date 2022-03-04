@@ -1,0 +1,1 @@
+When bubbles are disturbed, they pulsate (that is, they oscillate in size) at their natural frequency. Large bubbles (negligible surface tension and thermal conductivity) undergo adiabatic pulsations, which means that no heat is transferred either from the liquid to the gas or vice versa. The natural frequency of such bubbles is determined by the equation:

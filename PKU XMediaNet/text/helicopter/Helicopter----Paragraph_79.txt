@@ -1,0 +1,1 @@
+When the trailing vortices colliding with the tail rotor are rotating in the same direction, this causes a loss of thrust from the tail rotor. When the trailing vortices rotate in the opposite direction of the tail rotor, thrust is increased. Use of the foot pedals is required to adjust the tail rotor's angle of attack, to compensate for these instabilities.

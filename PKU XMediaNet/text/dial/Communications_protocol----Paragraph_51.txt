@@ -1,0 +1,1 @@
+The Internet offers universal interconnection, which means that any pair of computers connected to the Internet is allowed to communicate. Each computer is identified by an address on the Internet. All the interconnected physical networks appear to the user as a single large network. This interconnection scheme is called an internetwork or internet.

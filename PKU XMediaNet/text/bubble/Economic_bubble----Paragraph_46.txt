@@ -1,0 +1,1 @@
+Rationalizing borrowing, lending and purchase decisions based on expected future price increases rather than the ability of the borrower to repay.

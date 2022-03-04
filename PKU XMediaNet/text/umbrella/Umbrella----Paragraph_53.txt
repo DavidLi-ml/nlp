@@ -1,0 +1,1 @@
+The umbrella is used in weather forecasting as an icon for rain. Two variations, a plain umbrella (☂, U+2602) and an umbrella with raindrops overhead (☔, U+2614), are encoded in the Miscellaneous Symbols block of Unicode.

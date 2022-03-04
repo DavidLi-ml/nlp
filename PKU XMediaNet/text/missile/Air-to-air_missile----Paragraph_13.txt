@@ -1,0 +1,1 @@
+Semi-active radar homing (SARH) guided missiles are simpler and more common. They function by detecting radar energy reflected from the target. The radar energy is emitted from the launching aircraft's own radar system.

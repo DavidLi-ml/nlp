@@ -1,0 +1,1 @@
+The clipping level is an important indicator of maximum usable level, as the 1% THD figure usually quoted under max SPL is really a very mild level of distortion, quite inaudible especially on brief high peaks. Clipping is much more audible. For some microphones the clipping level may be much higher than the max SPL.

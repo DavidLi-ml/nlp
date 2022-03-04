@@ -1,0 +1,1 @@
+Other factors that affect data storage density include: the existence of multiple layers of data on the disc, the method of rotation (Constant linear velocity (CLV), Constant angular velocity (CAV), or zoned-CAV), the composition of lands and pits, and how much margin is unused is at the center and the edge of the disc.

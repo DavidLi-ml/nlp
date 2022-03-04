@@ -1,0 +1,1 @@
+The decision to attempt a run is ideally made by the batsman who has the better view of the ball's progress, and this is communicated by calling: "yes", "no" and "wait" are often heard.

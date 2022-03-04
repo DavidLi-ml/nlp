@@ -1,0 +1,1 @@
+The NAND gate is significant because any boolean function can be implemented by using a combination of NAND gates. This property is called functional completeness.

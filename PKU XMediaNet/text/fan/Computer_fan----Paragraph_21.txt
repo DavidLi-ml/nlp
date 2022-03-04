@@ -1,0 +1,1 @@
+The type of bearing used in a fan can affect its performance and noise. Most computer fans use one of the following bearing types:

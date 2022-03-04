@@ -1,0 +1,1 @@
+Dot pitch may be measured in linear units (with smaller numbers meaning higher resolution), usually millimeters (mm), or as a rate, for example dots per inch (with a larger number meaning higher resolution). Closer spacing produces a sharper image (as there are more dots in a given area). However, other factors may affect image quality, including:

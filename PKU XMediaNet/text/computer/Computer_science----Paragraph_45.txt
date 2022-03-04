@@ -1,0 +1,1 @@
+Alan Turing's insight: there are only five actions that a computer has to perform in order to do "anything".

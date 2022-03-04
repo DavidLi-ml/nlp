@@ -1,0 +1,1 @@
+Some mobile phones can make mobile payments via direct mobile billing schemes, or through contactless payments, if the phone and the point of sale support near field communication (NFC). Enabling contactless payments through NFC-equipped mobile phones requires the co-operation of manufacturers, network operators and retail merchants.

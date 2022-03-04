@@ -1,0 +1,1 @@
+Attempts to model avalanche behaviour date from the early 20th century, notably the work of Professor Lagotala in preparation for the 1924 Winter Olympics in Chamonix. His method was developed by A. Voellmy and popularised following the publication in 1955 of his Ueber die Zerstoerungskraft von Lawinen (On the Destructive Force of Avalanches).

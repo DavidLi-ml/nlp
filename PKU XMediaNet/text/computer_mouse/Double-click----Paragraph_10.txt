@@ -1,0 +1,1 @@
+Additionally, applications and operating systems will often not require the mouse to be completely still. Instead, they implement hysteresis, allowing for a small amount of movement between the two clicks.

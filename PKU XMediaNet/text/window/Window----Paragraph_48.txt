@@ -1,0 +1,1 @@
+Thermal transmittance (U-factor), best values are around U-0.15 (equal to 0.8 W/m2/K)

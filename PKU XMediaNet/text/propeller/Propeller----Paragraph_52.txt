@@ -1,0 +1,1 @@
+When a propeller is added to a ship its performance is altered; there is the mechanical losses in the transmission of power; a general increase in total resistance; and the hull also impedes and renders non-uniform the flow through the propeller. The ratio between a propeller's efficiency attached to a ship (

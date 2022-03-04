@@ -1,0 +1,1 @@
+A version of Caps Lock that behaves like a traditional Shift lock does exist on certain layouts such as the French AZERTY. Some operating systems and window managers allow Caps Lock to be used for a similar function. This behavior of the Caps Lock survives, however, in German and Austrian QWERTZ keyboards.

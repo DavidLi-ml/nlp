@@ -1,0 +1,1 @@
+Tablet digitizers are sometimes used with accessories called pucks, devices which rely on absolute positioning, but can be configured for sufficiently mouse-like relative tracking that they are sometimes marketed as mice.

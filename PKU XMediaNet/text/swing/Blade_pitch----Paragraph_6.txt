@@ -1,0 +1,1 @@
+In helicopters the pitch control changes the angle of attack of the rotor blades and thus the vertical acceleration or climb rate of the vehicle. This control is also called collective as distinct from the cyclic control for lateral movement. The collective blade setting is mostly achieved through vertical movement of the swashplate.

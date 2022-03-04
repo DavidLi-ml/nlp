@@ -1,0 +1,1 @@
+Musical keyboard: The white and black piano-style keys which the player presses, thus connecting the switches, which triggers the electronic sensors to generate sound. Most keyboards use a keyboard matrix circuit to reduce the amount of wiring that is needed.

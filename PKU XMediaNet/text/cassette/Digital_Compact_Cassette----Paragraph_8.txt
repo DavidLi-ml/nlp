@@ -1,0 +1,1 @@
+Magneto-resistive heads don't use iron so they don't build up residual magnetism. They never need to be demagnetized, and if a cassette demagnetizer or similar device is used on such heads, the heads can be damaged or destroyed.

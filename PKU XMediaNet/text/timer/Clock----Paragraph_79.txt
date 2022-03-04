@@ -1,0 +1,1 @@
+Digital clocks display a numeric representation of time. Two numeric display formats are commonly used on digital clocks:

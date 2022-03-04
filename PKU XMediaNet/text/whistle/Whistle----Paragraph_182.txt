@@ -1,0 +1,1 @@
+   condition, further lowering the frequency. Since there are two coupled systems, so there are two characteristics scales. For the pipe component, the characteristic dimension is L and the characteristic speed is 

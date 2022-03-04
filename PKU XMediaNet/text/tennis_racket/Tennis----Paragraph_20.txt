@@ -1,0 +1,1 @@
+The entire racket must be of a fixed shape, size, weight, and weight distribution. There may not be any energy source built into the rackets.

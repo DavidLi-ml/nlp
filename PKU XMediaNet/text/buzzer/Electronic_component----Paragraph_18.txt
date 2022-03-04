@@ -1,0 +1,1 @@
+Electrical components that pass charge in proportion to magnetism or magnetic flux, and have the ability to retain a previous resistive state, hence the name of Memory plus Resistor.

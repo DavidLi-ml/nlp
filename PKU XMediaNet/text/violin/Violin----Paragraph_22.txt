@@ -1,0 +1,1 @@
+Strings have a limited lifetime. Apart from obvious things, such as the winding of a string coming undone from wear, players generally change a string when it no longer plays true, losing the desired tone, brilliantness and intonation. String longevity depends on string quality and playing intensity.

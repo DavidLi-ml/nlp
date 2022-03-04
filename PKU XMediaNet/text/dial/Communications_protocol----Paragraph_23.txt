@@ -1,0 +1,1 @@
+Finite state machine models and communicating finite-state machines are used to formally describe the possible interactions of the protocol.

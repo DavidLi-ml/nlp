@@ -1,0 +1,1 @@
+Overload sensor — prevents the elevator from moving until excess load has been removed. It may trigger a voice prompt or buzzer alarm. This may also trigger a "full car" indicator, indicating the car's inability to accept more passengers until some are unloaded.

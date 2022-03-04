@@ -1,0 +1,1 @@
+Memory fan –  modern computer memory can generate enough heat that active cooling may be necessary, usually in the form of small fans positioned above the memory chips. This applies especially when the memory is overclocked or overvolted, or when the memory modules include active logic, such as when a system uses Fully Buffered DIMMs (FB-DIMMs).

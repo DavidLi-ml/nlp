@@ -1,0 +1,1 @@
+Multiple rows of sensors may be used to make colored images, or to increase sensitivity by TDI (Time delay and integration).

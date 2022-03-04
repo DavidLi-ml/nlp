@@ -1,0 +1,1 @@
+Proper design and construction of a fuel tank play a major role in the safety of the system of which the tank is a part. In most cases intact fuel tanks are very safe, as the tank is full of fuel vapour/air mixture that is well above the flammability limits, and thus cannot burn even if an ignition source were present (which is rare).

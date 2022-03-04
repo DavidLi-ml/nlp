@@ -1,0 +1,1 @@
+Identify and name all the tones of a given chord or other tonal mass.

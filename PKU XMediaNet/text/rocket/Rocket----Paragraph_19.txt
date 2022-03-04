@@ -1,0 +1,1 @@
+For smaller, low performance rockets such as attitude control thrusters where high performance is less necessary, a pressurised fluid is used as propellant that simply escapes the spacecraft through a propelling nozzle.

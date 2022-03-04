@@ -1,0 +1,1 @@
+MV (in fps) × (12 in. /twist rate) × 60 s/min. = Bullet RPM

@@ -1,0 +1,1 @@
+Base growth: New plants produced from the base of the origin plant.

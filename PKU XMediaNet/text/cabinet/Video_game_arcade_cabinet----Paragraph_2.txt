@@ -1,0 +1,1 @@
+Printed circuit boards (PCB) or arcade system boards, the actual hardware upon which the game runs. Hidden within the cabinet. Some systems, such as the SNK Neo-Geo MVS, use a main board with game carts. Some main boards may hold multiple game carts as well.

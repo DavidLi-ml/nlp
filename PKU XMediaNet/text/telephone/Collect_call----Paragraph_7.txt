@@ -1,0 +1,1 @@
+In Brazil, reverse calls are available for every land or mobile line call. All local reverse calls must be started by dialing 9090 and the desired phone number. If the user is not in the same zone as the recipient the calls must be started by dialing 90 + carrier code + area code + the desired phone number.

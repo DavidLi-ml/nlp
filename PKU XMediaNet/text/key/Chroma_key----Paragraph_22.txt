@@ -1,0 +1,1 @@
+For a clean division of foreground from background, it is also important that clothing and hair in the foreground shoot have a fairly simple silhouette, as fine details such as frizzy hair may not resolve properly. Similarly, partially transparent elements of the costume cause problems.

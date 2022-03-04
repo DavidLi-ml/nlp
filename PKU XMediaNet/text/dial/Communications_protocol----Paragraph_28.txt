@@ -1,0 +1,1 @@
+On a transmission medium there can be many receivers. For instance a mac-address identifies an ether network card on the transmission medium (the 'ether'). In our imaginary protocol, the assignment ethernet[mac-address]:=message value could therefore make sense.

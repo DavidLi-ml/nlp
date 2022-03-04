@@ -1,0 +1,1 @@
+DVD Flick supports 53 container formats, 42 different types of audio codecs and 72 different types of video codecs, including Windows Media formats, RealMedia, QuickTime, AVI, Flash Video and various MPEG-compliant formats. DVD Flick is also capable of importing four subtitle formats, namely SubStation Alpha (.ssa/.ass), MicroDVD (.sub), SubRip (.srt) and SubView.

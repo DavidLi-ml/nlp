@@ -1,0 +1,1 @@
+Amateur radio operators use various modes of transmission to communicate. The two most common modes for voice transmissions are frequency modulation (FM) and single sideband (SSB). FM offers high quality audio signals, while SSB is better at long distance communication when bandwidth is restricted.

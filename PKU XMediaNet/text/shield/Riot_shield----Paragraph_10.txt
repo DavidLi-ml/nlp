@@ -1,0 +1,1 @@
+A type that must be held in both hands does not let the user use a baton or gun in the other hand.

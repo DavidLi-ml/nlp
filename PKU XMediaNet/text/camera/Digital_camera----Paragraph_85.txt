@@ -1,0 +1,1 @@
+Most manufacturers of digital cameras do not provide drivers and software to allow their cameras to work with Linux or other free software. Still, many cameras use the standard USB storage protocol, and are thus easily usable. Other cameras are supported by the gPhoto project.

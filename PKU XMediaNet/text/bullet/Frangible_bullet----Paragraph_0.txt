@@ -1,0 +1,1 @@
+Frangible bullets are intended to disintegrate into tiny particles upon target impact to minimize their penetration of other objects. Small particles are slowed more rapidly by non-target environments like air resistance, and are less likely to cause injury or damage to persons and objects distant from the point of bullet impact.

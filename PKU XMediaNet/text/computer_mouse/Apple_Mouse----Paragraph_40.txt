@@ -1,0 +1,1 @@
+The Pippin, developed by Apple, had a gamepad with a built-in trackball. Versions were made which connected via the Pippin's AppleJack childproof ADB connector, infrared, and normal ADB.

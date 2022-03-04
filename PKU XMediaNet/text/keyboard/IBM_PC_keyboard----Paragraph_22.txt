@@ -1,0 +1,1 @@
+Home moves the cursor to the start of text, usually the left side of the screen.

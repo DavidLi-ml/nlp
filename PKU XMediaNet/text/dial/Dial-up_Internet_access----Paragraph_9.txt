@@ -1,0 +1,1 @@
+Modern dial-up modems typically have a maximum theoretical transfer speed of 56 kbit/s (using the V.90 or V.92 protocol), although in most cases 40–50 kbit/s is the norm. Factors such as phone line noise as well as the quality of the modem itself play a large part in determining connection speeds.

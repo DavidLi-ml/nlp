@@ -1,0 +1,1 @@
+Reciprocating engines typically use simple motor oil (journal) bearings. Full-size gas turbines often use ball bearings. The 1000 °C temperatures and high speeds of microturbines make oil lubrication and ball bearings impractical; they require air bearings or possibly magnetic bearings.

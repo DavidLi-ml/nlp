@@ -1,0 +1,1 @@
+Noise gates play an important role in drum mic'ing in heavy metal shows. The drum and cymbal mic channels will typically have noise gates so that the mics will only be turned on when the specific drum or cymbal is being played. This dramatically reduces "bleeding" between the drum mics.

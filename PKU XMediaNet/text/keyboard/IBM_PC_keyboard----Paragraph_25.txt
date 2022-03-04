@@ -1,0 +1,1 @@
+Del (Delete) deletes the character after the cursor, or the selected items.

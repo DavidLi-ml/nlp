@@ -1,0 +1,1 @@
+Can dimensions may be cited in metric or imperial units. Imperial dimensions for canmaking are written as inches+sixteenths of an inch (e.g. "202" = 2 inches + 2 sixteenths).

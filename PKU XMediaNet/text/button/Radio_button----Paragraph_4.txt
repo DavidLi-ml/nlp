@@ -1,0 +1,1 @@
+Radio buttons were named after the physical buttons used on older radios to select preset stations – when one of the buttons was pressed, other buttons would pop out, leaving the pressed button the only button in the "pushed in" position.

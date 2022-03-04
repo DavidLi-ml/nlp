@@ -1,0 +1,1 @@
+The linear method arranges data in long parallel tracks that span the length of the tape. Multiple tape heads simultaneously write parallel tape tracks on a single medium. This method was used in early tape drives. It is the simplest recording method, but has the lowest data density.

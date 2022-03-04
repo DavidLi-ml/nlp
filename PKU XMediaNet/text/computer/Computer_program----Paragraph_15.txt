@@ -1,0 +1,1 @@
+Computer programs can be categorized by the programming language paradigm used to produce them. Two of the main paradigms are imperative and declarative.

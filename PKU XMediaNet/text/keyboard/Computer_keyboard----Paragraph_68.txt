@@ -1,0 +1,1 @@
+Unencrypted wireless bluetooth keyboards are known to be vulnerable to signal theft by placing a covert listening devices in the same room as the keyboard to sniff and record bluetooth packets for the purpose of logging keys typed by the user. Microsoft wireless keyboards 2011 and earlier are documented to have this vulnerability.

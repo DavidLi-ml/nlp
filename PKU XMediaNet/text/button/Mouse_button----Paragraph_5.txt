@@ -1,0 +1,1 @@
+Double clicking refers to clicking (and, naturally, releasing) a button (often the primary one) twice. Software recognizes both clicks, and if the second occurs within a short time, the action is recognized as a double click.

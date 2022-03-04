@@ -1,0 +1,1 @@
+The amount of input power that is converted into airflow at the end of the cleaning hose is sometimes stated, and is measured in airwatts: the measurement units are simply watts. The word "air" is used to clarify that this is output power, not input electrical power.

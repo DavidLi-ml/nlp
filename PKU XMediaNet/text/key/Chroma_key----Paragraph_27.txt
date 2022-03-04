@@ -1,0 +1,1 @@
+There is also a form of color keying that uses light spectrum invisible to human eye. Called Thermo-Key, it uses infrared as the key color, which would not be replaced by background image during postprocessing.

@@ -1,0 +1,1 @@
+A class of saws for cutting all types of material; they may be small or large and the frame may be wood or metal.

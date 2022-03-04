@@ -1,0 +1,1 @@
+By 1970, as offset printing began to replace letterpress printing, the Composer would be adapted as the output unit for a typesetting system. The system included a computer-driven input station to capture the key strokes on magnetic tape and insert the operator's format commands, and a Composer unit to read the tape and produce the formatted text for photo reproduction.

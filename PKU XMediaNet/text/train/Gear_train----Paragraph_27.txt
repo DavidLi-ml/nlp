@@ -1,0 +1,1 @@
+Thus, the speed ratio of a gear train also defines its mechanical advantage. This shows that if the input gear rotates faster than the output gear, then the gear train amplifies the input torque. And, if the input gear rotates slower than the output gear, then the gear train reduces the input torque.

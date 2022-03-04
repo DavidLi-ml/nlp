@@ -1,0 +1,1 @@
+In addition to the main credit card number, credit cards also carry issue and expiration dates (given to the nearest month), as well as extra codes such as issue numbers and security codes. Not all credit cards have the same sets of extra codes nor do they use the same number of digits.

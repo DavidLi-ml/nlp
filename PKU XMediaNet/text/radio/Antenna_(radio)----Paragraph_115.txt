@@ -1,0 +1,1 @@
+Slot - Consist of a waveguide with one or more slots cut in it to emit the microwaves. Linear slot antennas emit narrow fan-shaped beams. Used as UHF broadcast antennas and marine radar antennas.

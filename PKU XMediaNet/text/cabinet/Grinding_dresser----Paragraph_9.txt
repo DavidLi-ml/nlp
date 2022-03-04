@@ -1,0 +1,1 @@
+Stationary dressers — a stationary dresser is a metal blade with a single diamond brazed into the tip. A CNC dressing program moves it across the face of the wheel, moving in and out to create the desired profile.The grinding wheel's profile is controlled by the CNC program used to dress the wheel, rather than by the profile of the dresser itself.

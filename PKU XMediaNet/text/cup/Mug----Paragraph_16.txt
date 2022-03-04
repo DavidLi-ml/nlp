@@ -1,0 +1,1 @@
+The Pythagorean cup (see picture) contains a small siphon hidden in a rod placed in the mug center. The cup holds liquid if filled below the height of the rod, but once filled above that level, it drains all liquid through the siphon to a hole in its base.

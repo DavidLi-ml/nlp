@@ -1,0 +1,1 @@
+An arbitrary constant β was used to represent the impedance at the junction of the side branch with the duct. n was an integer representing the stage number. They noted that the Strouhal number remained constant with increase of speed.

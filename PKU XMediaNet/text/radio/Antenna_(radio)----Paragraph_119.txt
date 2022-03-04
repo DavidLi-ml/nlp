@@ -1,0 +1,1 @@
+Rhombic - Consists of four equal wire sections shaped like a rhombus. It is fed by a balanced feedline at one of the acute corners, and the two sides are connected to a resistor equal to the characteristic resistance of the antenna at the other. It has a main lobe in a horizontal direction off the terminated end of the rhombus. Used for skywave communication on shortwave bands.

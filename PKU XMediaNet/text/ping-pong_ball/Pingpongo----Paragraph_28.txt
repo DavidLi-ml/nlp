@@ -1,0 +1,1 @@
+Jenga Pingpongo: Ten jenga pieces are placed, vertically, on each side. A point is lost for each piece that is toppled over.

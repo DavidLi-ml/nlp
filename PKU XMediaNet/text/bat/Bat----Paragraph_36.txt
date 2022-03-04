@@ -1,0 +1,1 @@
+To clearly distinguish returning information, bats must be able to separate their calls from the echoes that they receive. Microbats use two distinct approaches.

@@ -1,0 +1,1 @@
+RW locks can be designed with different priority policies for reader vs. writer access. The lock can either be designed to always give priority to readers (read-preferring), to always give priority to writers (write-preferring) or be unspecified with regards to priority. These policies lead to different tradeoffs with regards to concurrency and starvation.

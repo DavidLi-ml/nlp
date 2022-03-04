@@ -1,0 +1,1 @@
+A "magnetic analogue" of ice is also realized in some insulating magnetic materials in which the magnetic moments mimic the position of protons in water ice and obey energetic constraints similar to the Bernal-Fowler ice rules arising from the geometrical frustration of the proton configuration in water ice. These materials are called spin ice.

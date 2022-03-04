@@ -1,0 +1,1 @@
+Chemical and metallurgic engineers rely on bubbles for operations such as distillation, absorption, flotation and spray drying. The complex processes involved often require consideration for mass and heat transfer, and are modelled using fluid dynamics.

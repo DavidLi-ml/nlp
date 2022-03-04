@@ -1,0 +1,1 @@
+When we calculate, we use these numeric keys to type numbers. Symbols concerned with calculations such as addition, subtraction, multiplication and division symbols are located in this group of keys. The enter key in this keys indicate the equal sign.

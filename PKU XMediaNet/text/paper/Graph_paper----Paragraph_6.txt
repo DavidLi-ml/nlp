@@ -1,0 +1,1 @@
+Logarithmic paper has rectangles drawn in varying widths corresponding to logarithmic scales for semi-log plots or log-log plots.

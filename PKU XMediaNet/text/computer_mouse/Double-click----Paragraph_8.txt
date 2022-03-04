@@ -1,0 +1,1 @@
+Remapping the double-click function to a single click on an additional button, for example the often unused middle button. This effectively creates a Unix style 3-button scheme of select/action/context.

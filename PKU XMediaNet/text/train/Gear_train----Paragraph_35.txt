@@ -1,0 +1,1 @@
+This equation shows that if the number of teeth on the output gear GB is larger than the number of teeth on the input gear GA, then the input gear GA must rotate faster than the output gear GB.

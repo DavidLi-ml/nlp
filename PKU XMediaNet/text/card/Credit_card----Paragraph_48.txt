@@ -1,0 +1,1 @@
+Funding: Once the acquirer has been paid, the acquirer pays the merchant. The merchant receives the amount totaling the funds in the batch minus either the "discount rate", "mid-qualified rate", or "non-qualified rate" which are tiers of fees the merchant pays the acquirer for processing the transactions.

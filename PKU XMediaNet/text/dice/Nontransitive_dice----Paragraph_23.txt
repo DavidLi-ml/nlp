@@ -1,0 +1,1 @@
+A set of four dice using all of the numbers 1 through 24 can be made to be nontransitive. With adjacent pairs, one die will win approximately 2 out of 3 times.

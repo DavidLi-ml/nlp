@@ -1,0 +1,1 @@
+This connector is used when connecting the fan directly to the power supply. It consists of two wires (yellow/12 V and black/ground) leading to and splicing into a large in-line four-pin male-to-female Molex connector. This is the same connector as used on hard drives before the SATA became standard.

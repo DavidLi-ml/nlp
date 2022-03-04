@@ -1,0 +1,1 @@
+Readers use a similar operation for unlocking, that, while holding the lock r, decrements b and unlocks g if this causes b to become equal to zero. Writers simply lock and unlock g directly. This implementation strategy gives weak priority to readers.

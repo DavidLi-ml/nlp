@@ -1,0 +1,1 @@
+Aviation voice radios use Aircraft band VHF AM. AM is used so that multiple stations on the same channel can be received. (Use of FM would result in stronger stations blocking out reception of weaker stations due to FM's capture effect). Aircraft fly high enough that their transmitters can be received hundreds of miles away, even though they are using VHF.

@@ -1,0 +1,1 @@
+Belts normally transmit power on the tension side of the loop. However, designs for continuously variable transmissions exist that use belts that are a series of solid metal blocks, linked together as in a chain, transmitting power on the compression side of the loop.

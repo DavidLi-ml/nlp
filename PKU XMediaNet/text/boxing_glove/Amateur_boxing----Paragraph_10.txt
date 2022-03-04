@@ -1,0 +1,1 @@
+The AIBA introduced a new scoring system in January 2011. Each judge gives an individual score for each boxer. The score given to each boxer would be taken from 3 out of 5 judges either by similar score or trimmed mean. Scores are no longer tracked in real time and are instead given at the end of each round.

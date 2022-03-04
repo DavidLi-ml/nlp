@@ -1,0 +1,1 @@
+Interpreters are used to execute source code from a programming language immediately, without an intermediate file. The interpreter decodes each statement and performs its behavior. One advantage of interpreters is the ability to generate an interactive session. The programmer is presented with a prompt, and individual lines of code are typed in and performed immediately.

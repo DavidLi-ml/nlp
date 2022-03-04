@@ -1,0 +1,1 @@
+Curtain coating is a pre-metered coating method, which means that the exact amount of coating needed to coat the substrate can be calculated before the process is actually accomplished. This is can be done by using the ratio of the flow rate (with respect to volume) and width of the substrate to the speed at which the substrate passes under the "curtain" of coating fluid.

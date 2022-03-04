@@ -1,0 +1,1 @@
+While it has been known since 1884 that a spherical soap bubble is the least-area way of enclosing a given volume of air (a theorem of H. A. Schwarz), it was not until 2000 that it was proven that two merged soap bubbles provide the optimum way of enclosing two given volumes of air of different size with the least surface area. This has been dubbed the double bubble conjecture.

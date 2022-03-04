@@ -1,0 +1,1 @@
+For initial sizing, the rocket equations can be used to derive the amount of propellant needed for the rocket based on the specific impulse of the engine and the total impulse required in N*s. The equation is

@@ -1,0 +1,1 @@
+Routing. When systems are not directly connected, intermediary systems along the route to the intended receiver(s) need to forward messages on behalf of the sender. On the Internet, the networks are connected using routers. This way of connecting networks is called internetworking.

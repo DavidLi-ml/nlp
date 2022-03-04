@@ -1,0 +1,1 @@
+Core material: Material within the door used simply to fill space, provide rigidity and reduce druminess.

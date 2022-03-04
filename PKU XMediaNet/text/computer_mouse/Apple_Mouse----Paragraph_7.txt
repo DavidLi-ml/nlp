@@ -1,0 +1,1 @@
+All of Apple's Bluetooth mice have cross-compatibility with almost every Bluetooth capable computer, though they are not supported by Apple for use on PCs.

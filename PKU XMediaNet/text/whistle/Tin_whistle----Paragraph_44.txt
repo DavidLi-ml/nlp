@@ -1,0 +1,1 @@
+Tablature notation for the tin whistle is a graphical representation of which tone holes the player should cover. The most common format is a vertical column of six circles, with holes to be covered for a given note shown filled with black, and a plus sign (+) at the top for notes in the second octave. Tablature is most commonly found in tutorial books for beginners.

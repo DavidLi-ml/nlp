@@ -1,0 +1,1 @@
+The number of levers may vary, but is usually an odd number for a lock that can be opened from each side of the door in order to provide symmetry. A minimum number of levers may be specified to provide an anticipated level of security (see 5 Lever locks section).

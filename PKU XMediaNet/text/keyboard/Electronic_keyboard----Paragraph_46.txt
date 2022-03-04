@@ -1,0 +1,1 @@
+Wheels and knobs: Used to add effects to a sound that are not present by default, such as vibrato, panning, tremolo, pitch bending, and so on. A common wheel on contemporary keyboards is the pitch bend, adjusting the pitch of a note usually in the range of ±1 tone. The pitch bend wheel is usually on the left of the keyboard and is a spring-loaded potentiometer.

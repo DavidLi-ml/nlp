@@ -1,0 +1,1 @@
+At the time the Internet was developed, layering had proven to be a successful design approach for both compiler and operating system design and, given the similarities between programming languages and communications protocols, layering was applied to the protocols as well. This gave rise to the concept of layered protocols which nowadays forms the basis of protocol design.

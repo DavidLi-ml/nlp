@@ -1,0 +1,1 @@
+Many cameras, especially high-end ones, support a raw image format. A raw image is the unprocessed set of pixel data directly from the camera's sensor, often saved in a proprietary format. Adobe Systems has released the DNG format, a royalty-free raw image format used by at least 10 camera manufacturers.

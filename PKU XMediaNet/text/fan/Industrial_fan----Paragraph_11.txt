@@ -1,0 +1,1 @@
+Some applications require a dedicated, custom configuration for a fan design to satisfy all specifications.

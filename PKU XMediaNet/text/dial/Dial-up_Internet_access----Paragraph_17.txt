@@ -1,0 +1,1 @@
+The server-side compression operates much more efficiently than the on-the-fly compression of V.44-enabled modems. Typically website text is compacted to 5% thus increasing effective throughput to approximately 1000 kbit/s, and images are lossy-compressed to 15-20% increasing throughput to about 350 kbit/s.

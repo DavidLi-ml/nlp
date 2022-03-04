@@ -1,0 +1,1 @@
+Ferrite (loopstick) - These are used as the receiving antenna in most consumer AM radios operating in the medium wave broadcast band (and lower frequencies), a notable exception being car radios. Wire is coiled around a ferrite core which greatly increases the coil's inductance. Radiation pattern is maximum at directions normal to the ferrite stick.

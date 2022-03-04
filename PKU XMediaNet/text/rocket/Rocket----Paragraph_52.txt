@@ -1,0 +1,1 @@
+The rate of propellant flow through a rocket engine is often deliberately varied over a flight, to provide a way to control the thrust and thus the airspeed of the vehicle. This, for example, allows minimization of aerodynamic losses and can limit the increase of g-forces due to the reduction in propellant load.

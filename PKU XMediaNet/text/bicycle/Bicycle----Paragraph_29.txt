@@ -1,0 +1,1 @@
+The drivetrain begins with pedals which rotate the cranks, which are held in axis by the bottom bracket. Most bicycles use a chain to transmit power to the rear wheel. A very small number of bicycles use a shaft drive to transmit power, or special belts. Hydraulic bicycle transmissions have been built, but they are currently inefficient and complex.

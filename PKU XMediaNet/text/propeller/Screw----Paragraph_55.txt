@@ -1,0 +1,1 @@
+Metric hexagon bolts, screws and nuts are specified, for example, in British Standard BS 4190 (general purpose screws) and BS 3692 (precision screws). The following table lists the relationship given in these standards between the thread size and the maximal width across the hexagonal flats (wrench size):

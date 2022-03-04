@@ -1,0 +1,1 @@
+Readers–writer locks are usually constructed on top of mutexes and condition variables, or on top of semaphores.

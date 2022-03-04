@@ -1,0 +1,1 @@
+A simple absorption refrigeration system common in large commercial plants uses a solution of lithium bromide and Lithium chloride salt and water. Water under low pressure is evaporated from the coils that are being chilled. The water is absorbed by a lithium bromide/water solution. The system drives the water off the lithium bromide solution with heat.

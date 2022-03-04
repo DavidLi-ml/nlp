@@ -1,0 +1,1 @@
+Blade pitch is normally described in units of distance/rotation assuming no slip.

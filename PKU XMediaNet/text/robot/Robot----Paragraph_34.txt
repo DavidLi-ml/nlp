@@ -1,0 +1,1 @@
+A literate or 'reading robot' named Marge has intelligence that comes from software. She can read newspapers, find and correct misspelled words, learn about banks like Barclays, and understand that some restaurants are better places to eat than others.

@@ -1,0 +1,1 @@
+LCD's come in two types: those using cold cathode fluorescent lamps, simply called LCDs and those using LED as backlight called as LEDs.

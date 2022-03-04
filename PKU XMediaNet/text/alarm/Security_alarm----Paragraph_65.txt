@@ -1,0 +1,1 @@
+In the UK the most popular solution of this kind is similar in principle to the above but with the primary and back up paths reversed. Utilizing a radio path (GPRS/GSM) as the primary signalling path is not only quicker than PSTN but also allows huge cost savings as unlimited amounts of data can be sent at no extra expense.

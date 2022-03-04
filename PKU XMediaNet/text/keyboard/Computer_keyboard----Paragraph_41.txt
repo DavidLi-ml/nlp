@@ -1,0 +1,1 @@
+It is possible to install multiple keyboard layouts within an operating system and switch between them, either through features implemented within the OS, or through an external application. Microsoft Windows, Linux, and Mac provide support to add keyboard layouts and choose from them.

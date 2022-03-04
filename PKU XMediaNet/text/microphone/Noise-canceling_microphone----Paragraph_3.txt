@@ -1,0 +1,1 @@
+The internal electronic circuitry of an active noise-canceling mic attempts to subtract noise signal from the primary microphone. The circuit may employ passive or active noise canceling techniques to filter out the noise, producing an output signal that has a lower noise floor and a higher signal-to-noise ratio.

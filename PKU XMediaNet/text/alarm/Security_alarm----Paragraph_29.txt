@@ -1,0 +1,1 @@
+A rather new and unproven type of sensor uses piezo-electric components rather than mechanical circuits, which can be tuned to be extremely sensitive to vibration.

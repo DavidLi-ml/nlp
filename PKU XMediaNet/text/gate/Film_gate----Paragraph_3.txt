@@ -1,0 +1,1 @@
+Video cameras do not have this problem, as any malfunction to the sensor will render the entire system useless. The Arri D-20 and D-21 system, however, does have removable lenses and a rotating optical shutter, which means that the CMOS sensor can be exposed in much the same way as a film gate and thus needs to be kept assiduously clean.

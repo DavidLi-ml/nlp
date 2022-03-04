@@ -1,0 +1,1 @@
+When a system includes a centrifugal pump, an important design issue is matching the head loss-flow characteristic with the pump so that it operates at or close to the point of its maximum efficiency.

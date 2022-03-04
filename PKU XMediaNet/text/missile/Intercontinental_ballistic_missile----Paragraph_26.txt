@@ -1,0 +1,1 @@
+ICBMs usually use the trajectory which optimizes range for a given amount of payload (the minimum-energy trajectory); an alternative is a depressed trajectory, which allows less payload, shorter flight time, and has a much lower apogee.

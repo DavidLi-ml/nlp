@@ -1,0 +1,1 @@
+The combined center of mass of a bicycle and its rider must lean into a turn to successfully navigate it. This lean is induced by a method known as countersteering, which can be performed by the rider turning the handlebars directly with the hands or indirectly by leaning the bicycle.

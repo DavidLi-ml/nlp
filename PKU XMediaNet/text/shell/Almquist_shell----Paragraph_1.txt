@@ -1,0 +1,1 @@
+Derivative versions of ash are still installed as the default shell (/bin/sh) on FreeBSD, NetBSD, OpenBSD, DragonFly BSD, MINIX, and Android, and in some Linux distributions.

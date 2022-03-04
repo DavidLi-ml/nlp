@@ -1,0 +1,1 @@
+This analogy has important consequences for both the design and the development of protocols. One has to consider the fact that algorithms, programs and protocols are just different ways of describing expected behavior of interacting objects. A familiar example of a protocolling language is the HTML language used to describe web pages which are the actual web protocols.

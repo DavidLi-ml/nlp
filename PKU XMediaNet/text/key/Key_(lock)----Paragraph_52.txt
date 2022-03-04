@@ -1,0 +1,1 @@
+Larger organizations, with more complex systems, may have several levels of master keys, where the top level key works in all of the locks in the system. To visualize this, it can be thought of as a hierarchical chart, or a tree.

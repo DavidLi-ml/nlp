@@ -1,0 +1,1 @@
+Servo Controlled: Controlled by a driving signal which is determined by the error between the mechanism's present position and the desired output position.

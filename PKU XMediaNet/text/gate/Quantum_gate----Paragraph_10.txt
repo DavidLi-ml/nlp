@@ -1,0 +1,1 @@
+The Pauli-X gate acts on a single qubit. It is the quantum equivalent of a NOT gate (with respect to the standard basis 

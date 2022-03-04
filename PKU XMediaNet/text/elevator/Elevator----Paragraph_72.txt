@@ -1,0 +1,1 @@
+Call cancellation: A destination floor may be deselected by double clicking.

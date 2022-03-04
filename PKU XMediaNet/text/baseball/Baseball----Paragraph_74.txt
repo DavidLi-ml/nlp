@@ -1,0 +1,1 @@
+On-base plus slugging (OPS) measures a batter's overall ability. It is calculated by adding the batter's on-base percentage and slugging percentage.

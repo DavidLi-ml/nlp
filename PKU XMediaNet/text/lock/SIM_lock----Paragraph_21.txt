@@ -1,0 +1,1 @@
+DCT4 and DCT3 Nokia will only allow a maximum of five unlock attempts using the unlock code method. After five codes have been inputted, the phone will not allow the user to try any more codes (even if it is correct) and will require the owner to try other unlock methods.

@@ -1,0 +1,1 @@
+Pallet jewels are on the pallet fork and interact with the escape wheel. They are the surfaces which, 5 times a second in a typical escapement, lock the gear train of the watch and then transfer power to the balance wheel.

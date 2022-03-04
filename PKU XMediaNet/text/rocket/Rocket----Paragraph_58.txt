@@ -1,0 +1,1 @@
+   is determined by measurement while testing the engine. In practice the effective exhaust velocities of rockets varies but can be extremely high, ~4500 m/s, about 15 times the sea level speed of sound in air.

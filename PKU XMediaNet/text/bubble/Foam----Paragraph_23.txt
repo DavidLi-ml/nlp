@@ -1,0 +1,1 @@
+with velocity in units of centimeters per second. ρ1 and ρ2 is the density for a gas and liquid respectively in units of g/cm3 and ῃ1 and ῃ2 is the viscosity of the gas and liquid g/cm·s and g is the acceleration in units of cm/s2.

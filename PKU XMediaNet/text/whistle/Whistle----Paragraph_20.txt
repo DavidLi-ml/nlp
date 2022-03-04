@@ -1,0 +1,1 @@
+The feedback is compressible and depends on the speed of sound. This action may be called intermediate field, quasi-compressible feedback. A well known example is the hole tone (described below) where the feedback distance of a compressible (sound) wave is very small as compared to the wavelength of the sound.

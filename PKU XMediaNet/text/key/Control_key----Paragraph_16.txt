@@ -1,0 +1,1 @@
+Under Mac OS X, the Control key allows the use of Emacs-style key combinations in most text entry fields. For example, Ctrl-A moves the caret to the start of the paragraph, Ctrl-L vertically centers the current line in the editing field, Ctrl-K cuts text to the end of the line to a kill ring separate from the normal clipboard, etc.

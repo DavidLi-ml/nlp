@@ -1,0 +1,1 @@
+VK like buttons for posts, comments, media and external sites operate in a different way from Facebook. Liked content doesn't get automatically pushed to the user's wall, but is saved in the (private) Favorites section instead.

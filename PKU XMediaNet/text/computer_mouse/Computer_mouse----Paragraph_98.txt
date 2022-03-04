@@ -1,0 +1,1 @@
+Many games provide players with the option of mapping their own choice of a key or button to a certain control.

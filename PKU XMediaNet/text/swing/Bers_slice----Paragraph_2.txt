@@ -1,0 +1,1 @@
+The Bers slice gives an embedding of Teichmüller space into the moduli space of quasi-Fuchsian groups, called the Bers embedding, and the closure of its image is a compactification of Teichmüller space called the Bers compactification.

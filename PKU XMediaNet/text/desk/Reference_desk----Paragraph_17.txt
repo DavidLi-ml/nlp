@@ -1,0 +1,1 @@
+The librarian can look up a brief, factual answer to a specific question.

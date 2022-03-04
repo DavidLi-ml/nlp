@@ -1,0 +1,1 @@
+carriage return (CR) – return to the first column of text and, in some systems, switch to the next line.

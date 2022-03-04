@@ -1,0 +1,1 @@
+cursor – a marker used to indicate where the next character will be printed. The cursor, however, was originally a term to describe the clear slider on a slide rule.

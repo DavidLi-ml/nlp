@@ -1,0 +1,1 @@
+Modern practice is to ensure that cores remain uncontaminated, since they are analysed for trace quantities of chemicals and isotopes. They are sealed in plastic bags after drilling and analysed in clean rooms.

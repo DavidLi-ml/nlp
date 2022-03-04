@@ -1,0 +1,1 @@
+A studio shot taken in front of a green screen will naturally have ambient light the same color as the screen, due to its light scattering. This effect is known as spill. This can look unnatural or cause portions of the characters to disappear, so must be compensated for, or avoided by using a larger screen placed far from the actors.

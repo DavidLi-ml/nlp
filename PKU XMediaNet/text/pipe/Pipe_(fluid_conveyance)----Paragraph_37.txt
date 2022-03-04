@@ -1,0 +1,1 @@
+API 5L was changed in the second half of 2008 to edition 44 from edition 43 to make it identical to ISO 3183. It is important to note that the change has created the requirement that sour service, ERW pipe, pass a hydrogen induced cracking (HIC) test per NACE TM0284 in order to be used for sour service.

@@ -1,0 +1,1 @@
+Tempo: A parameter that determines the speed of rhythms, chords and other auto-generated content on electronic keyboards. The unit of this parameter is beats per minute. Many keyboards feature audio or visual metronomes (using graphics on a portion of the display) to help players keep time.

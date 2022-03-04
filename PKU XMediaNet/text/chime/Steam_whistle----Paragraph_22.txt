@@ -1,0 +1,1 @@
+Steam quality – The quality of steam (steam dryness) on which whistles are blown is variable and may affect frequency. Steam quality determines the velocity of sound, which declines with decreasing dryness due to the inertia of the liquid phase. Also, the specific volume of steam for a given temperature decreases with decreasing dryness.

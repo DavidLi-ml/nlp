@@ -1,0 +1,1 @@
+The oxide side of a tape is the surface that can be magnetically manipulated by a tape head. This is the side that stores the information, the opposite side is simply a substrate to hold the tape together. The name originates from the fact that the magnetic side of most tapes is made of an oxide of iron. Sometimes chromium is also used.

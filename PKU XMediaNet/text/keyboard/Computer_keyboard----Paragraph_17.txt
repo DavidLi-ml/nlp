@@ -1,0 +1,1 @@
+Smaller external keyboards have been introduced for devices without a built-in keyboard, such as PDAs, and smartphones. Small keyboards are also useful where there is a limited workspace.

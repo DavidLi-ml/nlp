@@ -1,0 +1,1 @@
+At each step, the user must answer a question about one or more features (characters) of the entity to be identified. For example, a step in a botanical key may ask about the color of flowers, or the disposition of the leaves along the stems. A key for insect identification may ask about the number of bristles on the rear leg.

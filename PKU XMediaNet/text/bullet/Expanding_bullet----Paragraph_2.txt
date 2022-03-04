@@ -1,0 +1,1 @@
+Expanding bullets are less likely to pass through the target, and if they do they will exit at a lower velocity. This reduces the risk of accidental shootings. For this reason, and to maximize the stopping effect, law enforcement organizations use expanding bullets. Even then some penetration is needed, e.g. to penetrate a windshield or heavy clothing.

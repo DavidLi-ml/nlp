@@ -1,0 +1,1 @@
+On IBM's 3270 and 5250 line of terminals, the Enter key was located to the right of the space bar and was used to send the contents of the terminal's buffer to the host computer. The Return key was located in a more standard location and was used to generate a new line.

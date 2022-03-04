@@ -1,0 +1,1 @@
+When these two strategies are combined on a lock with the properties given above, the brute force search time is reduced by greater than 99%; a brute force search that would have taken 360 hours is reduced to an achievable 2.78 hours. This is still significantly better security than multiple-dial locks and many keyed locks, but unacceptable for high security applications.

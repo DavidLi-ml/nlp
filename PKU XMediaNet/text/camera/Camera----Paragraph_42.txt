@@ -1,0 +1,1 @@
+Lens filters: allow artificial colors or change light density.

@@ -1,0 +1,1 @@
+The dynamic range of a microphone is the difference in SPL between the noise floor and the maximum SPL. If stated on its own, for example "120 dB", it conveys significantly less information than having the self-noise and maximum SPL figures individually.

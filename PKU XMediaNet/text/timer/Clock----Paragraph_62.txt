@@ -1,0 +1,1 @@
+This has the dual function of keeping the oscillator running by giving it 'pushes' to replace the energy lost to friction, and converting its vibrations into a series of pulses that serve to measure the time.

@@ -1,0 +1,1 @@
+Although human morphology is not necessarily the ideal form for working robots, the fascination in developing robots that can mimic it can be found historically in the assimilation of two concepts: simulacra (devices that exhibit likeness) and automata (devices that have independence).

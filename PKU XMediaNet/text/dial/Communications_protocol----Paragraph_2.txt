@@ -1,0 +1,1 @@
+The information exchanged between devices—through a network, or other media—is governed by rules and conventions that can be set out in technical specifications called communications protocol standards. The nature of a communication, the actual data exchanged and any state-dependent behaviors, is defined by its specification.

@@ -1,0 +1,1 @@
+There is ongoing debate over the use of the term "bug" to describe software errors. One argument is that the word "bug" is divorced from a sense that a human being caused the problem, and instead implies that the defect arose on its own, leading to a push to abandon the term "bug" in favor of terms such as "defect", with limited success.

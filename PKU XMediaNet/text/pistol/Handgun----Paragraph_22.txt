@@ -1,0 +1,1 @@
+Glock introduced a new "Safe Action" mechanism that is neither a single nor double action. The weapon is never "cocked" in terms of a hammer being "cocked". The partly tensioned firing pin lock is released by pressing the trigger, resulting in the first and subsequent trigger pulls all being the same.

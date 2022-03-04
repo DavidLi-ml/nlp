@@ -1,0 +1,1 @@
+A trickle-charge battery charger. It may alternately have a specialized controller to manage, monitor and test that the battery is holding a charge.

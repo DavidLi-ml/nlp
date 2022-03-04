@@ -1,0 +1,1 @@
+The Joint Photography Experts Group standard (JPEG) is the most common file format for storing image data. Other file types include Tagged Image File Format (TIFF) and various Raw image formats.

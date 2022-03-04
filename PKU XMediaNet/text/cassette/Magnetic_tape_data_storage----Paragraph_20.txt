@@ -1,0 +1,1 @@
+Scanning recording methods write short dense tracks across the width of the tape medium, not along the length. Tape heads are placed on a drum or disk which rapidly rotates while the relatively slowly moving tape passes it.

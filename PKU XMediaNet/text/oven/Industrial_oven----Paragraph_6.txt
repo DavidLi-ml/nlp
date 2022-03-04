@@ -1,0 +1,1 @@
+The oven contains multiple zones, which can be individually controlled for temperature. Generally there are several heating zones followed by one or more cooling zones. The PCB moves through the oven on a conveyor belt, and is therefore subjected to a controlled time-temperature profile. Convection Reflow Oven Detailed Description

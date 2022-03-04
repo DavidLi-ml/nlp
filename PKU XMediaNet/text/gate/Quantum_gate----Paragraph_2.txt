@@ -1,0 +1,1 @@
+Quantum logic gates are represented by unitary matrices. The most common quantum gates operate on spaces of one or two qubits, just like the common classical logic gates operate on one or two bits. This means that as matrices, quantum gates can be described by 2 × 2 or 4 × 4 unitary matrices.

@@ -1,0 +1,1 @@
+While satellite navigation systems such as the Global Positioning System (GPS) require unprecedentedly accurate knowledge of time, this is supplied by equipment on the satellites; vehicles no longer need timekeeping equipment.

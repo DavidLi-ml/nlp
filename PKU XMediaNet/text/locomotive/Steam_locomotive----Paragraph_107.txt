@@ -1,0 +1,1 @@
+where d is bore of cylinder (diameter) in inches, s is cylinder stroke, in inches, P is boiler pressure in pound per square inch, D is driving wheel diameter in inches, c is a factor that depends on the effective cut-off. In the U.S. "c" is usually set at 0.85, but lower on engines that have maximum cutoff limited to 50–75%.

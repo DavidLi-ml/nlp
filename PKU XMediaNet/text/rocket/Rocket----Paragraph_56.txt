@@ -1,0 +1,1 @@
+  , and this is one of the most important figures that describes a rocket's performance. It is defined such that it is related to the effective exhaust velocity by:

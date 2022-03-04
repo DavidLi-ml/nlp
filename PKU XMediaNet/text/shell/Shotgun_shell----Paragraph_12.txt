@@ -1,0 +1,1 @@
+The standard definition of shotgun gauge assumes that a pure lead ball is used. The following three formulas can be used to find the diameter or gauge of a shotgun. An explanation for the first and second formula can be found on Gauge (bore diameter). In addition, another source for a gauge diameter formula can be found in gauge (bore diameter).

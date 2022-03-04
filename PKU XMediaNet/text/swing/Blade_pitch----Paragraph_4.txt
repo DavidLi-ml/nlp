@@ -1,0 +1,1 @@
+A propeller blade's "lift", or its thrust, depends on the angle of attack combined with its speed. Because the velocity of a propeller blade varies from the hub to the tip, it is of twisted form in order for the thrust to remain approximately constant along the length of the blade; this is called washout. This is typical of all but the crudest propellers.

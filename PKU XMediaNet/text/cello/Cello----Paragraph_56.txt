@@ -1,0 +1,1 @@
+When a string is bowed or plucked to produce a note, the fundamental note is accompanied by higher frequency overtones. Each sound has a particular recipe of frequencies that combine to make the total sound.

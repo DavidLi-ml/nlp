@@ -1,0 +1,1 @@
+A rating system where the results of inter-club games are rated to enable players to judge their standing and progress. Many clubs use the rating system provided by FIDE or their national chess organization.

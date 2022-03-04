@@ -1,0 +1,1 @@
+Pipelines are supported in most popular operating systems, from Unix and DOS onwards, and are created using the "|" character.

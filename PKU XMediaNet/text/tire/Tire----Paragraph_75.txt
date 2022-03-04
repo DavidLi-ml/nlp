@@ -1,0 +1,1 @@
+Load sensitivity is the behaviour of tires under load. Conventional pneumatic tires do not behave as classical friction theory would suggest. Namely, the load sensitivity of most real tires in their typical operating range is such that the coefficient of friction decreases as the vertical load, Fz, increases.

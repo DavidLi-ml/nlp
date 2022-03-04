@@ -1,0 +1,1 @@
+A sentence which uses every letter of the alphabet (a pangram), "The quick brown fox jumps over the lazy dog" can be used to check typewriters quickly.

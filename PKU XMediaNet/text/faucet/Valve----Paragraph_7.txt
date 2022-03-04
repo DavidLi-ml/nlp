@@ -1,0 +1,1 @@
+More complex control systems using valves requiring automatic control based on an external input (i.e., regulating flow through a pipe to a changing set point) require an actuator. An actuator will stroke the valve depending on its input and set-up, allowing the valve to be positioned accurately, and allowing control over a variety of requirements.

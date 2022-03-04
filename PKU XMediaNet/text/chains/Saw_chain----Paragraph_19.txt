@@ -1,0 +1,1 @@
+A chain loop must be of an appropriate length in order to run safely. This is described by the number of drive links. This number is determined by the length and type of bar, the sprocket size and the overall configuration of the saw. For replacement purposes, simply count the drive links on the old chain.

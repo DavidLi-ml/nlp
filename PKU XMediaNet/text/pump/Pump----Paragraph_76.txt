@@ -1,0 +1,1 @@
+Buffer tank A buffer tank is often installed upstream of the pump suction nozzle in case of a slug flow. The buffer tank breaks the energy of the liquid slug, smooths any fluctuations in the incoming flow and acts as a sand trap.

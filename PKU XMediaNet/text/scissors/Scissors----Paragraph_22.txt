@@ -1,0 +1,1 @@
+The game Rock-Paper-Scissors involves two or more players making shapes with their hands to determine the outcome of the game. One of the three shapes, 'scissors', is made by extending the index and middle fingers to mimic the shape of most scissors.

@@ -1,0 +1,1 @@
+Wickets (W): The number of wickets taken.

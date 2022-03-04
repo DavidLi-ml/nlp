@@ -1,0 +1,1 @@
+Balls (B): The number of balls bowled. Overs is more traditional, but balls is a more useful statistic because the number of balls per over has varied historically.

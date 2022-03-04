@@ -1,0 +1,1 @@
+The Eiffel Tower has Otis double-deck elevators built into the legs of the tower, serving the ground level to the first and second levels. Even though the shaft runs diagonally upwards with the contour of the tower, both the upper and lower cars remain horizontally level. The offset distance of the two cars changes throughout the journey.

@@ -1,0 +1,1 @@
+Most moving hydro-mechanical components cycle at 0–50 Hz, but entrained gas bubbles resulting in a foamy condition of the associated hydraulic fluid results in actual hydraulic cycles that can exceed 1000 MHz even if the moving mechanical components do not cycle at the higher cycle frequency.

@@ -1,0 +1,1 @@
+It is mostly used as a modifier key for key-combinations.

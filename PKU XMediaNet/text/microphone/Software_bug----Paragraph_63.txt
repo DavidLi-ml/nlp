@@ -1,0 +1,1 @@
+Use-after-free error, where a pointer is used after the system has freed the memory it references.

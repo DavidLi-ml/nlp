@@ -1,0 +1,1 @@
+In Eq. (2) the sum of 4 front element number call static pressure,the sum of last 2 element number call velocity pressure look carefully on the Fig 2.2 and the detail equation.

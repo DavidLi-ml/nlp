@@ -1,0 +1,1 @@
+Microsoft Windows, since Windows 98, has supported multiple simultaneous pointing devices. Because Windows only provides a single screen cursor, using more than one device at the same time requires cooperation of users or applications designed for multiple input devices.

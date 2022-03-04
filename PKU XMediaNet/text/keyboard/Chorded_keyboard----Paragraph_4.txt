@@ -1,0 +1,1 @@
+Practical devices generally use simpler chords for common characters (e.g., Baudot), or may have ways to make it easier to remember the chords (e.g., Microwriter), but the same principles apply. These portable devices first became popular with the wearable computer movement in the 1980s.

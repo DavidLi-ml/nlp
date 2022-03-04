@@ -1,0 +1,1 @@
+At VHF and above (>30 MHz) the ground becomes a poorer reflector. However it remains a good reflector especially for horizontal polarization and grazing angles of incidence. That is important as these higher frequencies usually depend on horizontal line-of-sight propagation (except for satellite communications), the ground then behaving almost as a mirror.

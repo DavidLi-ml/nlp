@@ -1,0 +1,1 @@
+Elliptic orbit: An orbit with an eccentricity greater than 0 and less than 1 whose orbit traces the path of an ellipse.

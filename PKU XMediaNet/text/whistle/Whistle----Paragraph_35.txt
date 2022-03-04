@@ -1,0 +1,1 @@
+This number permits relationships to be developed between the different sizes and speeds. Now the Strouhal Number can be derived directly from the dimensionless form of the mass continuity equation. This equation may be referred to as a fluid mechanical Strouhal number in comparison with the second version which may be referred to as the acoustical Strouhal number.

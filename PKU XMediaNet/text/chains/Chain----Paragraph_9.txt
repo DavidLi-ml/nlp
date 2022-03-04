@@ -1,0 +1,1 @@
+Chains can also symbolize interconnectivity or interdependence. Unicode, in versions 6.x, contains the U+1F517 🔗 LINK SYMBOL, which may show chain link(s). It may denote a hyperlink.

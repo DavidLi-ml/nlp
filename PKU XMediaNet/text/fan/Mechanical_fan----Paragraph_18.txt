@@ -1,0 +1,1 @@
+variable-pitch fan: A variable-pitch fan is used where precise control of static pressure within supply ducts is required. The blades are arranged to rotate upon a control-pitch hub. The fan wheel will spin at a constant speed. As the hub moves toward the rotor, the blades increase their angle of attack and an increase in flow results.

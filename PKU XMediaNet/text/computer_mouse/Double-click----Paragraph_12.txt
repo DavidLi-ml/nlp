@@ -1,0 +1,1 @@
+The maximum delay required for two consecutive clicks to be interpreted as a double-click is not standardized. According to Microsoft's MSDN website, the default timing in Windows is 500ms (one half second). The double-click time is also used as a basis for other timed actions.

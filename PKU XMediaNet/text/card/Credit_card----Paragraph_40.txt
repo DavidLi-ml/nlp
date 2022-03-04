@@ -1,0 +1,1 @@
+Credit Card association: An association of card-issuing banks such as Discover, Visa, MasterCard, American Express, etc. that set transaction terms for merchants, card-issuing banks, and acquiring banks.

@@ -1,0 +1,1 @@
+Helical scan recording writes short dense tracks in diagonal manner. This recording method is used by virtually all videotape systems and several data tape formats.

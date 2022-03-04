@@ -1,0 +1,1 @@
+One player calls their hand. The other player may either call a higher-ranking hand, call the bluff, or re-roll some or all of their dice. When a bluff is called, the accused bluffer reveals their dice and the winner is determined.

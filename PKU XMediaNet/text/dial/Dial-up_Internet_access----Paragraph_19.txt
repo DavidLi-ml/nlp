@@ -1,0 +1,1 @@
+Note that the values given are maximum values, and actual values may be slower under certain conditions (for example, noisy phone lines).

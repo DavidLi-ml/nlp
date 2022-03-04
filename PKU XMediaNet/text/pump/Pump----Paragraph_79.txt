@@ -1,0 +1,1 @@
+From an initial design point of view, engineers often use a quantity termed the specific speed to identify the most suitable pump type for a particular combination of flow rate and head.

@@ -1,0 +1,1 @@
+It is impossible to gain an advantage over a truly random opponent. However, by exploiting the weaknesses of nonrandom opponents, it is possible to gain a significant advantage. Indeed, human players tend to be nonrandom. As such, there have been programming competitions for algorithms that play rock-paper-scissors.

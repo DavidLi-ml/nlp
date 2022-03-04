@@ -1,0 +1,1 @@
+Steam aperture profile – Gas flow rate (and thus sound level) is set not only by aperture area and blowing pressure, but also by aperture geometry. Friction and turbulence influence the flow rate, and are accounted for by a discharge coefficient. A mean estimate of the discharge coefficient from whistle field tests is 0.72 (range 0.69 - 0.74).

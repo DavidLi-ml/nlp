@@ -1,0 +1,1 @@
+The Hold control is used to define the length of time the gate will stay fully open after the signal falls below the threshold, and before the Release period is commenced. The hold control is often set to ensure the gate does not close during short pauses between words or sentences in a speech signal.

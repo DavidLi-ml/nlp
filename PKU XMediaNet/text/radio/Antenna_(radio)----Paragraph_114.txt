@@ -1,0 +1,1 @@
+Horn - Simple antenna with moderate gains of 15 to 25 dBi consists of a flaring metal horn attached to a waveguide. Used for applications such as radar guns, radiometers and as feed antennas for parabolic dishes.

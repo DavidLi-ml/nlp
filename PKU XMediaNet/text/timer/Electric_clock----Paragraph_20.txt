@@ -1,0 +1,1 @@
+Synchronous motor clocks are rugged because they do not have a delicate pendulum or balance wheel. However, a temporary power outage will stop the clock, which will show the wrong time when power is restored. Some synchronous clocks have an indicator which shows if it has stopped and restarted.

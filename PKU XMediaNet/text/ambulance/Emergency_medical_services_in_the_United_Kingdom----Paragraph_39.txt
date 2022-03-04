@@ -1,0 +1,1 @@
+Technician - technicians either support paramedics, or work autonomously. There is no single definition or qualification which covers all technicians, and they vary by service, especially between NHS and private providers

@@ -1,0 +1,1 @@
+Another smart bullet is one that self-destructs within a limited range. This would be used to minimize collateral damage of a bullet in case of a miss. For example, hunting near a populated area. This would involve either change in course into the ground, or near vaporization.

@@ -1,0 +1,1 @@
+As a helicopter moves from hover to forward flight it enters a state called translational lift which provides extra lift without increasing power. This state, most typically, occurs when the airspeed reaches approximately 16–24 knots, and may be necessary for a helicopter to obtain flight.

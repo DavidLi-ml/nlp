@@ -1,0 +1,1 @@
+There are three symbols for NAND gates: the MIL/ANSI symbol, the IEC symbol and the deprecated DIN symbol sometimes found on old schematics. For more information see logic gate symbols. The ANSI symbol for the NAND gate is a standard AND gate with an inversion bubble connected.

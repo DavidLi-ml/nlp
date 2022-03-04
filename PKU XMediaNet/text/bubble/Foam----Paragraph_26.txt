@@ -1,0 +1,1 @@
+At the top of the bubble at point A, the pressure in the liquid is assumed to be p0 as well as in the gas. At the bottom of the bubble at point B, the hydrostatic pressure is:

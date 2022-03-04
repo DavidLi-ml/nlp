@@ -1,0 +1,1 @@
+Esc produces an ASCII escape character. It may be used to exit menus or modes.

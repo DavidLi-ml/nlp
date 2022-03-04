@@ -1,0 +1,1 @@
+   is unchanged after applying this gate, however it modifies the phase of the quantum state. This is equivalent to tracing a horizontal circle (a line of latitude) on the Bloch Sphere by 

@@ -1,0 +1,1 @@
+Circular error probable is crucial, because halving the circular error probable decreases the needed warhead energy by a factor of four. Accuracy is limited by the accuracy of the navigation system and the available geodetic information.

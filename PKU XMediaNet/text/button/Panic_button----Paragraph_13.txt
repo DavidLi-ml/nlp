@@ -1,0 +1,1 @@
+In a MIDI instrument when the note-off message for a played note is not received, the note will sound on endlessly, and also has the potential to rise in amplitude enough to damage the speakers or other components in the sound system. Hitting the panic button will send a note-off command to all keys, stopping any notes that were still playing.

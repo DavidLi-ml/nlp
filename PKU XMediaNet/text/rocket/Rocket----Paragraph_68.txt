@@ -1,0 +1,1 @@
+For example, the first stage of the Saturn V, carrying the weight of the upper stages, was able to achieve a mass ratio of about 10, and achieved a specific impulse of 263 seconds. This gives a delta-v of around 5.9 km/s whereas around 9.4 km/s delta-v is needed to achieve orbit with all losses allowed for.

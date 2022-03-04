@@ -1,0 +1,1 @@
+Print screen originally printed a text image of the screen. (On modern computers, Ctrl+Print Screen usually takes a screenshot.) With the Alt key, it switched to SysRq, a different keycode.

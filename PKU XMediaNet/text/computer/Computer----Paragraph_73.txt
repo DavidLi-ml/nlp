@@ -1,0 +1,1 @@
+Logic operations involve Boolean logic: AND, OR, XOR, and NOT. These can be useful for creating complicated conditional statements and processing boolean logic.

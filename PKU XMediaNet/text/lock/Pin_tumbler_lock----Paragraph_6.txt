@@ -1,0 +1,1 @@
+Above each key pin is a corresponding set of driver pins, which are spring-loaded. Simpler locks typically have only one driver pin for each key pin, but locks requiring multi-keyed entry, such as a group of locks having a master key, may have extra driver pins known as spacer pins. The outer casing has several vertical shafts, which hold the spring-loaded pins.

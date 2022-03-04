@@ -1,0 +1,1 @@
+Cash registers include a key labeled "No Sale", abbreviated "NS" on many modern electronic cash registers. Its function is to open the drawer, printing a receipt stating "No Sale" and recording in the register log that the register was opened. Some cash registers require a numeric password or physical key to be used when attempting to open the till.

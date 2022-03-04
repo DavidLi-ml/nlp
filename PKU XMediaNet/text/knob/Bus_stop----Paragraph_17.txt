@@ -1,0 +1,1 @@
+A bus driver cannot be expected to continuously look for intending passengers. A bus stop means that the driver only needs to look for intending passengers at the approach to each bus stop.

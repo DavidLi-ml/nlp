@@ -1,0 +1,1 @@
+test bed machine which did not have a skin, for initial hover and flight testing.

@@ -1,0 +1,1 @@
+disadvantage: high rate of false alarm or no alarms at all for systems using light that leaks out of the optical fiber. The polarization changing system is much more sensitive but false alarms depend on the alarm processing.

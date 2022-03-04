@@ -1,0 +1,1 @@
+Computational Fluid Dynamics (CFD) has contributed to substantial improvements in the performance and efficiency of Gas Turbine engine components through enhanced understanding of the complex viscous flow and heat transfer phenomena involved. For this reason, CFD is one of the key computational tool used in Design & development of gas  turbine engines.

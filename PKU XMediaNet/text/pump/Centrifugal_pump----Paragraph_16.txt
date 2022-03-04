@@ -1,0 +1,1 @@
+Ht theory head pressure  ; g = between 9.78 and 9.82 m/s2 depending on latitude, conventional standard value of exactly 9.80665 m/s2 barycentric gravitational acceleration

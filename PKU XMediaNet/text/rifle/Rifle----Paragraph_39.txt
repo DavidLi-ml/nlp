@@ -1,0 +1,1 @@
+Excessive rotational speed can exceed the bullet's designed limits and the inadequate centripetal force will fail to keep the bullet from disintegrating in a radial fashion.

@@ -1,0 +1,1 @@
+In the mid-1970s, lower-cost direct-contact key switches were introduced, but their life in switch cycles was much shorter (rated ten million cycles) because they were open to the environment. This became more acceptable, however, for use in computer terminals at the time, which began to see increasingly shorter model lifespans as they advanced.

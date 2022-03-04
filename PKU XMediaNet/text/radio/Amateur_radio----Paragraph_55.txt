@@ -1,0 +1,1 @@
+The following "modes" use no one specific modulation scheme but rather are classified by the activity of the communication.

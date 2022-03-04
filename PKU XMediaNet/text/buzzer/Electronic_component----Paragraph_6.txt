@@ -1,0 +1,1 @@
+Most passive components with more than two terminals can be described in terms of two-port parameters that satisfy the principle of reciprocity—though there are rare exceptions. In contrast, active components (with more than two terminals) generally lack that property.

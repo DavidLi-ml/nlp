@@ -1,0 +1,1 @@
+A power failure warning that alerts the user by flashing a temperature display. It may display the maximum temperature reached during the power failure, and whether frozen food has defrosted or may contain harmful bacteria.

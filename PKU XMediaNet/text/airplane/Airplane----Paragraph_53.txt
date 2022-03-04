@@ -1,0 +1,1 @@
+A variable geometry wing can be changed in flight to a different shape. The variable-sweep wing transforms between an efficient straight configuration for takeoff and landing, to a low-drag swept configuration for high-speed flight. Other forms of variable planform have been flown, but none have gone beyond the research stage.

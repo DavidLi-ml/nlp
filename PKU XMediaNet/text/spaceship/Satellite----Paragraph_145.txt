@@ -1,0 +1,1 @@
+Due to the low received signal strength of satellite transmissions, they are prone to jamming by land-based transmitters. Such jamming is limited to the geographical area within the transmitter's range. GPS satellites are potential targets for jamming, but satellite phone and television signals have also been subjected to jamming.

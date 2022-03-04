@@ -1,0 +1,1 @@
+The first palletizing robot was introduced in 1963 by the Fuji Yusoki Kogyo Company. In 1973, a robot with six electromechanically driven axes was patented by KUKA robotics in Germany, and the programmable universal manipulation arm was invented by Victor Scheinman in 1976, and the design was sold to Unimation.

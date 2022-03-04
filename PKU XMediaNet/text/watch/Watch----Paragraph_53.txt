@@ -1,0 +1,1 @@
+In some early digital watches, LED displays were used, which could be read as easily in darkness as in daylight. The user had to press a button to light up the LEDs, which meant that the watch could not be read without the button being pressed, even in full daylight.

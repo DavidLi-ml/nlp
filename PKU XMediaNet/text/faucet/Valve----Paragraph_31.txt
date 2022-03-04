@@ -1,0 +1,1 @@
+Valve positions are operating conditions determined by the position of the disc or rotor in the valve. Some valves are made to be operated in a gradual change between two or more positions. Return valves and non-return valves allow fluid to move in 2 or 1 directions respectively.

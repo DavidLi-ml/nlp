@@ -1,0 +1,1 @@
+Propellers are axial thrust-giving elements. These elements give a very high degree of swirling in the vessel. The flow pattern generated in the fluid resembles a helix.

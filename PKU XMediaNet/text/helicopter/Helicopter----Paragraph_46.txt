@@ -1,0 +1,1 @@
+Most helicopters have a single main rotor, but torque created as the engine turns the rotor causes the body of the helicopter to turn in the opposite direction to the rotor (by conservation of angular momentum). To eliminate this effect, some sort of anti-torque control must be used.

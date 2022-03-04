@@ -1,0 +1,1 @@
+A single source of tractive power (i.e., motors in one place), is quieter than multiple operational power units, where one or more motors are located under every carriage. The noise problem is particularly noticeable in diesel multiple units.

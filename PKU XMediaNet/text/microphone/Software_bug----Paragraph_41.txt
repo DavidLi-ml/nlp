@@ -1,0 +1,1 @@
+A deadline must be met and priorities are such that only those above a certain severity are fixed for the current software release.

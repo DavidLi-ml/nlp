@@ -1,0 +1,1 @@
+General purpose radars generally use navigational radar frequencies, but modulate and polarize the pulse so the receiver can determine the type of surface of the reflector. The best general-purpose radars distinguish the rain of heavy storms, as well as land and vehicles. Some can superimpose sonar data and map data from GPS position.

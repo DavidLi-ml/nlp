@@ -1,0 +1,1 @@
+In wheel truing, all these factors must be incrementally brought into balance against each other. A commonly recommended practice is to find the worst spot on the wheel, and bring it slightly more into true before moving on to the next worst spot on the wheel.

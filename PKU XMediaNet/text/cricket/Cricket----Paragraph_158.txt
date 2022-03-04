@@ -1,0 +1,1 @@
+Strike rate (SR): The number of runs scored per 100 balls faced. (SR = [100 * Runs]/BF)

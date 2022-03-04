@@ -1,0 +1,1 @@
+Short wave radio is used because it bounces between the ionosphere and the ground, giving a modest 1,000 watt transmitter (the standard power) a world-wide range.

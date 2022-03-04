@@ -1,0 +1,1 @@
+boost phase: 3 to 5 minutes; it is shorter for a solid-fuel rocket than for a liquid-propellant rocket; depending on the trajectory chosen, typical burnout speed is 4 km/s (2.5 mi/s), up to 7.8 km/s (4.8 mi/s); altitude at the end of this phase is typically 150 to 400 km (93 to 249 mi).

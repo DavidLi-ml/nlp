@@ -1,0 +1,1 @@
+In the rest of Europe pressure piping uses the same pipe IDs and wall thicknesses as Nominal Pipe Size, but labels them with a metric Diameter Nominal (DN) instead of the imperial NPS. For NPS larger than 14, the DN is equal to the NPS multiplied by 25. (Not 25.4) This is documented by EN 10255 (formerly DIN 2448 and BS 1387) and ISO 65, and it is often called DIN or ISO pipe.

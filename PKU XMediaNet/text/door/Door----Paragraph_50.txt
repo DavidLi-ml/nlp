@@ -1,0 +1,1 @@
+A pressure sensor – e.g., a floor mat which reacts to the pressure of someone standing on it.

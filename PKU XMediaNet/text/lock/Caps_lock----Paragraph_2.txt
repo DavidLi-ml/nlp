@@ -1,0 +1,1 @@
+Typical Caps Lock behaviour is that pressing the key sets an input mode in which all typed letters are uppercase by default (i.e. in All caps). The keyboard remains in Caps Lock mode until the key is pressed again.

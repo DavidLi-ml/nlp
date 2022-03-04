@@ -1,0 +1,1 @@
+Tempering an interval causes it to beat, which is a fluctuation in perceived sound intensity due to interference between close (but unequal) pitches. The rate of beating is equal to the frequency differences of any harmonics that are present for both pitches and that coincide or nearly coincide.

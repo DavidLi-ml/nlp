@@ -1,0 +1,1 @@
+The teeth on gears are designed so that the gears can roll on each other smoothly (without slipping or jamming). In order for two gears to roll on each other smoothly, they must be designed so that the velocity at the point of contact of the two pitch circles (represented by v) is the same for each gear.

@@ -1,0 +1,1 @@
+The special teams unit is responsible for all kicking plays. The special teams unit of the team in control of the ball will try and execute field goal (FG) attempts, punts and kickoffs, while the opposing team's unit will aim to block or return them.

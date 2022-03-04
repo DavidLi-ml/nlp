@@ -1,0 +1,1 @@
+A button similar to the above, which is used indoors in self-sufficient houses for elderly people, where it alerts someone inside the house, who will then first check for a false alarm by phoning the person, and if there is no false alarm, will enter the person's flat to check what is the problem.

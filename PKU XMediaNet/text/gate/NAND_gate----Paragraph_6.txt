@@ -1,0 +1,1 @@
+The NAND gate has the property of functional completeness. That is, any other logic function (AND, OR, etc.) can be implemented using only NAND gates. An entire processor can be created using NAND gates alone. In TTL ICs using multiple-emitter transistors, it also requires fewer transistors than a NOR gate.

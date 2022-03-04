@@ -1,0 +1,1 @@
+Increasing deployment of voice over IP technology (VoIP) is driving the adoption of broadband signaling for alarm reporting. Many sites requiring alarm installations no longer have conventional telephone lines (POTS), and alarm panels with conventional telephone dialer capability do not work reliably over some types of VoIP service.

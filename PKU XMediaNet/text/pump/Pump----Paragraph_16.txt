@@ -1,0 +1,1 @@
+Drawbacks: The nature of the pump requires very close clearances between the rotating pump and the outer edge, making it rotate at a slow, steady speed. If rotary pumps are operated at high speeds, the fluids cause erosion, which eventually causes enlarged clearances that liquid can pass through, which reduces efficiency.

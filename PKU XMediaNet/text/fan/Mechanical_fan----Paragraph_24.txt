@@ -1,0 +1,1 @@
+A single-acting bellows will only produce airflow during the exhaust stroke.

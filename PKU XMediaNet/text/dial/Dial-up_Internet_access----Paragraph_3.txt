@@ -1,0 +1,1 @@
+Dial-up requires time to establish a telephone connection (up to several seconds, depending on the location) and perform configuration for protocol synchronization before data transfers can take place. In locales with telephone connection charges, each connection incurs an incremental cost. If calls are time-metered, the duration of the connection incurs costs.

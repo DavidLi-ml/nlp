@@ -1,0 +1,1 @@
+Mirror dials are designed to reduce or eliminate the effect of parallax. They usually consist of a small mirrored strip running parallel to the graduations of the scale under the pointer. When the observer moves his position so that the pointer obscures the pointer's reflection in the mirror, an accurate reading may be taken.

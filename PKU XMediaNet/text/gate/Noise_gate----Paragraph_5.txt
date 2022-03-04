@@ -1,0 +1,1 @@
+The Range control is used to set the amount of attenuation to be applied to the signal when the gate is closed. Often there will be complete attenuation, that is no signal will pass when the gate is closed. In some circumstances complete attenuation is not desired and the range can be changed.

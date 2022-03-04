@@ -1,0 +1,1 @@
+Fail-safe. Also called fail-open. In this configuration, applying electric current to the strike will cause it to lock. It operates the same as a magnetic lock would. If there is a power failure, the door opens merely by being pushed or pulled. Fail-safe units are always operated with direct current.

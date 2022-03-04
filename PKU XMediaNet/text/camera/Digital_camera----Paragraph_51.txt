@@ -1,0 +1,1 @@
+These cameras have much larger sensors than the other types, typically 18 mm to 36 mm on the diagonal (crop factor 2, 1.6, or 1). The larger sensor permits more light to be received by each pixel; this, combined with the relatively large lenses provides superior low-light performance. For the same field of view and the same aperture, a larger sensor gives shallower focus.

@@ -1,0 +1,1 @@
+The most important factor for a key is the color separation of the foreground (the subject) and background (the screen) – a bluescreen will be used if the subject is predominately green (for example plants), despite the camera being more sensitive to green light.

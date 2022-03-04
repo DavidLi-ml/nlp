@@ -1,0 +1,1 @@
+The rate of translation of the generating curve along the axis of coiling, controlling how high-spired the resulting shell becomes. This may range from zero, a flat planispiral shell, to nearly the diameter of the aperture.

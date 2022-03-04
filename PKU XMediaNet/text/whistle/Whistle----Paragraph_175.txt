@@ -1,0 +1,1 @@
+Flow over a cavity that is considered deep can create a whistle similar to that over shallow cavities. Deep is generally distinguished from shallow by the cavity depth being greater than the width. There are two geometries that have been studied. The first geometry is flow exterior to the cavity such as on an aircraft.

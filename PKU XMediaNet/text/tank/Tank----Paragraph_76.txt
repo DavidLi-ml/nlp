@@ -1,0 +1,1 @@
+Gunner - The gunner is responsible for laying the gun.

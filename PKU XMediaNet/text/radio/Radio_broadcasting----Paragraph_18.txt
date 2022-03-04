@@ -1,0 +1,1 @@
+The signal is subject to interference from electrical storms (lightning) and other electromagnetic interference (EMI).

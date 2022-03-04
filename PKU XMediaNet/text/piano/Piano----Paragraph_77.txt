@@ -1,0 +1,1 @@
+A vibrating wire subdivides itself into many parts vibrating at the same time. Each part produces a pitch of its own, called a partial. A vibrating string has one fundamental and a series of partials. The most pure combination of two pitches is when one is double the frequency of the other.

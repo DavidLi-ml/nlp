@@ -1,0 +1,1 @@
+Philips also provided a DOS backup application via their BBS, and later on, they provided an upgrade to the DCC-Studio software to fix some bugs and provide better compatibility with Windows 95 which had come out just before the release of the DCC-175. The software also works with Windows 98 but not with any later versions of Windows.

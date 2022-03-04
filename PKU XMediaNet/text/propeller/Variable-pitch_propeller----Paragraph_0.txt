@@ -1,0 +1,1 @@
+A controllable-pitch propeller (CPP) or variable-pitch propeller is a type of propeller with blades that can be rotated around their long axis to change the blade pitch. Reversible propellers—those where the pitch can be set to negative values—can also create reverse thrust for braking or going backwards without the need to change the direction of shaft revolution.

@@ -1,0 +1,1 @@
+Many modern cameras support the PictBridge standard, which allows them to send data directly to a PictBridge-capable computer printer without the need for a computer.

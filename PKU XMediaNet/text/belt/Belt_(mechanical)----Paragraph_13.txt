@@ -1,0 +1,1 @@
+For high-power requirements, two or more V-belts can be joined side-by-side in an arrangement called a multi-V, running on matching multi-groove sheaves. This is known as a multiple-V-belt drive (or sometimes a "classical V-belt drive").

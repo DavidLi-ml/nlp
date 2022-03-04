@@ -1,0 +1,1 @@
+This problem is frequently solved by staging — the rocket sheds excess weight (usually empty tankage and associated engines) during launch. Staging is either serial where the rockets light after the previous stage has fallen away, or parallel, where rockets are burning together and then detach when they burn out.

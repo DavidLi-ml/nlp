@@ -1,0 +1,1 @@
+A very simple function is to subtract the green from the sum of the red and blue and clamp the result to the 0–1 range. Adding a user-adjustable multiplier to each color will allow it to be adjusted. Green spill is achieved by clamping g to not be larger than b. This is fairly close to the capabilities of analog and film-based screen pulling.

@@ -1,0 +1,1 @@
+The size of the inter-block gap is constant, while the size of the data block is based on the number of bytes in the block. Thus a given length tape reel can hold much less data when written with smaller block sizes than with larger.

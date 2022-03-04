@@ -1,0 +1,1 @@
+These are used to physically interact with microscopic samples, such as in the procedures of microinjection and patch clamping. Most micropipettes are made of borosilicate, aluminosilicate or quartz with many types and sizes of glass tubing being available. Each of these compositions has unique properties which will determine suitable applications.

@@ -1,0 +1,1 @@
+Portable recorders were able to display text from prerecorded tapes, but not from super-user tapes. Interestingly, this was impossible even on the DCC-175 which was capable of recording the text information (via the computer) unlike the other portables which didn't have the text recording capability at all.

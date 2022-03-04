@@ -1,0 +1,1 @@
+Mouse button chording (a.k.a. Rocker navigation).

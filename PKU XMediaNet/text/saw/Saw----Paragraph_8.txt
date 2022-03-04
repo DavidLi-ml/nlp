@@ -1,0 +1,1 @@
+Rake: The angle of the front face of the tooth relative to a line perpendicular to the length of the saw. Teeth designed to cut with the grain (ripping) are generally steeper than teeth designed to cut across the grain (crosscutting)

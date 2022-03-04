@@ -1,0 +1,1 @@
+  . The blade efficiency is in the ratio between thrust and torque:

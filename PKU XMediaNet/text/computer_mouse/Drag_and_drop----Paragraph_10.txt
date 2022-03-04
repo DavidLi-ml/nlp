@@ -1,0 +1,1 @@
+Based on needed action, one of the above types can be used. Note that when an HTML element is dragged for moving its current position, its ID is sent to the destination parent element; so it sends a text and can be considered as the first group.

@@ -1,0 +1,1 @@
+"Black-out" design to keep out external light, so the day-night cycle can be controlled.

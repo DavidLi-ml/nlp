@@ -1,0 +1,1 @@
+The "drop through" design has cutouts that allow the base-plate of the truck to protrude through the board, thus lowering the deck and providing more stability. In addition to this, drop through decks decrease grip, as the deck is closer to the axle and moment arm of the wheel. There is also less leverage on the truck, which makes turning negligibly more difficult.

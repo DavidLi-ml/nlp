@@ -1,0 +1,1 @@
+The chipper chain is similar to the semi-chisel chain. The key differences between are the size of the radius at the working corner. In cross-section a chipper tooth looks like a question mark, having a full radius over the whole cutting portion of the tooth, whereas a semi chisel design is more like a number "7" with the top-right corner slightly rounded.

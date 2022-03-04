@@ -1,0 +1,1 @@
+Generally credit card transaction costs are borne by the merchant with no fee applied to the end user (although a direct consumer surcharge of 0.5 - 3% is not uncommon) while EFTPOS transactions cost the consumer an applicable withdrawal fee charged by their bank.

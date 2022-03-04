@@ -1,0 +1,1 @@
+Because of the ability to calculate the exact (or nearly so) amount of fluid needed for a given project, film thickness variations on the finished product can be kept within +/− 0.5% of the target thickness .

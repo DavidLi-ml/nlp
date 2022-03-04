@@ -1,0 +1,1 @@
+Capacitors store and release electrical charge. They are used for filtering power supply lines, tuning resonant circuits, and for blocking DC voltages while passing AC signals, among numerous other uses.

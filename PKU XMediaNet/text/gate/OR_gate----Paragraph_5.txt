@@ -1,0 +1,1 @@
+With active low open collector logic outputs, as used for control signals in many circuits, an OR function can be produced by wiring together several outputs. This arrangement is called a wired OR. This implementation of an OR function typically is also found in integrated circuits of N or P-type only transistor processes.

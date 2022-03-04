@@ -1,0 +1,1 @@
+If no specific NAND gates are available, one can be made from NOR gates, because NAND and NOR gates are considered the "universal gates", meaning that they can be used to make all the others.

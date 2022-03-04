@@ -1,0 +1,1 @@
+A collaborative robot or cobot is a robot that can safely and effectively interact with human workers while performing simple industrial tasks. However, end-effectors and other environmental conditions may create hazards, and as such risk assessments should be done before using any industrial motion-control application.

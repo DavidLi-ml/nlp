@@ -1,0 +1,1 @@
+Thus shortening a string increases the frequency, and thus the pitch. Because of this effect, you can raise and change the pitch of a string by pressing it against the fingerboard in the cello’s neck and effectively shortening it.

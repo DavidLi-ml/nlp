@@ -1,0 +1,1 @@
+Ballot box, a box in which votes (ballot papers) are deposited during voting.

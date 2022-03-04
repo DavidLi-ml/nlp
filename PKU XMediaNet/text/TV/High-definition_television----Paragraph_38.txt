@@ -1,0 +1,1 @@
+Frame rate is identified as number of video frames per second. For interlaced systems, the number of frames per second should be specified, but it is not uncommon to see the field rate incorrectly used instead.

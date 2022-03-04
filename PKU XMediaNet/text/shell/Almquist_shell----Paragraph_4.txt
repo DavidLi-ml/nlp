@@ -1,0 +1,1 @@
+ash was first released via a posting to the comp.sources.unix Usenet news group, approved and moderated by Rich Salz on 30 May 1989. It was described as "a reimplementation of the System V shell [with] most features of that shell, plus some additions".

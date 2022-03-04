@@ -1,0 +1,1 @@
+The main part of a centrifugal compressor is the impeller. An open impeller has no cover, therefore it can work at higher speeds. A compressor with a covered impeller can have more stages than one that has an open impeller.

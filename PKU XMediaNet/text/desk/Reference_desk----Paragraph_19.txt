@@ -1,0 +1,1 @@
+The librarian can briefly teach the user how to use the catalogue and how to use its advanced features, or recommend the proper subject words or terms that are used in the catalogue for the topic the user has in mind.

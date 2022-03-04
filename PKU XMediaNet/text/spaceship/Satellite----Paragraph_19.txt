@@ -1,0 +1,1 @@
+Early satellites were constructed as "one-off" designs. With growth in geosynchronous (GEO) satellite communication, multiple satellites began to be built on single model platforms called satellite buses. The first standardized satellite bus design was the HS-333 GEO commsat, launched in 1972.

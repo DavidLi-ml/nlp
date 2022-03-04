@@ -1,0 +1,1 @@
+The menu key brings up the active application's context menu, similar to right-clicking.

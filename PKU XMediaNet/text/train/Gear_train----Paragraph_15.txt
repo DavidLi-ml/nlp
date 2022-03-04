@@ -1,0 +1,1 @@
+If the output gear of a gear train rotates more slowly than the input gear, then the gear train is called a speed reducer. In this case, because the output gear must have more teeth than the input gear, the speed reducer amplifies the input torque.

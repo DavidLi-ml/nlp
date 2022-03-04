@@ -1,0 +1,1 @@
+The electronic components which are perform on the core electronic function like amplification, electronic switching, electronic controlling and the components acts upon a source of current are active component.

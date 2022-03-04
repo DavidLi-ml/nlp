@@ -1,0 +1,1 @@
+Blade pitch acts much like the gearing of the final drive of a car. Low pitch yields good low speed acceleration (and climb rate in an aircraft) while high pitch optimizes high speed performance and economy.

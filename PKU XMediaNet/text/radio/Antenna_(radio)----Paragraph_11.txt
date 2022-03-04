@@ -1,0 +1,1 @@
+Omnidirectional or only weakly directional antennas which receive or radiate more or less in all directions. These are employed when the relative position of the other station is unknown or arbitrary. They are also used at lower frequencies where a directional antenna would be too large, or simply to cut costs in applications where a directional antenna isn't required.

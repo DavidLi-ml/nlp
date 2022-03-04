@@ -1,0 +1,1 @@
+More complicated master-key lock systems are also made, with two or more levels of master keying, so there can be subordinate master keys that open only certain subsets of the locks, and a top-level master key that opens all the locks.

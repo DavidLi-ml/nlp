@@ -1,0 +1,1 @@
+   are the initial and final masses of the rocket stage respectively. In conjunction with the burnout time, the burnout height and velocity are obtained using the same values, and are found by these two equations

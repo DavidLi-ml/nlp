@@ -1,0 +1,1 @@
+This is an example of a pipe organ stoplist, showing both common stop names and conventional formatting. (Within each division, flues are listed before reeds, then low to high pitch, then louder to softer stops within a pitch level. Separate celeste stops are next to their corresponding normally-tuned stops. Reed stops are often labeled in red on stop knobs or tabs.)

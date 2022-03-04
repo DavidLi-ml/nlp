@@ -1,0 +1,1 @@
+Arrow keys move the cursor on the screen. When shifted, they select items.

@@ -1,0 +1,1 @@
+Transaction network: The system that implements the mechanics of the electronic transactions. May be operated by an independent company, and one company may operate multiple networks.

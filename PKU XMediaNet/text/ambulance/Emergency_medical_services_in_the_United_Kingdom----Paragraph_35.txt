@@ -1,0 +1,1 @@
+Category A response time - in cases triaged as Category A (life-threatening) by the triage software (usually AMPDS or the more recent NHS Pathways), services are targeted to reach the patient within eight minutes of the call. In England, ambulance services are targeted on reaching 75% of Category A calls in 8 minutes, compared to 65% in Wales.

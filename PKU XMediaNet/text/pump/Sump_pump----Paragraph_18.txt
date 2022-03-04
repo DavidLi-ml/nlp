@@ -1,0 +1,1 @@
+It must be a marine deep cycle battery, or special long-life standby battery. Standard automobile batteries are not suitable for this application. Auto batteries are designed to deliver a high current for a short period. Sump pumps need a smaller current for a long time.

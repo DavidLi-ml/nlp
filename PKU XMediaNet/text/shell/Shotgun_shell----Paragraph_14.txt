@@ -1,0 +1,1 @@
+    {\displaystyle d_{n}=1.67051437n^{\frac {-1}{3}}}

@@ -1,0 +1,1 @@
+Originally, operating systems were programmed in assembly; however, modern operating systems are typically written in C.

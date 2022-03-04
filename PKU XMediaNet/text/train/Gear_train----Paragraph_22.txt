@@ -1,0 +1,1 @@
+    {\displaystyle \omega _{A}=\omega ,\quad \omega _{B}=\omega /R.\!}

@@ -1,0 +1,1 @@
+Although aluminium is non-magnetic, it is a good conductor, so even a thin sheet reflects almost all of an incident electric wave. At frequencies more than 100 MHz, the electric field is attenuated by more than 80 decibels (dB) (less than 10−8 = 0.00000001 of the power gets through).

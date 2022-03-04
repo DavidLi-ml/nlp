@@ -1,0 +1,1 @@
+A SIM lock, simlock, network lock or subsidy lock is a technical restriction built into GSM mobile phones by mobile phone manufacturers for use by services providers to restrict the use of these phones to specific countries and/or networks. This is contrary to a phone (retrospectively called SIM-free or unlocked) that does not impose any SIM restrictions.

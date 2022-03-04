@@ -1,0 +1,1 @@
+Fast, small, and virtually compatible with the POSIX standard's specification of the Unix shell, ash did not feature line editing or command history mechanisms, because Almquist felt that such functionality should be moved into the terminal driver. However, current variants support it.

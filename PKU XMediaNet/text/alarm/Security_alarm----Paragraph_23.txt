@@ -1,0 +1,1 @@
+Window foil is a less sophisticated, mostly outdated, detection method that involves gluing a thin strip of conducting foil on the inside of the glass and putting low-power electric current through it. Breaking the glass is practically guaranteed to tear the foil and break the circuit.

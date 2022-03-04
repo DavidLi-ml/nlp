@@ -1,0 +1,1 @@
+For the commercial naming of a product, the frame rate is often dropped and is implied from context (e.g., a 1080i television set). A frame rate can also be specified without a resolution. For example, 24p means 24 progressive scan frames per second, and 50i means 25 interlaced frames per second.

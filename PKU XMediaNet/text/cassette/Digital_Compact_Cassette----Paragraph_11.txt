@@ -1,0 +1,1 @@
+Nine heads were used to read/write half the width of the tape; the other half of the width was used for the B-side. Eight of these tracks contained audio data, the ninth track was used for timing and text information and for markers to indicate the start of a song or the end of a recording.

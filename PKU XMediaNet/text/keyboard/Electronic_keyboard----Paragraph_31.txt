@@ -1,0 +1,1 @@
+MIDI controller - An electronic keyboard that does not produce a sound of its own. It is used to trigger sounds from a sound module which is connected using a MIDI cable.

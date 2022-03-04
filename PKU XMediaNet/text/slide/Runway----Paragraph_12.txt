@@ -1,0 +1,1 @@
+Accelerate-Stop Distance Available – The length of the takeoff run available plus the length of the stopway, if stopway is provided.

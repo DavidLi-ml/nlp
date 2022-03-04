@@ -1,0 +1,1 @@
+To address the problem of clothes dryer fires, a fire suppression system can be used with sensors to detect the change in temperature when a blaze starts in a dryer drum. These sensors then activate a water vapor mechanism to put out the fire.

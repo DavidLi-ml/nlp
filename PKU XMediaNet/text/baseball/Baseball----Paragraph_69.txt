@@ -1,0 +1,1 @@
+Innings pitched: outs recorded while pitching divided by three (partial innings are conventionally recorded as, e.g., "5.2" or "7.1", the last digit actually representing thirds, not tenths, of an inning)

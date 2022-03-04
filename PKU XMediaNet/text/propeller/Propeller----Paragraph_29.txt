@@ -1,0 +1,1 @@
+The blade profile of propellers designed to operate in a ventilated condition is often not of an aerofoil section and is a blunt ended taper instead. These are often known as "chopper" type propellers.

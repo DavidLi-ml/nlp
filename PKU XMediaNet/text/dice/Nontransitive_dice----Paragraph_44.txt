@@ -1,0 +1,1 @@
+In analogy to the nontransitive six-sided dice, there are also dodecahedra which serve as nontransitive twelve-sided dice. The points on each of the dice result in the sum of 114. There are no repetitive numbers on each of the dodecahedra.

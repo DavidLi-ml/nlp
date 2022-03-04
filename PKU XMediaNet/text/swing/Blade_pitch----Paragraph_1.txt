@@ -1,0 +1,1 @@
+In aircraft, blade pitch is usually described as "coarse" for a greater horizontal blade angle, and "fine" for a more vertical blade angle. For an aircraft that is stationary the angle of pitch of each blade of a propeller fitted to that aircraft equates to the angle of attack.

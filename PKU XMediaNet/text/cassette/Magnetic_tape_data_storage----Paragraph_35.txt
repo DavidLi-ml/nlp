@@ -1,0 +1,1 @@
+Medium and large-sized data centers deploy both tape and disk formats.

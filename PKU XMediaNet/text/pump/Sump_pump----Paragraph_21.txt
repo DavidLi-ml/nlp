@@ -1,0 +1,1 @@
+If the backup sump system is rarely used, a component failure may not be noticed, and the system may fail when needed. Some battery control units test the system periodically and alert on failed electrical components.

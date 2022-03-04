@@ -1,0 +1,1 @@
+The tube length determines whether the tube acoustic pressure or velocity is the dominant influence on the frequency of the tube. Simple models of organ pipe resonance is based on open-open pipe resonance (

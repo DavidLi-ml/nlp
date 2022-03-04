@@ -1,0 +1,1 @@
+Via Point: A point through which the robot's tool should pass without stopping; via points are programmed in order to move beyond obstacles or to bring the arm into a lower inertia posture for part of the motion.

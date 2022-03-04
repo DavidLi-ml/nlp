@@ -1,0 +1,1 @@
+    {\displaystyle x^{n}-1=\prod _{d\,\mid \,n}^{n}\Phi _{d}(x).\;}

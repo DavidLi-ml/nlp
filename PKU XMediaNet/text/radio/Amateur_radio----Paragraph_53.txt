@@ -1,0 +1,1 @@
+Most amateur digital modes are transmitted by inserting audio into the microphone input of a radio and using an analog scheme, such as amplitude modulation (AM), frequency modulation (FM), or single-sideband modulation (SSB).

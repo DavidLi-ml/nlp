@@ -1,0 +1,1 @@
+The total impulse of a multi-stage rocket is the sum of the impulses of the individual stages.

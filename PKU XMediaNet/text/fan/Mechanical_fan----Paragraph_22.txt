@@ -1,0 +1,1 @@
+One phenomenon particular to the cross-flow fan is that, as the blades rotate, the local air incidence angle changes. The result is that in certain positions the blades act as compressors (pressure increase), while at other azimuthal locations the blades act as turbines (pressure decrease).

@@ -1,0 +1,1 @@
+Nested style in which all couplets immediately follow their lead, at the expense of separating the leads within a couplet.

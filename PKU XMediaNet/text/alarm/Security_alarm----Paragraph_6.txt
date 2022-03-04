@@ -1,0 +1,1 @@
+Keypads: Small devices, typically wall-mounted, which function as the human-machine interface to the system. In addition to buttons, keypads typically feature indicator lights, a small multi-character display, or both.

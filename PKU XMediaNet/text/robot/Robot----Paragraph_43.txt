@@ -1,0 +1,1 @@
+Industrial robots usually consist of a jointed arm (multi-linked manipulator) and an end effector that is attached to a fixed surface. One of the most common type of end effector is a gripper assembly.

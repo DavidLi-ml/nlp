@@ -1,0 +1,1 @@
+In Unix-like operating systems, some applications treat files or directories that start with a full stop as hidden. This means that they are not displayed or listed to the user by default.

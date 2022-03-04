@@ -1,0 +1,1 @@
+2. The stages with the lower Isp should contribute more ΔV.

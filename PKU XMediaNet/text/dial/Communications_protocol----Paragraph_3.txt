@@ -1,0 +1,1 @@
+In digital computing systems, the rules can be expressed by algorithms and data structures. Expressing the algorithms in a portable programming language makes the protocol software operating system independent.

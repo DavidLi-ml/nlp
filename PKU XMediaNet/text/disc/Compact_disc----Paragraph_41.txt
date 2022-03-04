@@ -1,0 +1,1 @@
+CD-MIDI is a format used to store music-performance data which upon playback is performed by electronic instruments that synthesize the audio. Hence, unlike the original Red Book CD-DA, these recordings are not digitally sampled audio recordings. The CD-MIDI format is defined as an extension to the original Red Book.

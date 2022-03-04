@@ -1,0 +1,1 @@
+Microsoft System.Threading.ReaderWriterLockSlim lock for C# and other .NET languages

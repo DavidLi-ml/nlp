@@ -1,0 +1,1 @@
+Some lower-quality keyboards have multiple or false key entries due to inadequate electrical designs. These are caused by inadequate keyswitch "debouncing" or inadequate keyswitch matrix layout that don't allow multiple keys to be depressed at the same time, both circumstances which are explained below:

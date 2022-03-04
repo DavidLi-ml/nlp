@@ -1,0 +1,1 @@
+In the IBM System/360 mainframe family, a Supervisor Call instruction implements a system call for legacy facilities; the Program Call (PC) instruction is used for newer facilities. In particular, PC is used when the caller might be in SRB mode.

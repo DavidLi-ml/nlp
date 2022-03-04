@@ -1,0 +1,1 @@
+The 3rd Generation Partnership Project (3GPP) defined a technical specification (TS 24.147) for conferencing within the IP Multimedia Subsystem (IMS) based on the Session Initiation Protocol (SIP), SIP Events, the Session Description Protocol (SDP) and the Binary Floor Control Protocol (BFCP, aka RFC4582).

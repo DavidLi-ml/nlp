@@ -1,0 +1,1 @@
+There are feedback loops associated with many whistle operations and they are non-linear. Because of the nonlinearity, there can be several possible conditions for a given flow speed or geometry. Which of these is dominant is determined by the gain of the unstable flow at a particular frequency and whether the feedback is constructive or destructive.

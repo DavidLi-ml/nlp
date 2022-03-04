@@ -1,0 +1,1 @@
+Plover is a free, open-source, cross-platform program intended to bring realtime stenographic technology not just to stenographers, but also to hobbyists using anything from professional Stenotype machines to low-cost NKRO gaming keyboards. It is available for GNU/Linux, MS Windows, and Apple Mac OS X.

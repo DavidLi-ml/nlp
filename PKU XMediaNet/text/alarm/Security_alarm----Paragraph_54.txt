@@ -1,0 +1,1 @@
+cons: can be affected by RF noise, high rate of false alarms, hard to install.

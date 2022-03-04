@@ -1,0 +1,1 @@
+Alt shifts the letters and numbers into the range above hex 0x80 where the international characters and special characters exist in the PC's standard character set. Alt plus a number typed on the numeric keypad produces special characters; see Windows Alt keycodes.

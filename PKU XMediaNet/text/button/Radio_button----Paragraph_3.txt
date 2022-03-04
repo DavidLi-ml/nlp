@@ -1,0 +1,1 @@
+Compare to a checkbox, which allows more than one (or no) item to be selected and for the unselected state to be restored.

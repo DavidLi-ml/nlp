@@ -1,0 +1,1 @@
+Ctrl shifts the value of letters and numbers from the ASCII graphics range, down into the ASCII control characters. For example, CTRL-S is XOFF (stops many programs as they print to screen) CTRL-Q is XON (resume printing stopped by CTRL-S).

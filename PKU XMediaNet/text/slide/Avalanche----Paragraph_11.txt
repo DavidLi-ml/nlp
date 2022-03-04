@@ -1,0 +1,1 @@
+Doug Fesler and Jill Fredston developed a conceptual model of the three primary elements of avalanches: terrain, weather, and snowpack. Terrain describes the places where avalanches occur, weather describes the meteorological conditions that create the snowpack, and snowpack describes the structural characteristics of snow that make avalanche formation possible.

@@ -1,0 +1,1 @@
+LR: Light rigid: a rigid vehicle with a GVM of more than 4,500 kilograms (9,921 lb) but not more than 8,000 kilograms (17,637 lb). Any towed trailer must not weigh more than 9,000 kilograms (19,842 lb) GVM.

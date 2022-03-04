@@ -1,0 +1,1 @@
+Applied computer science aims at identifying certain computer science concepts that can be used directly in solving real world problems.

@@ -1,0 +1,1 @@
+Some users of keyboards with caps lock on the left remap the keys to exchange Control and caps lock, finding the traditional location more ergonomic for using programs benefiting from use of the Control key. Keyboard layout preferences specifically to address this need are available in some operating systems.

@@ -1,0 +1,1 @@
+Medium trucks are larger than light but smaller than heavy trucks. In the US, they are defined as weighing between 13,000 and 33,000 pounds (6,000 and 15,000 kg). For the UK and the EU the weight is between 3.5 and 7.5 tonnes (3.9 and 8.3 tons). Local delivery and public service (dump trucks, garbage trucks and fire-fighting trucks) are normally around this size.

@@ -1,0 +1,1 @@
+The optimum format for a broadcast depends upon the type of videographic recording medium used and the image's characteristics. For best fidelity to the source the transmitted field ratio, lines, and frame rate should match those of the source.

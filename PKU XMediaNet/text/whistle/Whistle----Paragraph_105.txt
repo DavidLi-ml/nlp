@@ -1,0 +1,1 @@
+It should be noted that three-dimensional (viscous) effects occur at low Reynolds numbers so dynamic similarity is not achieved there. At higher speeds the Strouhal Number is close to that for the Aeolian tone. The dependence of Strouhal Number on Reynolds Number for this confined geometry is slightly negative as was found also for the Aeolian tone.

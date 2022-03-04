@@ -1,0 +1,1 @@
+   is the radius of the orifice. As more air is pushed into the bubble, the buoyancy force grows quicker than the surface tension force. Thus, detachment will occur when the buoyancy force is large enough to overcome the surface tension force.

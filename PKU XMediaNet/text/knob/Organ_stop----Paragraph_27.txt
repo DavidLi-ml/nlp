@@ -1,0 +1,1 @@
+Hybrid stops contain one rank of pipes which attempts to combine the tone qualities of two other classifications of stops, such as Principal + String, String + Flute, or Principal + Flute. Common examples:

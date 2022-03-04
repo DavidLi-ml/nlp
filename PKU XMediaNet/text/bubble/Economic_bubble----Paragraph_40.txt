@@ -1,0 +1,1 @@
+Caginalp's asset flow differential equations provide a link between the laboratory experiments and world market data. Since the parameters can be calibrated with either market, one can compare the lab data with the world market data.

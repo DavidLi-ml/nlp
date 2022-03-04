@@ -1,0 +1,1 @@
+Random wire - This describes the typical antenna used to receive shortwave radio, consisting of a random length of wire either strung outdoors between supports or indoors in a zigzag pattern along walls, connected to the receiver at one end. Can have complex radiation patterns with several lobes at angles to the wire.

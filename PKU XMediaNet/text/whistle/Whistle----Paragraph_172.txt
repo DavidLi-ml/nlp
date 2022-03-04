@@ -1,0 +1,1 @@
+It is a transcendental equation where Ac is the cross sectional area of a cylindrical cavity of depth L. Ao is the area of the circular orifice of depth Lo, δe is the exterior end correction, δi is the interior end correction, and kL is the Helmholtz number (acoustical Strouhal Number with 

@@ -1,0 +1,1 @@
+It's "not a bug". A misunderstanding has arisen between expected and perceived behavior, when such misunderstanding is not due to confusion arising from design flaws, or faulty documentation.

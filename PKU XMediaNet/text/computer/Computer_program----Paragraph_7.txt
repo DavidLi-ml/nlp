@@ -1,0 +1,1 @@
+The Z3 computer, invented by Konrad Zuse (1941) in Germany, was a digital and programmable computer. A digital computer uses electricity as the calculating component. The Z3 contained 2,400 relays to create the circuits. The circuits provided a binary, floating-point, nine-instruction computer. Programming the Z3 was through a specially designed keyboard and punched tape.

@@ -1,0 +1,1 @@
+One of the simplest truss styles to implement, the king post consists of two angled supports leaning into a common vertical support.

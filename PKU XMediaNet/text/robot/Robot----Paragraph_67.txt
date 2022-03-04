@@ -1,0 +1,1 @@
+Over the last three decades, automobile factories have become dominated by robots. A typical factory contains hundreds of industrial robots working on fully automated production lines, with one robot for every ten human workers. On an automated production line, a vehicle chassis on a conveyor is welded, glued, painted and finally assembled at a sequence of robot stations.

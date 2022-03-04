@@ -1,0 +1,1 @@
+In determining the location of an earthquake, the arrival time of several types of seismic wave at a minimum of four dispersed observers is dependent upon each observer recording wave arrival times according to a common clock.

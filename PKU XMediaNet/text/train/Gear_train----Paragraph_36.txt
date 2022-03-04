@@ -1,0 +1,1 @@
+Gear teeth are distributed along the circumference of the pitch circle so that the thickness t of each tooth and the space between neighboring teeth are the same. The pitch p of a gear, which is the distance between equivalent points on neighboring teeth along the pitch circle, is equal to twice the thickness of a tooth,

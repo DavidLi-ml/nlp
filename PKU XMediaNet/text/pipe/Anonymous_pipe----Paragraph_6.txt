@@ -1,0 +1,1 @@
+New processes can inherit handles to anonymous pipes in the creation process.

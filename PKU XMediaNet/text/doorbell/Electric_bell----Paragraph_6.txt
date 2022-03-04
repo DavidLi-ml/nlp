@@ -1,0 +1,1 @@
+With the development of low cost electronics from the 1970s onwards, most buzzers have now been replaced by electronic 'sounders'. These replace the electromechanical striker of a bell with an electronic oscillator and a loudspeaker, often a piezoelectric transducer.

@@ -1,0 +1,1 @@
+When pressing Control and clicking the mouse-button, you will get a contextual menu. This is a compatibility feature for users with one-button mice; users with two-button mice just use the right mouse-button, with no modifiers.

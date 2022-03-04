@@ -1,0 +1,1 @@
+If the range from the attacking aircraft to the target is within the range of the missile's radar system the missile can "go active" immediately upon launch.

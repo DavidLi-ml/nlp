@@ -1,0 +1,1 @@
+Because each button produces two notes, the diatonic scale can be covered in four buttons on a melody row.

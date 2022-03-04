@@ -1,0 +1,1 @@
+It consists of two check valves assembled in series. This employs two operating principles: firstly one check valve will still act, even if the other is jammed wide open. Secondly the closure of one valve reduces the pressure differential across the other, allowing a more reliable seal and avoiding even minor leakage.

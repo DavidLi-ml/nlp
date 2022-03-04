@@ -1,0 +1,1 @@
+Users may be relying on the undocumented, buggy behavior; it may introduce a breaking change.

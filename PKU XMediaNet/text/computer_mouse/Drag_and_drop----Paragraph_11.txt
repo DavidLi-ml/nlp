@@ -1,0 +1,1 @@
+Google's web-based e-mail application Gmail supports drag-and-drop of images and attachments in the latest Google Chrome browser and Apple's Safari (5.x). And Google Image search supports drag & drop.

@@ -1,0 +1,1 @@
+Today, some machine room less hydraulic elevators by Otis and ThyssenKrupp exist; they do not involve the use of a piston located underground or a machine room, mitigating environmental concerns; however, code is not yet accepting of them in all parts of the United States.

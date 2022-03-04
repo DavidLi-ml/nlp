@@ -1,0 +1,1 @@
+Pause pauses output or processing. In combination with Ctrl, it produces a keycode for Break. Ctrl+Break traditionally stopped programs in DOS. Ctrl+Break is also used to halt execution of the debugger in some programming environments such as Microsoft Visual Studio. In combination with the Windows key, it opens the System Properties window in Microsoft Windows environments.

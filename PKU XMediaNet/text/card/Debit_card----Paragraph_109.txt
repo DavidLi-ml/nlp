@@ -1,0 +1,1 @@
+Sbercard. This payment system was created by Sberbank around 1995–1996. It uses BGS Smartcard Systems AG smart card technology that is, DUET. Sberbank was a single retail bank in the Soviet Union before 1990. De facto this is a payment system of the SberBank.

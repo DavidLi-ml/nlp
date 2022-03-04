@@ -1,0 +1,1 @@
+Use of the wrong operator, such as performing assignment instead of equality test. For example, in some languages x=5 will set the value of x to 5 while x==5 will check whether x is currently 5 or some other number. In simple cases often the compiler may generate a warning. In many languages, the language syntax is deliberately designed to guard against this error.

@@ -1,0 +1,1 @@
+If all three parameters are used, they are specified in the following form: [frame size][scanning system][frame or field rate] or [frame size]/[frame or field rate][scanning system]. Often, frame size or frame rate can be dropped if its value is implied from context. In this case, the remaining numeric parameter is specified first, followed by the scanning system.

@@ -1,0 +1,1 @@
+When the swirling flow within a pipe encounters the exit, it can become unstable. An example of the original system is shown in the figure on the left. The instability arises when there is a reversed flow on the axis.

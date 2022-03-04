@@ -1,0 +1,1 @@
+Portrait mode widens the aperture to throw the background out of focus. The camera may recognise and focus on a human face.

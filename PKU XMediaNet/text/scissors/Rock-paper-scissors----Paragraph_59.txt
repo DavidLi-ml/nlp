@@ -1,0 +1,1 @@
+Declare another move N+2 with the reverse property (such as a plant (#7) that grows through the paper (#2), poisons Spock (#4), and grows through the well (#6), while being damaged by the rock (#1), scissors (#3), and lizard (#5)).

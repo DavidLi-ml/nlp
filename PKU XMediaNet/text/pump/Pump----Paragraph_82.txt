@@ -1,0 +1,1 @@
+For a typical "pumping" configuration, the work is imparted on the fluid, and is thus positive. For the fluid imparting the work on the pump (i.e. a turbine), the work is negative. Power required to drive the pump is determined by dividing the output power by the pump efficiency. Furthermore, this definition encompasses pumps with no moving parts, such as a siphon.

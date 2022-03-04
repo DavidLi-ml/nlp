@@ -1,0 +1,1 @@
+Singing bird box, an objet d'art which contains within a miniature automaton singing bird.

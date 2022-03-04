@@ -1,0 +1,1 @@
+Satellites are usually semi-independent computer-controlled systems. Satellite subsystems attend many tasks, such as power generation, thermal control, telemetry, attitude control and orbit control.

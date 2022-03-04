@@ -1,0 +1,1 @@
+Part 2: Safety parameters meeting the global essential safety requirements (GESRs).

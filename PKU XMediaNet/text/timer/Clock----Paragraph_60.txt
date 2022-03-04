@@ -1,0 +1,1 @@
+Computer real time clocks keep time with a quartz crystal, but can be periodically (usually weekly) synchronized over the Internet to atomic clocks (UTC), using the Network Time Protocol (NTP). Sometimes computers on a local area network (LAN) get their time from a single local server which is maintained accurately.

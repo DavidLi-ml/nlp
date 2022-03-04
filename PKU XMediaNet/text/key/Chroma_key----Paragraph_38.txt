@@ -1,0 +1,1 @@
+A different class of algorithm tries to figure out a 2D path that separates the foreground from the background. This path can be the output, or the image can be drawn by filling the path with α = 1 as a final step. An example of such an algorithm is the use of active contour. Most research in recent years has been into these algorithms.

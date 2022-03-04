@@ -1,0 +1,1 @@
+A credit card register is a transaction register used to insure the increasing balance owed from using a credit card is enough below the credit limit to deal with authorization holds and payments not yet received by the bank and to easily look up past transactions for reconciliation and budgeting.

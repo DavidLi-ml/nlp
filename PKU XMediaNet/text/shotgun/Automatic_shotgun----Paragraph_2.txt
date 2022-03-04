@@ -1,0 +1,1 @@
+Gas operation uses the pressure of the gas (created by the burning propellant) behind the projectile to unlock the bolt assembly and then move it rearward.

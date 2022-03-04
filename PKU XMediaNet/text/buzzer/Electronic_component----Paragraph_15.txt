@@ -1,0 +1,1 @@
+Thermistor – thermally sensitive resistor whose prime function is to exhibit a large, predictable and precise change in electrical resistance when subjected to a corresponding change in body temperature.

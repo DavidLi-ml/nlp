@@ -1,0 +1,1 @@
+   was between 0.1 and 0.2 where h was the blade thickness. Poblete, et al., found Strouhal numbers between 0.12 and 0.18. If the edge tone is relevant, perhaps the characteristic dimension should be the gap between the blades.

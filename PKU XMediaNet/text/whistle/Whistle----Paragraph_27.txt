@@ -1,0 +1,1 @@
+Flow instability is the engine for whistles. It converts steady energy to time dependent energy. Conversion of laminar flow to turbulent flow is a well known example. Small disturbances to the laminar flow cause the transition.

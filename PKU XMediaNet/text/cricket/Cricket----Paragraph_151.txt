@@ -1,0 +1,1 @@
+Not outs (NO): The number of times the batsman was not out at the conclusion of an innings they batted in.

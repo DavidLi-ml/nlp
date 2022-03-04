@@ -1,0 +1,1 @@
+In some valve designs, the pressure of the flow fluid itself or pressure difference of the flow fluid between the ports automatically controls flow through the valve.

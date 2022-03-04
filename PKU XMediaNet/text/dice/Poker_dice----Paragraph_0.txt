@@ -1,0 +1,1 @@
+Poker dice are dice which, instead of having number pips, have representations of playing cards upon them. Poker dice have six sides, one each of an Ace, King, Queen, Jack, 10, and 9, and are used to form a poker hand.

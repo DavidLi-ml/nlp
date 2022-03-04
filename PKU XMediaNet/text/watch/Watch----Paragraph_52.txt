@@ -1,0 +1,1 @@
+Watches that incorporate batteries often have electric illumination of their displays. However, lights consume far more power than electronic watch movements. To conserve the battery, the light is activated only when the user presses a button. Usually, the light remains lit for a few seconds after the button is released, which allows the user to move the hand out of the way.

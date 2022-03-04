@@ -1,0 +1,1 @@
+An automatic timer-controlled lighting system. Dimmers allow light intensity to be adjusted.

@@ -1,0 +1,1 @@
+Fig 2.3 (a) shows triangle velocity of forward curved vanes impeller ; Fig 2.3 (b) shows triangle velocity of radial straight vanes impeller. It illustrates rather clearly energy added to the flow (shown in vector c) inversely change upon flow rate Q (shown in vector cm).

@@ -1,0 +1,1 @@
+The Manchester Small-Scale Experimental Machine (June 1948) was a stored-program computer. Programming transitioned away from moving cables and setting dials; instead, a computer program was stored in memory as numbers. Only three bits of memory were available to store each instruction, so it was limited to eight instructions. 32 switches were available for programming.

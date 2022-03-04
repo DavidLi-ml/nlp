@@ -1,0 +1,1 @@
+The layering scheme from ISO is called the OSI model or ISO layering. The functionality of the layers has been described in the section on the future of standardization and an overview of protocols using this scheme is given in the article on OSI protocols.

@@ -1,0 +1,1 @@
+PIR sensors may be designed to be wall or ceiling mounted, and come in various fields of view, from narrow "point" detectors to 360 degree fields. PIRs require a power supply in addition to the detection signalling circuit.

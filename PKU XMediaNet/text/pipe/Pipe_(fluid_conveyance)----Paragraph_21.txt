@@ -1,0 +1,1 @@
+For pipe sizes less than NPS 14 inch (DN 350), both methods give a nominal value for the OD that is rounded off and is not the same as the actual OD. For example, NPS 2 inch and DN 50 are the same pipe, but the actual OD is 2.375 inches or 60.33 millimetres. The only way to obtain the actual OD is to look it up in a reference table.

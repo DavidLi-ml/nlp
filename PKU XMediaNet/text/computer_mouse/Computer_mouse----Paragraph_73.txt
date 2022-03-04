@@ -1,0 +1,1 @@
+Windows also has full support for multiple input/mouse configurations for multiuser environments.

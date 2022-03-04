@@ -1,0 +1,1 @@
+Mobile network code (MNC; e.g., AT&T Mobility, T-Mobile, Vodafone, Bell Mobility etc.)

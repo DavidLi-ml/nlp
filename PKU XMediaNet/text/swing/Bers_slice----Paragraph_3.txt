@@ -1,0 +1,1 @@
+A Maskit slice is similar to a Bers slice, except that the group is no longer quasi-Fuchsian, and instead of fixing a point in Teichmüller space one fixes a point in the boundary of Teichmüller space.

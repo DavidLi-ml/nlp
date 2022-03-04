@@ -1,0 +1,1 @@
+the Yomega Brain is a centrifugal clutch transaxle-- when spinning at a sufficiently high speed, counterweights inside the yo-yo body disengage the axle, automatically allowing the yo-yo to "sleep." Conversely, when the speed slows below the threshold, the yo-yo will return automatically.

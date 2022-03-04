@@ -1,0 +1,1 @@
+Mobile robots, following markers or wires in the floor, or using vision or lasers, are used to transport goods around large facilities, such as warehouses, container ports, or hospitals.

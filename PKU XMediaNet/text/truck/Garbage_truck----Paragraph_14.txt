@@ -1,0 +1,1 @@
+The wall will move towards the front of the vehicle as the pressure forces the hydraulic valves to open, or as the operator moves it with a manual control.

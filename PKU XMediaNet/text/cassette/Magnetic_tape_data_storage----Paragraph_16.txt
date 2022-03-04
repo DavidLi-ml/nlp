@@ -1,0 +1,1 @@
+As of 2014 most magnetic tape systems used reels fixed inside a cartridge to protect the tape and facilitate handling. Cartridge formats include DDS/DAT, DLT and LTO with capacities in the tens to thousands of gigabytes.

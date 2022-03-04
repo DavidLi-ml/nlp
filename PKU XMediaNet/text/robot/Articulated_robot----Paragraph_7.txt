@@ -1,0 +1,1 @@
+Pick And Place Cycle: See Figure. Pick and place Cycle is the time, in seconds, to execute the following motion sequence: Move down one inch, grasp a rated payload; move up one inch; move across twelve inches; move down one inch; ungrasp; move up one inch; and return to start location.

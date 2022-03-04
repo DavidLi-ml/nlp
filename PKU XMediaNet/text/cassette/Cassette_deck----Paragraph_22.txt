@@ -1,0 +1,1 @@
+Philips developed an alternative noise reduction system known as Dynamic Noise Limiter (DNL) which did not require the tapes to be processed during recording; this was also the basis of the later DNR noise reduction.

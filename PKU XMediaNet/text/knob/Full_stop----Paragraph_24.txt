@@ -1,0 +1,1 @@
+In file systems, the full stop is commonly used to separate the extension of a file name from the name of the file. RISC OS uses full stops to separate levels of the hierarchical file system when writing path names—similar to / in Unix-based systems and \ in MS-DOS-based systems and the Windows NT systems that succeeded them.

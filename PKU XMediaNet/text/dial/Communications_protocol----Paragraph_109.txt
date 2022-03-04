@@ -1,0 +1,1 @@
+C.A.R. Hoare (1985): Communicating sequential processes 10th Print. Prentice Hall International, ISBN 0-13-153271-5. Available online via http://www.usingcsp.com

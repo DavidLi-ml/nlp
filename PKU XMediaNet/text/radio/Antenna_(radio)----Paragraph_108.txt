@@ -1,0 +1,1 @@
+microstrip - an array of patch antennas on a substrate fed by microstrip feedlines. Microwave antenna that can achieve large gains in compact space. Ease of fabrication by PCB techniques have made them popular in modern wireless devices. Beamwidth and polarization can be actively reconfigurable.

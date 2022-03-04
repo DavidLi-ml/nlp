@@ -1,0 +1,1 @@
+Simple suspension bridge — a modern implementation of the rope bridge using steel cables, although either the upper guardrail or lower footboard cables may be the main structural cables.

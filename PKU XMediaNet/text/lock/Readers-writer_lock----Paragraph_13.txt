@@ -1,0 +1,1 @@
+SRWLock, added to the Windows operating system API as of Windows Vista.

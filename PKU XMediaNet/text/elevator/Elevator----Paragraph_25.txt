@@ -1,0 +1,1 @@
+Elevators are a candidate for mass customization. There are economies to be made from mass production of the components, but each building comes with its own requirements like different number of floors, dimensions of the well and usage patterns.

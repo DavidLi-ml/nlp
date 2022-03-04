@@ -1,0 +1,1 @@
+• Fixed — Common on oil rigs. Lifeboat is hung above the water (at embarkation level) and lowered into the water. 

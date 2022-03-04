@@ -1,0 +1,1 @@
+Bowling average (Ave): The average number of runs conceded per wicket. (Ave = Runs/W)

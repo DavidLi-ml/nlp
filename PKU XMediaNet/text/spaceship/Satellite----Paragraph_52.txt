@@ -1,0 +1,1 @@
+Circular orbit: An orbit that has an eccentricity of 0 and whose path traces a circle.

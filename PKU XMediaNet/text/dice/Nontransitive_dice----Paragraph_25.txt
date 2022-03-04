@@ -1,0 +1,1 @@
+These dice are basically the same as Efron's dice, as each number of a series of successive numbers on a single die can all be replaced by the lowest number of the series and afterwards renumbering them.

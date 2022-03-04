@@ -1,0 +1,1 @@
+More complex bugs may arise from unintended interactions between different parts of a computer program. This frequently occurs because computer programs may be complex — millions of lines long in some cases — often having been programmed by many people over a great length of time, so that programmers are unable to mentally track every possible way in which parts may interact.

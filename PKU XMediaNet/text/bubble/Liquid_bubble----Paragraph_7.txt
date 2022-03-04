@@ -1,0 +1,1 @@
+In thermal inkjet printing, vapor bubbles are used as actuators. They are occasionally used in other microfluidics applications as actuators.

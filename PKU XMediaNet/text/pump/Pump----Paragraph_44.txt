@@ -1,0 +1,1 @@
+It takes in water at relatively low pressure and high flow-rate and outputs water at a higher hydraulic-head and lower flow-rate. The device uses the water hammer effect to develop pressure that lifts a portion of the input water that powers the pump to a point higher than where the water started.

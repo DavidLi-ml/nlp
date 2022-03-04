@@ -1,0 +1,1 @@
+Bullets with a lower drag coefficient (Cd) decelerate less rapidly. A low drag coefficient flattens the projectile's trajectory somewhat at long ranges and also markedly decreases the lateral drift caused by crosswinds. The higher impact velocity of bullets with high ballistic coefficients means they retain more kinetic energy.

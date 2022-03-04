@@ -1,0 +1,1 @@
+Elevators may feature talking devices as an accessibility aid for the blind. In addition to floor arrival notifications, the computer announces the direction of travel, and notifies the passengers before the doors are to close.

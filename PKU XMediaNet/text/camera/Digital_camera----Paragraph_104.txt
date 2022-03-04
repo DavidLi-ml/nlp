@@ -1,0 +1,1 @@
+Most earlier digital camera backs used linear array sensors, moving vertically to digitize the image. Many of them only capture grayscale images. The relatively long exposure times, in the range of seconds or even minutes generally limit scan backs to studio applications, where all aspects of the photographic scene are under the photographer's control.

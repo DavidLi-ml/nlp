@@ -1,0 +1,1 @@
+Ice, water, and water vapour can coexist at the triple point, which is exactly 273.16 K (0.01 °C) at a pressure of 611.657 Pa. The kelvin is in fact defined as 1/273.16 of the difference between this triple point and absolute zero. Unlike most other solids, ice is difficult to superheat. In an experiment, ice at −3 °C was superheated to about 17 °C for about 250 picoseconds.

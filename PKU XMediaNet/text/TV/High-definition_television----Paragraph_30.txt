@@ -1,0 +1,1 @@
+These first European HDTV broadcasts used the 1080i format with MPEG-2 compression on a DVB-S signal from SES's Astra 1H satellite. Euro1080 transmissions later changed to MPEG-4/AVC compression on a DVB-S2 signal in line with subsequent broadcast channels in Europe.

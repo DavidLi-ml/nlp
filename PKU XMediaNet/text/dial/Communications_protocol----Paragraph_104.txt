@@ -1,0 +1,1 @@
+Radia Perlman: Interconnections: Bridges, Routers, Switches, and Internetworking Protocols. 2nd Edition. Addison-Wesley 1999, ISBN 0-201-63448-1. In particular Ch. 18 on "network design folklore", which is also available online at http://www.informit.com/articles/article.aspx?p=20482

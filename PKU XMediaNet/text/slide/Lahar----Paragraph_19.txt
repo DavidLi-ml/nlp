@@ -1,0 +1,1 @@
+Scientists and governments try to identify areas with a high risk of lahars based on historical events and computer models. An example of such a model is TITAN2D. These models are directed towards future planning: identifying low-risk regions to place community buildings, discovering how to mitigate lahars with dams, and constructing evacuation plans.

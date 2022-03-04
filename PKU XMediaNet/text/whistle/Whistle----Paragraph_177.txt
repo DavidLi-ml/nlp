@@ -1,0 +1,1 @@
+The second geometry is flow in a duct with a side branch. Selamet and his colleagues have made extensive studies of whistle phenomena in ducts with side branches that are closed at one end. For these studies, The cavity depth was L and D was the side branch diameter. The fluid mechanical Strouhal and acoustical Strouhal numbers were

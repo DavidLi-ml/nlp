@@ -1,0 +1,1 @@
+"Я – 143. Не получаю генератор." "Идёт такая работа от аппаратной." ("I am 143. Not receiving the generator (oscillator)." "That stuff comes from hardware room.").

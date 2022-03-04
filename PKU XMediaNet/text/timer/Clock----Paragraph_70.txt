@@ -1,0 +1,1 @@
+This displays the count of seconds, minutes, hours, etc. in a human readable form.

@@ -1,0 +1,1 @@
+Power/mass: 0.18 hp/lb (0.31 kW/kg)

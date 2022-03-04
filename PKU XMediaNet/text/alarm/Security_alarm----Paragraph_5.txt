@@ -1,0 +1,1 @@
+Alerting devices: These indicate an alarm condition. Most commonly, these are bells, sirens, and/or flashing lights. Alerting devices serve the dual purposes of warning occupants of intrusion, and potentially scaring off burglars. These devices may also be used to warn occupants of a fire or smoke condition.

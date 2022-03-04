@@ -1,0 +1,1 @@
+A ball is called when the pitcher throws a pitch that is outside the strike zone, provided the batter has not swung at it.

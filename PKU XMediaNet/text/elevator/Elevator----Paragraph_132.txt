@@ -1,0 +1,1 @@
+An express elevator does not serve all floors. For example, it moves between the ground floor and a skylobby, or it moves from the ground floor or a skylobby to a range of floors, skipping floors in between. These are especially popular in eastern Asia.

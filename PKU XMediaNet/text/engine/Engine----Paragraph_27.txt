@@ -1,0 +1,1 @@
+The working fluid can be a gas as in a Stirling engine, or steam as in a steam engine or an organic liquid such as n-pentane in an Organic Rankine cycle. The fluid can be of any composition; gas is by far the most common, although even single-phase liquid is sometimes used. In the case of the steam engine, the fluid changes phases between liquid and gas.

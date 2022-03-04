@@ -1,0 +1,1 @@
+The wing planform is the shape when seen from above. To be aerodynamically efficient, a wing should be straight with a long span from side to side but have a short chord (high aspect ratio). But to be structurally efficient, and hence light weight, a wing must have a short span but still enough area to provide lift (low aspect ratio).

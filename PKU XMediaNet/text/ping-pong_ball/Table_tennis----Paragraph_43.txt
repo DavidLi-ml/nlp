@@ -1,0 +1,1 @@
+When a pair reaches 5 points in the final game, the pairs must switch ends of the table and change the receiver to reverse the order of play. For example, when the last order of play before a pair score 5 points in the final game is A→X→B→Y, the order after change shall be A→Y→B→X if A still has the second serve. Otherwise, X is the next server and the order becomes X→A→Y→B.

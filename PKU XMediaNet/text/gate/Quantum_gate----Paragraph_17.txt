@@ -1,0 +1,1 @@
+The Pauli-Z gate acts on a single qubit. It equates to a rotation around the Z-axis of the Bloch Sphere by π radians. Thus, it is a special case of a phase shift gate (next) with θ=π. It leaves the basis state 

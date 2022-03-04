@@ -1,0 +1,1 @@
+Polar coordinate paper has concentric circles divided into small arcs or 'pie wedges' to allow plotting in polar coordinates.

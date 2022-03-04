@@ -1,0 +1,1 @@
+Today, atomic clocks are the most accurate clocks in existence. They are considerably more accurate than quartz clocks as they can be accurate to within a few seconds over thousands of years.

@@ -1,0 +1,1 @@
+The final stages of on-board sound-shaping circuitry are the volume control (potentiometer) and tone control (which "rolls off" the treble frequencies). Where there are individual volume controls for different pickups, and where pickup signals can be combined, they would affect the timbre of the final sound by adjusting the balance between pickups from a straight 50:50.

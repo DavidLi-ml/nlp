@@ -1,0 +1,1 @@
+An AND gate is usually designed using N-channel (pictured) or P-channel MOSFETs. The digital inputs a and b cause the output F to have the same result as the AND function.

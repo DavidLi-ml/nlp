@@ -1,0 +1,1 @@
+Plain text, raw images, and database files (TXT, ASCII, BMP, DBF, etc.) typically compress much better than other types of data stored on computer systems. In contrast, encrypted data and pre-compressed data (PGP, ZIP, JPEG, MPEG, MP3, etc.) would normally increase in size, if data compression was applied. In some cases this data expansion could be as much as 15%.

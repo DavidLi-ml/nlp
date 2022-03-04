@@ -1,0 +1,1 @@
+Fire alarm bells are divided into two categories: vibrating, and single-stroke. On a vibrating bell, the bell will ring continuously until the power is cut off. When power is supplied to a single-stroke bell, the bell will ring once and then stop. It will not ring again until power is turned off and on again. These were frequently used with coded pull stations.

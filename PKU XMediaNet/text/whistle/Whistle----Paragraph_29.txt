@@ -1,0 +1,1 @@
+The disturbance was temporal in the example, but can also be spatial. Transition to turbulence can occur over a rough surface or over an irregular shape, such as an aircraft spoiler. All whistle mechanisms described here are created by temporal disturbances that are in one of the three classes.

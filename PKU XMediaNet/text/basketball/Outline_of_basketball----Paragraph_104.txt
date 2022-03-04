@@ -1,0 +1,1 @@
+Baseline out-of-bounds play – the play used to return the ball to the court from outside the baseline along the opponent's basket.

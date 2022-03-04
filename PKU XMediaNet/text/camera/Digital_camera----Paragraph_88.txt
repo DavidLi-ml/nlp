@@ -1,0 +1,1 @@
+Raw files initially had to be processed in specialized image editing programs, but over time many mainstream editing programs, such as Google's Picasa, have added support for raw images. Rendering to standard images from raw sensor data allows more flexibility in making major adjustments without losing image quality or retaking the picture.

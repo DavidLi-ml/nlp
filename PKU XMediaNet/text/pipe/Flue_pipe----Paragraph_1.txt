@@ -1,0 +1,1 @@
+Flue pipes include all stops of the "Principal", "Flute", and "String" classes, and some stops from the "Hybrid" class.

@@ -1,0 +1,1 @@
+A hand axe's measurements should have the morphological axis as a reference and use this for orientation. In addition to the three basic dimensions (length, width, depth), specialists have proposed a wide range of other physical quantities, with the most commonly used being those proposed by François Bordes (1961) and Lionel Balout (1967):

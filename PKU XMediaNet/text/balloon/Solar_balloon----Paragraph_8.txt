@@ -1,0 +1,1 @@
+If the balloon is imagined as a sphere, the sunlight received by this sphere can be imagined as the cross-section of a cylinder with the same radius as this sphere, see diagram. The area of this circle can be calculated via:

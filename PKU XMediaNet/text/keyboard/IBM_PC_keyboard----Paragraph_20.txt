@@ -1,0 +1,1 @@
+Function keys are the F-numbered keys. Their use varies by program; F1 is often Help.

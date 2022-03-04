@@ -1,0 +1,1 @@
+Word clocks are clocks that display the time visually using sentences. E.g.: "It’s about three o’clock." These clocks can be implemented in hardware or software.

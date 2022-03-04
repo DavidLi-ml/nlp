@@ -1,0 +1,1 @@
+A common alternative to cassette adapters is FM transmitters. These devices often require external power and convert the device's electrical signal into radio waves which are then transmitted over an unused FM frequency to a nearby FM tuner. The cassette adapter is usually considered superior as it is much less prone to interference.

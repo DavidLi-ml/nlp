@@ -1,0 +1,1 @@
+This computerised system uses cameras to observe the number plates of all vehicles passing or being passed by the police car, and alerts the driver or user to any cars which are on a 'watch list' as being stolen, used in crime, or having not paid vehicle duty.

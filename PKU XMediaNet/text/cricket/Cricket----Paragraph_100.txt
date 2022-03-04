@@ -1,0 +1,1 @@
+Timed out; means that the next batsman was not ready to receive a delivery within three minutes of the previous one being dismissed.

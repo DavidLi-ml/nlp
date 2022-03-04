@@ -1,0 +1,1 @@
+The payload depends on the mission of the spacecraft, and is typically regarded as the part of the spacecraft "that pays the bills". Typical payloads could include scientific instruments (cameras, telescopes, or particle detectors, for example), cargo, or a human crew.

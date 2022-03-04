@@ -1,0 +1,1 @@
+An aircraft can defend against infra-red missiles by dropping flares that are hotter than the aircraft, so the missile homes in on the brighter, hotter target. In turn, IR missiles may employ filters to enable it to ignore targets whose temperature is not within a specified range.

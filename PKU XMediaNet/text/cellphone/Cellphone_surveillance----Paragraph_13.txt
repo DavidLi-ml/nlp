@@ -1,0 +1,1 @@
+Another solution is turning the MIC input to the DAC off. However, this requires operating system and in some cases, kernel modification in order to prevent MIC input.

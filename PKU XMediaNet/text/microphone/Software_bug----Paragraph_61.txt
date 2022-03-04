@@ -1,0 +1,1 @@
+Buffer overflow, in which a program tries to store data past the end of allocated storage. This may or may not lead to an access violation or storage violation. These bugs may form a security vulnerability.

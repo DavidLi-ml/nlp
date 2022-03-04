@@ -1,0 +1,1 @@
+Production rates are only limited by the maximum speed that the fluid can be laid down on the substrate without breaking the curtain or getting air bubbles between the substrate and the coating material. This is dependent mainly upon the viscosity of the coating fluid.

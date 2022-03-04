@@ -1,0 +1,1 @@
+One test for whether the computer has crashed is pressing the caps lock key. The keyboard sends the key code to the keyboard driver running in the main computer; if the main computer is operating, it commands the light to turn on. All the other indicator lights work in a similar way. The keyboard driver also tracks the Shift, alt and control state of the keyboard.

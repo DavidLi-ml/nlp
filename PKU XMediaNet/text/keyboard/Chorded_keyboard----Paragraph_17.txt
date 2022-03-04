@@ -1,0 +1,1 @@
+Historically, the baudot and braille keyboards were standardized to some extent, but they are unable to replicate the full character set of a modern keyboard. Braille comes closest, as it has been extended to eight bits.

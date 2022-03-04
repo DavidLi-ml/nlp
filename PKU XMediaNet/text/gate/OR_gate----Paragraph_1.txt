@@ -1,0 +1,1 @@
+There are two symbols of OR gates: the American (ANSI or 'military') symbol and the IEC ('European' or 'rectangular') symbol, as well as the deprecated DIN symbol. For more information see Logic Gate Symbols.

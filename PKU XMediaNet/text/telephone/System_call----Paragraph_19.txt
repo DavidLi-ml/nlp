@@ -1,0 +1,1 @@
+Many-to-many model: In this model a pool of user threads is mapped to a pool of kernel threads. All system calls from a user thread pool are handled by the threads in their corresponding kernel thread pool

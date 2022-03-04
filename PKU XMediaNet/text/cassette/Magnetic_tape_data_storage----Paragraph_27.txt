@@ -1,0 +1,1 @@
+Tape is characterized by sequential access to data. While tape can provide fast sequential data transfers, it takes tens of seconds to load a cassette and position the tape head to an arbitrary place. In contrast, hard disk technology can perform the equivalent action in tens of milliseconds (3 orders of magnitude faster) and can be thought of as offering random access to data.

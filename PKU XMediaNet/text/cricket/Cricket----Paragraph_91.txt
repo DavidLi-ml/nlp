@@ -1,0 +1,1 @@
+Bowled: the bowler has hit the wicket with the delivery and the wicket has "broken" with at least one bail being dislodged (note that if the ball hits the wicket without dislodging a bail it is not out).

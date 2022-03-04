@@ -1,0 +1,1 @@
+Maiden overs (M): The number of maiden overs (overs in which the bowler conceded zero runs) bowled.

@@ -1,0 +1,1 @@
+The fundamental difference of these whistles from those described above is that there are now two sets of characteristic variables. For the driving source, the characteristic speed is U, and the characteristic dimension is L1. For the responding source, the characteristic speed is 

@@ -1,0 +1,1 @@
+However, in the case of a large closing speed, a projectile without explosives is used; just a collision is sufficient to destroy the target. See Missile Defense Agency for the following systems being developed:

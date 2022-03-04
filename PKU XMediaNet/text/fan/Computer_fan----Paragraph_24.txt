@@ -1,0 +1,1 @@
+Ball bearings: Though generally more expensive, ball bearing fans do not suffer the same orientation limitations as sleeve bearing fans, are more durable at higher temperatures, and are quieter than sleeve-bearing fans at higher rotation speeds. The typical lifespan of a ball bearing fan may be over 60,000 hours at 50 °C.

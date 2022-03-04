@@ -1,0 +1,1 @@
+Malicious software may attempt to exploit known vulnerabilities in a system–which may or may not be bugs. Viruses and other malicious software are not bugs in themselves–they are typically programs that are doing precisely what they were designed to do. In addition, it is often a security bug in a computer system that allows malicious software to work in the first place.

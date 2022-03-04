@@ -1,0 +1,1 @@
+Further the keyboard size depends on the extent to which a system is used where a single action is produced by a combination of subsequent or simultaneous keystrokes (with modifier keys, see below), or multiple pressing of a single key. A keyboard with few keys is called a keypad. See also text entry interface.

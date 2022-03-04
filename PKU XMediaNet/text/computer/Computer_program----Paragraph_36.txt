@@ -1,0 +1,1 @@
+Product engineering software is used to help develop large machines and other application software. Examples includes computer-aided design (CAD), computer-aided engineering (CAE), and integrated development environments.

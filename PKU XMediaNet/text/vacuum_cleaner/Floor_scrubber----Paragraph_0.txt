@@ -1,0 +1,1 @@
+Floor scrubber is a floor cleaning device. It can be simple tools such as floor mops and floor brushes, or in a form of walk-behind or ride-on machines to clean larger floor areas by injecting water with cleaning solution, scrubbing, and lifting the residuals off the floor. With the advancement in robotics, autonomous floor-scrubbing robots are available as well.

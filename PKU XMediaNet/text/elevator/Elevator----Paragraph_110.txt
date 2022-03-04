@@ -1,0 +1,1 @@
+Depending on the location of the elevator, fire service code will vary state to state and country to country. Fire service is usually split up into two modes: phase one and phase two. These are separate modes that the elevator can go into.

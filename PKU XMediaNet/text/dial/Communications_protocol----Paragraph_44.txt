@@ -1,0 +1,1 @@
+The systems both make use of the same protocol suite. The vertical flows (and protocols) are in system and the horizontal message flows (and protocols) are between systems. The message flows are governed by rules, and data formats specified by protocols. The blue lines therefore mark the boundaries of the (horizontal) protocol layers.

@@ -1,0 +1,1 @@
+Since the 1990s, most logic gates are made in CMOS technology (i.e. NMOS and PMOS transistors are used). Often millions of logic gates are packaged in a single integrated circuit.

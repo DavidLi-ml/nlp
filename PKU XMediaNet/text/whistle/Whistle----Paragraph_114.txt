@@ -1,0 +1,1 @@
+   over a speed range of 3 to 1. The data fit was quite good, confirming dynamic similarity and the dipole model. The slight discrepancy in level and frequency overlap suggests that both the dimensionless force and the Strouhal number had weak dependence on the Reynolds number.

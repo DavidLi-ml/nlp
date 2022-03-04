@@ -1,0 +1,1 @@
+Click: pressing and releasing a button.

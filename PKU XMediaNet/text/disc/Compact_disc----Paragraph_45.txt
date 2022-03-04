@@ -1,0 +1,1 @@
+Overall picture quality is intended to be comparable to VHS video. Poorly compressed VCD video can sometimes be lower quality than VHS video, but VCD exhibits block artifacts rather than analog noise and does not deteriorate further with each use.

@@ -1,0 +1,1 @@
+The interaction of a tire with the pavement is a very complex phenomenon. Many of the details are modeled in Pacejka's Magic Formula. Some are explained below.

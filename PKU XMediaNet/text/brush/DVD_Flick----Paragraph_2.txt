@@ -1,0 +1,1 @@
+Although DVD Flick does not feature video editing capabilities, it can read and interpret AviSynth scripts and create simple menus. DVD Flick uses FFmpeg to encode DVD-Video.

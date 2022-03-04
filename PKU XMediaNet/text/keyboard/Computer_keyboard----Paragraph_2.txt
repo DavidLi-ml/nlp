@@ -1,0 +1,1 @@
+Despite the development of alternative input devices, such as the mouse, touchscreen, pen devices, character recognition and voice recognition, the keyboard remains the most commonly used device for direct (human) input of alphanumeric data into computers.

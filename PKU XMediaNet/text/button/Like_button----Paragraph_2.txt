@@ -1,0 +1,1 @@
+The Facebook like button is designed as a hand giving "thumbs up". It was originally discussed to have been a star or a plus sign, and during development the feature was referred to as "awesome" instead of "like". It was introduced on 9 February 2009.

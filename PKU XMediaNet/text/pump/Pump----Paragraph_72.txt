@@ -1,0 +1,1 @@
+A rotodynamic pump with one single shaft that requires two mechanical seals, this pump uses an open-type axial impeller. It's often called a Poseidon pump, and can be described as a cross between an axial compressor and a centrifugal pump.

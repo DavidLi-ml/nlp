@@ -1,0 +1,1 @@
+Soxhlet extractor, which uses the same mechanism.

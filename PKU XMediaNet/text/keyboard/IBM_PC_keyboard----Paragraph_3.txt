@@ -1,0 +1,1 @@
+Common additions to the standard layouts include additional power management keys, volume controls, media player controls, and miscellaneous user-configurable shortcuts for email client, World Wide Web browser, etc.

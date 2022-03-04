@@ -1,0 +1,1 @@
+Continuous Path: A control scheme whereby the inputs or commands specify every point along a desired path of motion. The path is controlled by the coordinated motion of the manipulator joints.

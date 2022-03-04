@@ -1,0 +1,1 @@
+The majority of elevator designs are developed from Up Peak Round Trip Time calculations as described in the following publications:- CIBSE Guide D: Transportation Systems in Building Elevator Traffic Handbook, Theory and Practice. Gina Barney The Vertical Transportation Handbook. George Strakosch

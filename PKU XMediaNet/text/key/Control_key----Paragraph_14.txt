@@ -1,0 +1,1 @@
+It is used in the command line interface with programs made for that interface.

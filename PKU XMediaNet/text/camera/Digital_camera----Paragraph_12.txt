@@ -1,0 +1,1 @@
+Most current consumer digital cameras use a Bayer filter mosaic in combination with an optical anti-aliasing filter to reduce the aliasing due to the reduced sampling of the different primary-color images. A demosaicing algorithm is used to interpolate color information to create a full array of RGB image data.

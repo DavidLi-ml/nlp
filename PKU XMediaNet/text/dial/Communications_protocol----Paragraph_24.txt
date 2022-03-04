@@ -1,0 +1,1 @@
+Protocols are to communications what algorithms or programming languages are to computations.

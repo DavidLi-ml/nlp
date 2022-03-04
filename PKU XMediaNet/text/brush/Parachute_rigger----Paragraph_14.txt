@@ -1,0 +1,1 @@
+From AOC, rigger recruits go to Airborne School at Fort Benning, Georgia. If a rigger recruit does not pass Airborne School, that soldier is reclassified.

@@ -1,0 +1,1 @@
+Offset chokes, where the pattern is intentionally slightly off of center, are used to change the point of impact. For instance, an offset choke can be used to make a double barrelled shotgun with poorly aligned barrels hit the same spot with both barrels.

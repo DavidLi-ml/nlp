@@ -1,0 +1,1 @@
+   is the standard acceleration of gravity (9.80665 m/s2)

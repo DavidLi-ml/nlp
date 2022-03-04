@@ -1,0 +1,1 @@
+A brick is given a classification based on how it is laid, and how the exposed face is oriented relative to the face of the finished wall.

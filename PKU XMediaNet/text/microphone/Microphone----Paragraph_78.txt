@@ -1,0 +1,1 @@
+Depending on the application, measurement microphones must be tested periodically (every year or several months, typically) and after any potentially damaging event, such as being dropped (most such microphones come in foam-padded cases to reduce this risk) or exposed to sounds beyond the acceptable level.

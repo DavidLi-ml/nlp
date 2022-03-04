@@ -1,0 +1,1 @@
+Notching the middle of the lead with the corner of a file makes it possible to draw two parallel lines at once.

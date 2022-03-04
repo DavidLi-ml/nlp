@@ -1,0 +1,1 @@
+Bus stops will often include timetable information, either the full timetable, or for busier routes, the times or frequency that a bus will call at the specific stop. Route maps and tariff information may also be provided, and telephone numbers to relevant travel information services.

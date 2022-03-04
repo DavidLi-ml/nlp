@@ -1,0 +1,1 @@
+The technology of using stationary MR heads was later developed by OnStream for use as a data storage media for computers. MR heads are now also commonly used in hard disks, although hard disks use the GMR variant, whereas DCC used the earlier AMR.

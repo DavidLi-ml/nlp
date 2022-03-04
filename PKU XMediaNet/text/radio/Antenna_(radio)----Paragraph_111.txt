@@ -1,0 +1,1 @@
+Quad - consists of multiple wire loops in a line with one functioning as the driven element, and the others as parasitic elements. Used as a directional antenna on the HF bands for shortwave communication.

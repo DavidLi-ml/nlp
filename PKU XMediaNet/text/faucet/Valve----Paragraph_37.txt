@@ -1,0 +1,1 @@
+Shuttle valves automatically connect the higher pressure inlet to the outlet while (in some configurations) preventing flow from one inlet to the other.

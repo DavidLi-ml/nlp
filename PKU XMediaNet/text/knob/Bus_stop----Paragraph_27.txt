@@ -1,0 +1,1 @@
+Detailed procedures for calculating bus stop capacity and bus lane capacity using skip stops are outlined in Part 4 of the Transit Capacity and Quality of Service Manual, published by the US Transportation Research Board.

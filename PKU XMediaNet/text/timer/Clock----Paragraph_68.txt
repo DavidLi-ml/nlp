@@ -1,0 +1,1 @@
+In mechanical clocks this is done mechanically by a gear train, known as the wheel train. The gear train also has a second function; to transmit mechanical power from the power source to run the oscillator. There is a friction coupling called the 'cannon pinion' between the gears driving the hands and the rest of the clock, allowing the hands to be turned to set the time.

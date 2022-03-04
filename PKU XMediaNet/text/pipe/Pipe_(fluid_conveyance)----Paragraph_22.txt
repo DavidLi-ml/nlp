@@ -1,0 +1,1 @@
+For pipe sizes of NPS 14 inch (DN 350) and greater the NPS size is the actual diameter in inches and the DN size is equal to NPS times 25 (not 25.4) rounded to a convenient multiple of 50. For example, NPS 14 has an OD of 14 inches or 355.60 millimetres, and is equivalent to DN 350.

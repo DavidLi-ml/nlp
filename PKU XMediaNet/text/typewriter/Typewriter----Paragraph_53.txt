@@ -1,0 +1,1 @@
+The IBM 2741 terminal was a popular example of a Selectric-based computer terminal, and similar mechanisms were employed as the console devices for many IBM System/360 computers. These mechanisms used "ruggedized" designs compared to those in standard office typewriters.

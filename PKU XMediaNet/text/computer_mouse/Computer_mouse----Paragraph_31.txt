@@ -1,0 +1,1 @@
+Gestural interfaces occur more rarely than plain pointing-and-clicking; and people often find them more difficult to use, because they require finer motor-control from the user. However, a few gestural conventions have become widespread, including the drag and drop gesture, in which:

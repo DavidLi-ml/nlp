@@ -1,0 +1,1 @@
+When launched from the Earth practical delta-v's for a single rockets carrying payloads can be a few km/s. Some theoretical designs have rockets with delta-v's over 9 km/s.

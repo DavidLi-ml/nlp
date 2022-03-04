@@ -1,0 +1,1 @@
+In mathematics, the Whitney umbrella (or Whitney's umbrella and sometimes called a Cayley umbrella) is a self-intersecting surface placed in three dimensions. It is the union of all straight lines that pass through points of a fixed parabola and are perpendicular to a fixed straight line, parallel to the axis of the parabola and lying on its perpendicular bisecting plane.

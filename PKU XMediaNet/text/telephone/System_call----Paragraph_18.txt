@@ -1,0 +1,1 @@
+One-to-one model: Every user thread gets attached to a distinct kernel-level thread during a system call. This model solves the above problem of blocking system calls. It is found in all major distribution of Linux, recent Windows and Solaris versions.

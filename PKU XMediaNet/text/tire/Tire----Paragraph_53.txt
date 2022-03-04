@@ -1,0 +1,1 @@
+Tires are specified by the manufacturer with a maximum load rating. Loads exceeding the rating can result in unsafe conditions that can lead to steering instability and even rupture. For a table of load ratings, see tire code.

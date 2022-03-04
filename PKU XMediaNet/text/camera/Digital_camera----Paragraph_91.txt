@@ -1,0 +1,1 @@
+Most cameras include Exif data that provides metadata about the picture. Exif data may include aperture, exposure time, focal length, date and time taken, and location.

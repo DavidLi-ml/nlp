@@ -1,0 +1,1 @@
+In most systems, system calls are possible to be made only from userspace processes, while in some systems, OS/360 and successors for example, privileged system code also issues system calls.

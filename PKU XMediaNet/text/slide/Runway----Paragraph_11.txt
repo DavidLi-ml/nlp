@@ -1,0 +1,1 @@
+(The clearway length allowed must lie within the aerodrome or airport boundary. According to the Federal Aviation Regulations and Joint Aviation Requirements (JAR) TODA is the lesser of TORA plus clearway or 1.5 times TORA).

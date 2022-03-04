@@ -1,0 +1,1 @@
+Several conditions are needed to produce foam: there must be mechanical work, surface active components (surfactants) that reduce the surface tension, and the formation of foam faster than its breakdown. To create foam, work (W) is needed to increase the surface area (ΔA):

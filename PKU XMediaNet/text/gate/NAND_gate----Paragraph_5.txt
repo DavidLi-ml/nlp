@@ -1,0 +1,1 @@
+NAND gates are basic logic gates, and as such they are recognised in TTL and CMOS ICs.

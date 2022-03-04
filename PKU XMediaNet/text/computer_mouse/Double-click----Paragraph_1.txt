@@ -1,0 +1,1 @@
+On most systems, double-clicking an icon in the file manager will perform a default action on the object represented by the icon. Double-clicking an application program will launch the program, and double-clicking a file icon will open the file in a default application for that file's type or format.

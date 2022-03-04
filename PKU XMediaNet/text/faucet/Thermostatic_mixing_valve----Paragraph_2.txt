@@ -1,0 +1,1 @@
+Many TMVs use a wax thermostat for regulation. They also shut off rapidly in the event of a hot or cold supply failure to prevent scalding or thermal shock.

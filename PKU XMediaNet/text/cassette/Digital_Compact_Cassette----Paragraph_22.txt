@@ -1,0 +1,1 @@
+Recording digitally from a source marked "protected" and "original" (produced by e.g. an audio CD or a prerecorded DCC) was allowed, but the recorder would change the "original" bit to the "copy" state on the tape to prevent further copying of the copy.

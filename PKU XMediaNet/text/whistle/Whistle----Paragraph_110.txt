@@ -1,0 +1,1 @@
+Based on a Strouhal Number of 0.20, the characteristic dimension δ was calculated to be near ¼ inch; the boundary layer thickness. A dipole sound field was created at the trailing edge due to the fluctuating force exerted on it.

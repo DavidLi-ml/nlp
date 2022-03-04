@@ -1,0 +1,1 @@
+It is also important to note that each fluid or dye has its own minimum flow rate. The minimum flow rate is the smallest amount of dye at a given moment to keep the curtain flowing continuously. The minimum flow rate is directly proportional to the surface tension while viscosity is inversely proportional.

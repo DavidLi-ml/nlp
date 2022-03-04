@@ -1,0 +1,1 @@
+Camber thrust and camber force are the force generated perpendicular to the direction of travel of a rolling tire due to its camber angle and finite contact patch.

@@ -1,0 +1,1 @@
+FPSs naturally lend themselves to separate and simultaneous control of the player's movement and aim, and on computers this has traditionally been achieved with a combination of keyboard and mouse. Players use the X-axis of the mouse for looking (or turning) left and right, and the Y-axis for looking up and down; the keyboard is used for movement and supplemental inputs.

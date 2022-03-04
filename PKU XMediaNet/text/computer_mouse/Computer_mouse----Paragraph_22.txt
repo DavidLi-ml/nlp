@@ -1,0 +1,1 @@
+Drag and drop: pressing and holding a button, then moving the mouse without releasing. (Using the command "drag with the right mouse button" instead of just "drag" when one instructs a user to drag an object while holding the right mouse button down instead of the more commonly used left mouse button.)

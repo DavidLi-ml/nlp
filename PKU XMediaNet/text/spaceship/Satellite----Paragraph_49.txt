@@ -1,0 +1,1 @@
+Inclined orbit: An orbit whose inclination in reference to the equatorial plane is not zero degrees.

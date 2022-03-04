@@ -1,0 +1,1 @@
+and it can be seen that the delta-v is limited only by n, the number of stages. Note that this equation does not account for relativistic effects that would place further limitations on delta-v.

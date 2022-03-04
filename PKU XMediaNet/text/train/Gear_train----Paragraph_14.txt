@@ -1,0 +1,1 @@
+This shows that if the output gear GB has more teeth than the input gear GA, then the gear train amplifies the input torque. And, if the output gear has fewer teeth than the input gear, then the gear train reduces the input torque.

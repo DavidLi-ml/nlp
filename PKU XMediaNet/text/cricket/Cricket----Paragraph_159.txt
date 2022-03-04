@@ -1,0 +1,1 @@
+Run rate (RR): Is the number of runs a batsman (or the batting side) scores in an over of six balls.

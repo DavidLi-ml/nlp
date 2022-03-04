@@ -1,0 +1,1 @@
+Which tone quality the rank possesses (for example trumpet, flute, etc.)

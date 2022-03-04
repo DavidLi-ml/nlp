@@ -1,0 +1,1 @@
+Crazy dice is a mathematical exercise in elementary combinatorics, involving a re-labeling of the faces of a pair of six-sided dice to reproduce the same frequency of sums as the standard labeling. The Sicherman dice are crazy dice that are re-labeled with only positive integers.

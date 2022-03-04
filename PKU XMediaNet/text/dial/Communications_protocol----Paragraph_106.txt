@@ -1,0 +1,1 @@
+Douglas E. Comer (2000). Internetworking with TCP/IP - Principles, Protocols and Architecture (4th ed.). Prentice Hall. ISBN 0-13-018380-6.  In particular Ch.11 Protocol layering. Also has a RFC guide and a Glossary of Internetworking Terms and Abbreviations.

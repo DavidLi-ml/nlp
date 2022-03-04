@@ -1,0 +1,1 @@
+Finally modern tape drives offer a speed matching feature, where the drive can dynamically decrease the physical tape speed by as much as 50% to avoid shoe-shining.

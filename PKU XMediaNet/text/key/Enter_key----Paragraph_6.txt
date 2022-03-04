@@ -1,0 +1,1 @@
+In technical terms, the Macintosh keyboard maps the return key to a carriage return, while the enter key maps to a newline.

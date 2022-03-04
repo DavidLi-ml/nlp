@@ -1,0 +1,1 @@
+The black lines are the feedback paths. If the fluid is in the lower channel, some fluid is fed back to the jet origin via the black tube and pushes the jet to the upper channel.

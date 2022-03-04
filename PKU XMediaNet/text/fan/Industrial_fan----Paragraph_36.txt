@@ -1,0 +1,1 @@
+There are several means of controlling the flow rate of a fan, e.g., temporarily reducing the air or gas flow rate; these can be applied to both centrifugal and axial fans.

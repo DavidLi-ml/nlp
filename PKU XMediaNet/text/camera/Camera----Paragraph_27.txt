@@ -1,0 +1,1 @@
+Some cameras have post focusing. Post focusing means take the pictures first and then focusing later at the personal computer. The camera uses many tiny lenses on the sensor to capture light from every camera angle of a scene and is called plenoptics technology. A current plenoptic camera design has 40,000 lenses working together to grab the optimal picture.

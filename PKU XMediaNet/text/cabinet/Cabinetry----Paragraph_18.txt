@@ -1,0 +1,1 @@
+Cabinets which rest on the floor are supported by some base. This base could be a fully enclosed base (i.e. a plinth), a scrolled based, bracket feet or it could be a set of legs.

@@ -1,0 +1,1 @@
+Enterprise infrastructure software supports the enterprise's software systems. Examples include databases, email servers, and network servers.

@@ -1,0 +1,1 @@
+Historically, many computer models did not have a separate keypad, and only had one button to function as Enter or Return. For example, the Commodore 64 (manufactured from 1982) had only the "Return" key.

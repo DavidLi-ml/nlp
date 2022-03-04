@@ -1,0 +1,1 @@
+Calls to parties beyond the local exchange are carried over trunk lines which establish connections between exchanges. In modern telephone networks, fiber-optic cable and digital technology are often employed in such connections. Satellite technology may be used for communication over very long distances.

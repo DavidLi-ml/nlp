@@ -1,0 +1,1 @@
+Where C(n,q) is the number of unique subsets of q dice out of the set of n unknown dice. In other words, the number of dice with any particular face value follows the binomial distribution 

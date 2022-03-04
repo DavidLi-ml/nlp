@@ -1,0 +1,1 @@
+In a more robust and expensive implementation, the returned light is split and fed to an interferometer, which detects movement of the surface by changes in the optical path length of the reflected beam. The former implementation is a tabletop experiment; the latter requires an extremely stable laser and precise optics.

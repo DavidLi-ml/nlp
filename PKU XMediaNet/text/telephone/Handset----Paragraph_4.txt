@@ -1,0 +1,1 @@
+Handset symbol is used on cordless and mobile phones to specify placing or ending the call. Usually button with green upright handset icon is used for starting a call, and red lying down handset  is used for ending a call. Unicode has U+1F4DE 📞 TELEPHONE RECEIVER symbol.

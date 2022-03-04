@@ -1,0 +1,1 @@
+An articulated robot is a robot with rotary joints (e.g. a legged robot or an industrial robot). Articulated robots can range from simple two-jointed structures to systems with 10 or more interacting joints. They are powered by a variety of means, including electric motors.

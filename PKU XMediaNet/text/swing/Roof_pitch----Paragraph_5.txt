@@ -1,0 +1,1 @@
+To mathematically find the exact roof slope in degrees, one takes the arctangent. For example: arctan(3/12)=14.0°

@@ -1,0 +1,1 @@
+The main alternative to Dolby was the dbx noise reduction system, which achieved a high signal-to-noise ratio, but was essentially unlistenable when played back on decks that lacked the dbx decoding circuitry.

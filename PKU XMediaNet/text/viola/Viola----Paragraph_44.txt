@@ -1,0 +1,1 @@
+Instruments may be built with an internal preamplifier, or may put out the unbuffered transducer signal. While such raw signals may be fed directly to an amplifier or mixing board, they often benefit from an external preamp/equalizer on the end of a short cable, before being fed to the sound system.

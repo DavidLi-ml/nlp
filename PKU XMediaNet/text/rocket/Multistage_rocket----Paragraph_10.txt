@@ -1,0 +1,1 @@
+3. Calculate the burnout velocity, and sum it with the initial velocity for each individual stage. Assuming each stage occurs immediately after the previous, the burnout velocity becomes the initial velocity for the following stage.

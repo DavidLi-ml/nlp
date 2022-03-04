@@ -1,0 +1,1 @@
+aridity index lower than 0.35

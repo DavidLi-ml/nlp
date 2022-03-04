@@ -1,0 +1,1 @@
+Xenbase is the Model Organism Database (MOD) with the full details and release information regarding the current Xenopus laevis genome (9.1).

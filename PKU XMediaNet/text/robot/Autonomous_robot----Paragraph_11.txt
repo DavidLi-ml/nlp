@@ -1,0 +1,1 @@
+The next level of autonomous task performance requires a robot to perform conditional tasks. For instance, security robots can be programmed to detect intruders and respond in a particular way depending upon where the intruder is.

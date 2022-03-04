@@ -1,0 +1,1 @@
+Ballistics By The Inch showing relationship between barrel length and bullet velocity for handguns.

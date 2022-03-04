@@ -1,0 +1,1 @@
+The Kelvin temperature scale of the SI system is based on the triple point of water, defined as exactly 273.16 K or 0.01 °C. The scale is an absolute temperature scale with the same increment as the Celsius temperature scale, which was originally defined according to the boiling point (set to 100 °C) and melting point (set to 0 °C) of water.

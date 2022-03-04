@@ -1,0 +1,1 @@
+Cameras with digital image sensors that are smaller than the typical 35mm film size have a smaller field or angle of view when used with a lens of the same focal length. This is because angle of view is a function of both focal length and the sensor or film size used.

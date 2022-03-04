@@ -1,0 +1,1 @@
+Kort nozzles may be fixed, with directional control coming from a rudder set in the water flow, or pivoting, where their flow controls the vessel's steering.

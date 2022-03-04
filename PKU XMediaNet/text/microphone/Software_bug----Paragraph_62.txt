@@ -1,0 +1,1 @@
+Excessive recursion which — though logically valid — causes stack overflow.

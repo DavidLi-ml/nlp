@@ -1,0 +1,1 @@
+If the instruction requires an ALU or specialized hardware to complete, instruct the hardware to perform the requested operation.

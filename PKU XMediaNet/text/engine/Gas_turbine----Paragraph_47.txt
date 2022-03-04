@@ -1,0 +1,1 @@
+Industrial gas turbines differ from aeronautical designs in that the frames, bearings, and blading are of heavier construction. They are also much more closely integrated with the devices they power— often an electric generator—and the secondary-energy equipment that is used to recover residual energy (largely heat).

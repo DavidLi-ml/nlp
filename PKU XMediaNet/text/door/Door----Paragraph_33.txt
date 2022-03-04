@@ -1,0 +1,1 @@
+Doors can be hinged so that the axis of rotation is not in the plane of the door to reduce the space required on the side to which the door opens. This requires a mechanism so that the axis of rotation is on the side other than that in which the door opens. This is sometimes the case in trains or airplanes, such as for the door to the toilet, which opens inward.

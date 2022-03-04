@@ -1,0 +1,1 @@
+The passive infrared (PIR) motion detector is one of the most common sensors found in household and small business environments. It offers affordable and reliable functionality. The term passive refers to the fact that the detector does not generate or radiate its own energy; it works entirely by detecting the heat energy given off by other objects.

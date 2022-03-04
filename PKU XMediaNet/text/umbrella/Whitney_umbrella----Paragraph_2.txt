@@ -1,0 +1,1 @@
+This formula also includes the negative z axis (which is called the handle of the umbrella).

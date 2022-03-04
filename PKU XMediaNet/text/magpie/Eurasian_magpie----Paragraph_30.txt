@@ -1,0 +1,1 @@
+The magpie is omnivorous, eating young birds and eggs, small mammals, insects, scraps and carrion, acorns, grain, and other vegetable substances.

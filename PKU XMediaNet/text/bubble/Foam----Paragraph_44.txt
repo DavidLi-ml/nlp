@@ -1,0 +1,1 @@
+The acoustical property of the speed of sound through a foam is of interest when analyzing failures of hydraulic components. The analysis involves calculating total hydraulic cycles to fatigue failure. The speed of sound in a foam is determined by the mechanical properties of the gas creating the foam: oxygen, nitrogen, or combinations.

@@ -1,0 +1,1 @@
+In all tape formats, a tape drive (or "transport" or "deck") uses motors to wind the tape from one reel to another, passing tape heads to read, write or erase as it moves.

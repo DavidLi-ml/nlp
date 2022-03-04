@@ -1,0 +1,1 @@
+Spacecraft must be engineered to withstand launch loads imparted by the launch vehicle, and must have a point of attachment for all the other subsystems. Depending on mission profile, the structural subsystem might need to withstand loads imparted by entry into the atmosphere of another planetary body, and landing on the surface of another planetary body.

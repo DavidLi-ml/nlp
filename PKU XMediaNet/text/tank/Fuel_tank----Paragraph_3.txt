@@ -1,0 +1,1 @@
+Provide a method for determining level of fuel in tank, gauging (the remaining quantity of fuel in the tank must be measured or evaluated).

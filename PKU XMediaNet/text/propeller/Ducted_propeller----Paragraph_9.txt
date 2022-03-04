@@ -1,0 +1,1 @@
+With the second type, the inflow velocity is reduced, whereby pressure is increased, reducing cavitation. This is called a pump-jet, especially in combination with fixed blades or stators.

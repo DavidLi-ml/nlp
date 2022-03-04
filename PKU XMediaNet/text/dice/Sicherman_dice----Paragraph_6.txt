@@ -1,0 +1,1 @@
+The numbers can be arranged so that all pairs of numbers on opposing sides sum to equal numbers, 5 for the first and 9 for the second.

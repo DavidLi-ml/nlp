@@ -1,0 +1,1 @@
+An electric buzzer uses a similar mechanism to an interrupter bell, but without the resonant bell. They are quieter than bells, but adequate for a warning tone over a small distance, such as across a desktop.

@@ -1,0 +1,1 @@
+A secondary dial tone is a dial tone-like sound presented to the caller after a call has been set up to prompt for additional digits to be dialed. Secondary dial tones are often used in call queuing and call forwarding systems.

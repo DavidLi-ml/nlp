@@ -1,0 +1,1 @@
+  . Due to this nature, it is sometimes called phase-flip. It is represented by the Pauli Z matrix:

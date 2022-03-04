@@ -1,0 +1,1 @@
+Some guitars have piezoelectric pickup in addition to electromagnetic pickups. Piezo pickups produce a more acoustic sound. The piezo runs through a built-in equalizer (EQ) to improve similitude and control tone. A blend knob controls the mix between electromagnetic and piezoelectric sounds.

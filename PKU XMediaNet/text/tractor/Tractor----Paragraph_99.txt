@@ -1,0 +1,1 @@
+In addition to commercial manufacturers, the Open Source Ecology group has developed several working prototypes of an open source hardware tractor called the LifeTrac as part of its Global Village Construction Set.

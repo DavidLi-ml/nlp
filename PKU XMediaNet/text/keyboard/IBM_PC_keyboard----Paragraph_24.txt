@@ -1,0 +1,1 @@
+PgUp and PgDn move through the document by pages.

@@ -1,0 +1,1 @@
+One approach to designing robots is to base them on animals. BionicKangaroo was designed and engineered by studying and applying the physiology and methods of locomotion of a kangaroo.

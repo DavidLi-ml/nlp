@@ -1,0 +1,1 @@
+The ultimate goal of optimal staging is to maximize the payload ratio (see ratios under performance), meaning the largest amount of payload is carried up to the required burnout velocity using the least amount of non-payload mass, which comprises everything else. Here are a few quick rules and guidelines to follow in order to reach optimal staging:

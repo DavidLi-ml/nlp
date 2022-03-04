@@ -1,0 +1,1 @@
+Accuracy: See Figure. The difference between the point that a robot is trying to achieve and the actual resultant position. Absolute accuracy is the difference between a point instructed by the robot control system and the point actually achieved by the manipulator arm, while repeatability is the cycle-to-cycle variation of the manipulator arm when aimed at the same point.

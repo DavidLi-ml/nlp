@@ -1,0 +1,1 @@
+Bans are enforced by servers immediately upon detection of cracks or cheats, usually without human intervention. Sometimes, legitimate users are wrongly deemed in violation of the license, and banned. In large cases of false positives, they are sometimes corrected (as happened in World of Warcraft.) However, individual cases may not be given any attention.

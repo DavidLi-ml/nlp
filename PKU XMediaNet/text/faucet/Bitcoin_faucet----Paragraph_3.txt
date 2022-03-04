@@ -1,0 +1,1 @@
+As bitcoin transactions are irreversible and there are many faucets, they have become targets for hackers stealing the bitcoins.

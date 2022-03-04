@@ -1,0 +1,1 @@
+   is the net force acting on the rocket (mostly thrust but air drag and other forces can play a part.)

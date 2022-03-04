@@ -1,0 +1,1 @@
+For the Marangoni effect to occur, first the foam must be indented as shown in the first picture. This indentation will increase the local surface area. The surfactants have a larger diffusion time than the bulk of the solution; therefore, there is a smaller concentration of the surfactants in the indentation.

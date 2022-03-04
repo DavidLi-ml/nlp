@@ -1,0 +1,1 @@
+A standard exercise in elementary combinatorics is to calculate the number of ways of rolling any given value with a pair of fair six-sided dice (by taking the sum of the two rolls). The table shows the number of such ways of rolling a given value 

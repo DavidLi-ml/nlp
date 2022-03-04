@@ -1,0 +1,1 @@
+Amplifier and speaker: an internal audio amplifier built to the main circuit and low-power speakers that amplify the sounds so that the listener can hear them.

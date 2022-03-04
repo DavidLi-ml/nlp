@@ -1,0 +1,1 @@
+tty, short for teletypewriter – used in Unix-like operating systems to designate a given "terminal".

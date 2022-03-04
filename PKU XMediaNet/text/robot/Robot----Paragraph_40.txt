@@ -1,0 +1,1 @@
+Mobile robots have the capability to move around in their environment and are not fixed to one physical location. An example of a mobile robot that is in common use today is the automated guided vehicle or automatic guided vehicle (AGV). An AGV is a mobile robot that follows markers or wires in the floor, or uses vision or lasers. AGVs are discussed later in this article.

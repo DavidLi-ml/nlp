@@ -1,0 +1,1 @@
+Sensors (detectors) are transducers that react to environmental conditions by changing their electrical properties or generating an electrical signal.

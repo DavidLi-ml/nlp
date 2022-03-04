@@ -1,0 +1,1 @@
+low dead space to reduce complications caused by improper drawing order of different insulin strengths.

@@ -1,0 +1,1 @@
+Internet Engineering Task Force abbr. IETF (1989): RFC1122, Requirements for Internet Hosts -- Communication Layers, R. Braden (ed.), Available online at http://tools.ietf.org/html/rfc1122. Describes TCP/IP to the implementors of protocolsoftware. In particular the introduction gives an overview of the design goals of the suite.

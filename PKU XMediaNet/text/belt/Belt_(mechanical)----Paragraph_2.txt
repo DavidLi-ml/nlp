@@ -1,0 +1,1 @@
+where, T1 and T2 are tensions in the tight side and slack side of the belt respectively. They are related as:

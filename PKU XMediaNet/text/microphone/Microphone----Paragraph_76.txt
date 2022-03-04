@@ -1,0 +1,1 @@
+Measurement microphones are generally scalar sensors of pressure; they exhibit an omnidirectional response, limited only by the scattering profile of their physical dimensions. Sound intensity or sound power measurements require pressure-gradient measurements, which are typically made using arrays of at least two microphones, or with hot-wire anemometers.

@@ -1,0 +1,1 @@
+Feathering the blades of a propeller means to increase their angle of pitch by turning the blades to be parallel to the airflow. This minimizes drag from a stopped propeller following an engine failure in flight.

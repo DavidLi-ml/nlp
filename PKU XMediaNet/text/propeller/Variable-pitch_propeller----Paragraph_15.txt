@@ -1,0 +1,1 @@
+Just like an aeronautical propeller, a marine VPP may be “feathered”. This is useful for motorsailers as this mode gives the least water resistance when sailing without using power. Also, when motorsailing, (i.e. voyaging under both power and sail) the VPP can be coarsened to incorporate the wind component.

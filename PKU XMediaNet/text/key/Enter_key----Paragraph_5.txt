@@ -1,0 +1,1 @@
+Apple also took advantage of this situation to create an editable command line environment called a "Worksheet" in the Macintosh Programmer's Workshop, where return was used strictly as a formatting key while enter was used to execute a shell command or series of commands in direct mode.

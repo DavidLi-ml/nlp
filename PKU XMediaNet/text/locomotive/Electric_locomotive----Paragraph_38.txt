@@ -1,0 +1,1 @@
+Pantograph: a hinged frame that holds the collecting shoes against the wire in a fixed geometry.

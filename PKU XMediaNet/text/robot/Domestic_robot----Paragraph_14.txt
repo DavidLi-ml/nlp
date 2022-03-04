@@ -1,0 +1,1 @@
+A social robot is a robot whose main objective is social interaction. Many of these robots are designed to help the elderly. For example, the Wakamaru is a humanoid robot designed to provide company for elderly and less mobile people, made by Mitsubishi Heavy Industries. There is also the Paro, a robot baby seal intended to provide comfort to nursing home patients.

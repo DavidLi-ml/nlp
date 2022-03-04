@@ -1,0 +1,1 @@
+Regeneration: The refrigerant-saturated liquid is heated, causing the refrigerant to evaporate out. The hot gaseous refrigerant passes through a heat exchanger, transferring its heat outside the system (such as to surrounding ambient-temperature air), and condenses. The condensed (liquid) refrigerant supplies the evaporation phase.

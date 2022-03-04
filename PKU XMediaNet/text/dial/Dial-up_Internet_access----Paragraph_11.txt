@@ -1,0 +1,1 @@
+Analog telephone lines are digitally switched and transported inside a Digital Signal 0 once reaching the telephone company's equipment. Digital Signal 0 is 64 kbit/s; therefore a 56 kbit/s connection is the highest that will ever be possible with analog phone lines.

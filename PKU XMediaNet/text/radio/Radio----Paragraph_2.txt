@@ -1,0 +1,1 @@
+A radio communication system sends signals by radio. The radio equipment involved in communication systems includes a transmitter and a receiver, each having an antenna and appropriate terminal equipment such as a microphone at the transmitter and a loudspeaker at the receiver in the case of a voice-communication system.

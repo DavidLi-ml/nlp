@@ -1,0 +1,1 @@
+The transmission of rotation between contacting toothed wheels can be traced back to the Antikythera mechanism of Greece and the south-pointing chariot of China. Illustrations by the Renaissance scientist Georgius Agricola show gear trains with cylindrical teeth. The implementation of the involute tooth yielded a standard gear design that provides a constant speed ratio.

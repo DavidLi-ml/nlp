@@ -1,0 +1,1 @@
+Bottles could be stacked in cargo holds on ships without rolling around and breaking.

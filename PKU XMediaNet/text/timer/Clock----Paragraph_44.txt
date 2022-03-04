@@ -1,0 +1,1 @@
+The first accurate atomic clock, a caesium standard based on a certain transition of the caesium-133 atom, was built by Louis Essen in 1955 at the National Physical Laboratory in the UK. Calibration of the caesium standard atomic clock was carried out by the use of the astronomical time scale ephemeris time (ET).

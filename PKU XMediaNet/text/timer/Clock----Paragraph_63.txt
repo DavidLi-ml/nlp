@@ -1,0 +1,1 @@
+In mechanical clocks, this is the escapement, which gives precise pushes to the swinging pendulum or balance wheel, and releases one gear tooth of the escape wheel at each swing, allowing all the clock's wheels to move forward a fixed amount with each swing.

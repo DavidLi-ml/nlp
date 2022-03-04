@@ -1,0 +1,1 @@
+These whistles generate enough sound to be detected but at frequencies below 1 Hz they are inaudible. Like the Aeolian tone, the feedback is Class I. Using Strouhal's number, it might be possible to estimate the wind velocities; they appear to be quite high.

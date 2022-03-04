@@ -1,0 +1,1 @@
+Similarly, B beats C with a 2/3 probability because only two of C's faces are higher.

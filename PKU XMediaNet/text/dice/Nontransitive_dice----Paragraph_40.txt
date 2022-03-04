@@ -1,0 +1,1 @@
+Tetrahedra can be used as dice with four possible results.

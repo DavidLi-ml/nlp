@@ -1,0 +1,1 @@
+Automobile tires are described by an alphanumeric code, which is generally molded into the sidewall of the tire. This code specifies the dimensions of the tire, and some of its key limitations, such as load-bearing ability, and maximum speed. Sometimes the inner sidewall contains information not included on the outer sidewall, and vice versa.

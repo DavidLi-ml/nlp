@@ -1,0 +1,1 @@
+Microturbines are becoming widespread in distributed power and combined heat and power applications, and are very promising for powering hybrid electric vehicles. They range from hand held units producing less than a kilowatt, to commercial sized systems that produce tens or hundreds of kilowatts. Basic principles of microturbine are based on micro-combustion.

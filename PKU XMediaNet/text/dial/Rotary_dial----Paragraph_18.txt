@@ -1,0 +1,1 @@
+Dials at user stations typically produced pulses at the rate of ten pulses per second (pps), while dials on operator consoles on Crossbar or electronic exchanges often pulsed at 20 pps.

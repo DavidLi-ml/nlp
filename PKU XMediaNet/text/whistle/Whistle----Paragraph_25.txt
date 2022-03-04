@@ -1,0 +1,1 @@
+At any particular flow speed it is possible for one of several loops to be dominant, depending on how that speed was achieved. In a number of the whistles described here, Stage I is associated with the development of a single vortex in the distance between initiation of the flow instability and initiation of the feedback signal.

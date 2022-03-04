@@ -1,0 +1,1 @@
+Polar sun synchronous orbit: A nearly polar orbit that passes the equator at the same local time on every pass. Useful for image taking satellites because shadows will be nearly the same on every pass.

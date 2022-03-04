@@ -1,0 +1,1 @@
+The expected quantity of any face value among a number of unknown dice is one-sixth the total unknown dice.

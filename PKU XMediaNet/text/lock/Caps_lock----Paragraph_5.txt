@@ -1,0 +1,1 @@
+While the typical locking behaviour on keyboards with Caps Lock key is that of a toggle, each press reversing the shift state, some keyboard layouts implement a combi mode, where pressing a Shift key in Caps Lock mode will also release the Caps Lock mode, just as it typically happens in Shift lock mode.

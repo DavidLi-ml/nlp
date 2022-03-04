@@ -1,0 +1,1 @@
+The delete key often works as a generic command to remove a selected object, such as an image embedded in a document (on Apple Keyboards, both the forward delete key and the delete (backspace) key have the same effect when pressed while an object is selected).

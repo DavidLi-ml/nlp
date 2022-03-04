@@ -1,0 +1,1 @@
+All energy transferred to the fluid is derived from the mechanical energy driving the impeller. This can be measured at isentropic compression, resulting in a slight temperature increase (in addition to the pressure increase).

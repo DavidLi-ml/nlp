@@ -1,0 +1,1 @@
+A very similar (but incompatible) cassette format was produced by Hewlett-Packard and Verbatim (the HP82176A Mini Data Cassette) for data storage in their HP82161A tape drive, which, like other minicassettes, did not use a capstan.

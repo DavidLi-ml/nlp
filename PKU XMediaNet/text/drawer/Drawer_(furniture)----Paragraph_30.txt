@@ -1,0 +1,1 @@
+Drawer slides often have a mechanism to keep the drawer from accidentally being pulled fully from its enclosure.

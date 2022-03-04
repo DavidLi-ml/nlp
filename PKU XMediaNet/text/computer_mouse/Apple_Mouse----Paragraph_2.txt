@@ -1,0 +1,1 @@
+All mice made by Apple contained a ball-tracking control mechanism until 2000, when Apple introduced optical LED based control mechanisms. Apple's latest mouse uses laser tracking.

@@ -1,0 +1,1 @@
+Aerodynamic whistles rely on the instability of flows and some mechanism downstream to send the disturbance back to the origin to continue the instability. There are several ways that feedback can occur.

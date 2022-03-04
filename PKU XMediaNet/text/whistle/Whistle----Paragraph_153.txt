@@ -1,0 +1,1 @@
+The frequency of the sound is closely related to the rotation rate of the cavity vortex. With a frequency near 2800 Hz the interior rotation rate must be very high. It is likely that the Rossby number 

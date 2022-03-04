@@ -1,0 +1,1 @@
+Often, on a small network system, there are many mobile units and one main base station. This would be typical for police or taxi services for example. To help direct messages to the correct recipients and avoid irrelevant traffic on the network's being a distraction to other units, a variety of means have been devised to create addressing systems.

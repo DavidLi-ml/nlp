@@ -1,0 +1,1 @@
+Event data recorder, commonly called a "black box", a durable data-recording device found in some vehicles, used to assist in the investigation of an accident.

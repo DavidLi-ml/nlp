@@ -1,0 +1,1 @@
+ZS – Shows the country from which the call sign originates and may also indicate the license class. (This call sign is licensed in South Africa. CEPT Class is no longer "encoded" in South African callsigns. Where specific classes of amateur radio license exist, the call signs may be assigned by class, but the specifics vary by issuing country.)

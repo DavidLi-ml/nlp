@@ -1,0 +1,1 @@
+According to Fresnel equations, the reflectivity of a sheet of glass is about 4% per surface (at normal incidence in air), and the transmissivity of one element (two surfaces) is about 90%. Glass with high germanium oxide content also finds application in optoelectronics—e.g., for light-transmitting optical fibers.

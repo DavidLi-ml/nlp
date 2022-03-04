@@ -1,0 +1,1 @@
+Similarly, some keyboard drivers allow to control the shifting and toggling behaviour either by selecting alternative national keyboard layouts, if defined, by providing specific configuration options to switch the behaviour, or even special hotkeys to change the behaviour on the fly.

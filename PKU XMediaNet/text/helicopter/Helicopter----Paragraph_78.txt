@@ -1,0 +1,1 @@
+When hovering with a forward diagonal crosswind, or moving in a forward diagonal direction, the spinning vortices trailing off the main rotor blades will align with the rotation of the tail rotor and cause an instability in flight control.

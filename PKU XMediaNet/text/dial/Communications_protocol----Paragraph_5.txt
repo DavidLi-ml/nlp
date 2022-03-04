@@ -1,0 +1,1 @@
+In contrast, because there is no common memory, communicating systems have to communicate with each other using a shared transmission medium. Transmission is not necessarily reliable, and individual systems may use different hardware and/or operating systems.

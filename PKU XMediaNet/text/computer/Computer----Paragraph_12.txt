@@ -1,0 +1,1 @@
+The tide-predicting machine invented by Sir William Thomson in 1872 was of great utility to navigation in shallow waters. It used a system of pulleys and wires to automatically calculate predicted tide levels for a set period at a particular location.

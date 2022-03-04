@@ -1,0 +1,1 @@
+Security robots which have a night-vision-capable wide-angle camera that detects movements and intruders. It can patrol places and shoot video of suspicious activities, too, and send alerts via email or text message; the stored history of past alerts and videos are accessible via the Web. The robot can also be configured to go into action at any time of the day.

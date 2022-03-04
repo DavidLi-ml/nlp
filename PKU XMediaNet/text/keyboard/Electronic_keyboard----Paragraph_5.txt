@@ -1,0 +1,1 @@
+User interface software: A program (usually embedded in a computer chip) which handles user interaction with controllers and menus, which allows the user to select different instruments (e.g., piano, organ, flute, drum kit), digital effects (reverb, echo, telephones or sustain), and other features (e.g., transposition, accompaniments, song player/recorder, external media, etc.)

@@ -1,0 +1,1 @@
+A common application of the multistage centrifugal pump is the boiler feedwater pump. For example, a 350 MW unit would require two feedpumps in parallel. Each feedpump is a multistage centrifugal pump producing 150 l/s at 21 MPa.

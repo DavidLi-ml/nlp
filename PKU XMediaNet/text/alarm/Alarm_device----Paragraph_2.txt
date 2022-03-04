@@ -1,0 +1,1 @@
+distributed control systems (DCS), found in nuclear power plants, refineries and chemical facilities also generate alarms to direct the operator's attention to an important event that he or she needs to address.

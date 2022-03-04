@@ -1,0 +1,1 @@
+This analysis is simplified and ignores a number of significant factors including interference between the blades and the influence of tip vortices.

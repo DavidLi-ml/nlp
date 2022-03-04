@@ -1,0 +1,1 @@
+Pass current in proportion to voltage (Ohm's law) and oppose current.

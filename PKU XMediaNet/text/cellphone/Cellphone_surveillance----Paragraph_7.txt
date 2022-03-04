@@ -1,0 +1,1 @@
+Remotely enabling microphones to capture and forward conversations. Microphones can be activated during a call or when the phone is on standby for capturing conversations near the cellphone.

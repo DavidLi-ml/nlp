@@ -1,0 +1,1 @@
+In reversible logic, Toffoli gates are used.

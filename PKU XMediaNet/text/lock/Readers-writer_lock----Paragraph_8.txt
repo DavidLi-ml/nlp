@@ -1,0 +1,1 @@
+Raynal demonstrates how to implement an R/W lock using two mutexes and a single integer counter. The counter, b, tracks the number of blocking readers. One mutex, r, protects b and is only used by readers; the other, g (for "global") ensures mutual exclusion of writers. The following is pseudocode for the lock-for-read operation:

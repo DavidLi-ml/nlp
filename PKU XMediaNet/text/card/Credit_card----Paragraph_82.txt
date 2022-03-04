@@ -1,0 +1,1 @@
+For each purchase, the bank charges the merchant a commission (discount fee) for this service and there may be a certain delay before the agreed payment is received by the merchant. The commission is often a percentage of the transaction amount, plus a fixed fee (interchange rate).

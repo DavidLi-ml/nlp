@@ -1,0 +1,1 @@
+The variables U and L are considered characteristic of the source and their correct choice is important.

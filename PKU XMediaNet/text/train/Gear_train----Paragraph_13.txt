@@ -1,0 +1,1 @@
+    {\displaystyle MA={\frac {T_{B}}{T_{A}}}={\frac {N_{B}}{N_{A}}}.}

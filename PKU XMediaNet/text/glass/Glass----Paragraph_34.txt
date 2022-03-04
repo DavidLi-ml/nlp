@@ -1,0 +1,1 @@
+1888: "Machine Rolled" glass introduced allowing patterns to be introduced.

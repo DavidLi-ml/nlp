@@ -1,0 +1,1 @@
+The T4000 (Tronador T4000 pathfinder rocket) test rocket is related to the project, as it is the basis of the 3rd stage of the Tronador II. Specifically, it was intended to house the attitude control system (“Thrust Vector Control” - TVS). The first launch attempt in 2011 failed.

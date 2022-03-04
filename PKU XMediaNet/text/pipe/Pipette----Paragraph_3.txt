@@ -1,0 +1,1 @@
+Although specific descriptive names exist for each type of pipette, in practice any type of pipette will merely be referred to as a "pipette" and the desired device will be obvious from context. Sometimes, pipettes that dispense between 1 and 1000 μl are distinguished as micropipettes, while macropipettes dispense greater volumes.

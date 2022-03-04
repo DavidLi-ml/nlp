@@ -1,0 +1,1 @@
+The design that Igor Sikorsky settled on for his VS-300 was a smaller tail rotor. The tail rotor pushes or pulls against the tail to counter the torque effect, and this has become the most common configuration for helicopter design.

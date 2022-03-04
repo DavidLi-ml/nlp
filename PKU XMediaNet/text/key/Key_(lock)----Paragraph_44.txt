@@ -1,0 +1,1 @@
+There are several popular type of keycards in use including the mechanical holecard, bar code, magnetic stripe, Wiegand wire embedded cards, smart card (embedded with a read/write electronic microchip), and RFID proximity cards.

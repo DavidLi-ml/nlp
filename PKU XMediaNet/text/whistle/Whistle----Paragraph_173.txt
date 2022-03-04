@@ -1,0 +1,1 @@
+   added). A cylindrical cavity nine inches deep and 4.25 inches in diameter was connected to a circular orifice 1.375 inches in diameter and 1.375 inches deep. The measured frequency was close to 140 Hz. If the cavity acted as a one-quarter wavelength resonator, the frequency would have been 377 Hz; clearly not a longitudinal resonance.

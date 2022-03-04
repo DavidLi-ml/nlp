@@ -1,0 +1,1 @@
+Active components rely on a source of energy (usually from the DC circuit, which we have chosen to ignore) and usually can inject power into a circuit, though this is not part of the definition. Active components include amplifying components such as transistors, triode vacuum tubes (valves), and tunnel diodes.

@@ -1,0 +1,1 @@
+A common example is dragging an icon on a virtual desktop to a special trashcan icon to delete a file.

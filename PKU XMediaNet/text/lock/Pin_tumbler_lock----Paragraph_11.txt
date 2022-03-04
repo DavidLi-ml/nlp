@@ -1,0 +1,1 @@
+Some types of cylinder lock are vulnerable to an attack called lock snapping.

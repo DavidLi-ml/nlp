@@ -1,0 +1,1 @@
+'Birds eye' buttons do not have any laying or rounding, but use multiple passes of thickened casting to make a simple 'doughnut' button. Originally, before the introduction of wire rings, these were a single pass, formed over a rolled piece of cloth.

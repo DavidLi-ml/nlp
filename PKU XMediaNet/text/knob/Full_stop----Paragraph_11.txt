@@ -1,0 +1,1 @@
+The period glyph is used in the presentation of numbers, but in only one of two alternate styles at a time.

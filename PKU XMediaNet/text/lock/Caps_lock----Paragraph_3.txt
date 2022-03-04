@@ -1,0 +1,1 @@
+In some keyboard layouts, the status of the Caps Lock key only changes the meaning of the alphabet keys (verbatim as per capital shift lock), not that of the number row, which then still requires the Shift key to be pressed to reach the alternative key definitions.

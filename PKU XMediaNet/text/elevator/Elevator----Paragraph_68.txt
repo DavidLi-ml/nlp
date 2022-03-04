@@ -1,0 +1,1 @@
+Elevators in high traffic buildings often have a "nudge" function (the Otis Autotronic system first introduced this feature) which will close the doors at a reduced speed, and sound a buzzer if the "door open" button is being deliberately held down, or if the door sensors have been blocked for too long a time.

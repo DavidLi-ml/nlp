@@ -1,0 +1,1 @@
+Finally, die D beats A two-thirds of the time but beats C only one-third of the time. The probability of die D beating B is 1/2 (only when D rolls 5). So the likelihood of D beating any other randomly selected die is:

@@ -1,0 +1,1 @@
+In string theory, a Whitney brane is a D7-brane wrapping a variety whose singularities are locally modeled by the Whitney umbrella. Whitney branes appear naturally when taking Sen's weak coupling limit of F-theory.

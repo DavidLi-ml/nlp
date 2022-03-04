@@ -1,0 +1,1 @@
+CD data is represented as tiny indentations known as "pits", encoded in a spiral track moulded into the top of the polycarbonate layer. The areas between pits are known as "lands". Each pit is approximately 100 nm deep by 500 nm wide, and varies from 850 nm to 3.5 µm in length. The distance between the tracks, the pitch, is 1.6 µm.

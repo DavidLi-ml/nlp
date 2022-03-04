@@ -1,0 +1,1 @@
+preset disturbance time (time the intruder is in the pattern).

@@ -1,0 +1,1 @@
+Ash is also fairly popular in embedded Linux systems; its code was incorporated into the BusyBox catch-all executable often employed in this area, and is used in distributions like DSLinux, Alpine Linux, Tiny Core Linux and Linux-based router firmware such as OpenWrt, Tomato and DD-WRT.

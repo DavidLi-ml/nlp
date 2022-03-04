@@ -1,0 +1,1 @@
+Triggers are sensors that can be attached to drum kit components. In this way, an electronic drum sound will be produced when the instrument is played/struck, as well as the original sound voiced by the instrument being available, if so desired .

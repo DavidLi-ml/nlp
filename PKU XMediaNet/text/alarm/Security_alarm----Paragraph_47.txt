@@ -1,0 +1,1 @@
+pros: low rate of false alarms, very reliable sensors and high rate of detection.

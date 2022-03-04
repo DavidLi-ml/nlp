@@ -1,0 +1,1 @@
+When a rectangular jet impinges on a sharp edged object such as a wedge, a feedback loop can be established resulting in a nearly pure tone. The figure on the right shows schematically the circulation of two vortices as they pass the wedge. This simple diagram suggests that there is a force applied to the wedge whose angle varies as the vortices pass.

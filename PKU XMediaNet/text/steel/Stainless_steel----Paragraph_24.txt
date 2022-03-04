@@ -1,0 +1,1 @@
+Super duplex is by definition a duplex stainless steel with a Pitting Resistance Equivalent Number (PREN) > 40, where PREN = %Cr + 3.3x(%Mo + 0.5x%W) + 16x%N. Usually super duplex grades have 25% or more chromium. Some common examples are S32760 (Zeron 100 via Rolled Alloys), S32750 (2507), and S32550 (Ferralium).

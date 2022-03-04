@@ -1,0 +1,1 @@
+Components can be classified as passive, active, or electromechanic. The strict physics definition treats passive components as ones that cannot supply energy themselves, whereas a battery would be seen as an active component since it truly acts as a source of energy.

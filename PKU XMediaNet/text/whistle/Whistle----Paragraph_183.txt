@@ -1,0 +1,1 @@
+  . For the edge tone component, the characteristic dimension is the orifice to edge distance h and the characteristic speed is that of the jet U. It would seem that the maximum oscillatory gain of the system would occur when the preferred pipe frequency matches the preferred edge tone frequency with suitable phase. This relationship expressed in terms of Strouhal Numbers is:

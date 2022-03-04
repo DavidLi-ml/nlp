@@ -1,0 +1,1 @@
+A hardlocked phone is one in which a telecom provider has modified the firmware on the phone to make it impossible to manually enter the unlock codes in any way. The only solution to SIM-unlock such a phone is to change the firmware to a firmware which has not been modified by any telecom provider, a so-called "unbranded firmware".

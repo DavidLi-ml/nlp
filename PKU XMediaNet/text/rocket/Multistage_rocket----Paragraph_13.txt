@@ -1,0 +1,1 @@
+   is the mass of the payload. The second dimensionless performance quantity is the structural ratio, which is the ratio between the empty mass of the stage, and the combined empty mass and propellant mass as shown in this equation

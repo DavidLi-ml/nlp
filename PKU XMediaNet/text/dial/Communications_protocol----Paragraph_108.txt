@@ -1,0 +1,1 @@
+M. Ben-Ari (1982): Principles of concurrent programming 10th Print. Prentice Hall International, ISBN 0-13-701078-8.

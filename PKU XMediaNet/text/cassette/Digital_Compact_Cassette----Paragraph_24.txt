@@ -1,0 +1,1 @@
+Recording digitally from a source marked "protected" and "copy" was not allowed: the record button would not work and any ongoing recordings would stop, and an error message would be shown on the display.

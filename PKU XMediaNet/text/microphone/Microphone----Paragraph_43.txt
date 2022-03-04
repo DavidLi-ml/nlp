@@ -1,0 +1,1 @@
+Some microphone designs combine several principles in creating the desired polar pattern. This ranges from shielding (meaning diffraction/dissipation/absorption) by the housing itself to electronically combining dual membranes.

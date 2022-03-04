@@ -1,0 +1,1 @@
+Other projects can involve converting a regular single game arcade cabinet into a MAME cabinet, eliminating the need for building a cabinet. Dream Authentics is a company which creates custom cabinets which run off of a computer to run multiple games.

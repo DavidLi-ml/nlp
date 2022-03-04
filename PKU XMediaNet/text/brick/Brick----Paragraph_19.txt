@@ -1,0 +1,1 @@
+Hollow – not solid, the holes are less than 25% of the brick volume.

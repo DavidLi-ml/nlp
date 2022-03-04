@@ -1,0 +1,1 @@
+To implement a networking protocol, the protocol software modules are interfaced with a framework implemented on the machine's operating system. This framework implements the networking functionality of the operating system. The best known frameworks are the TCP/IP model and the OSI model.

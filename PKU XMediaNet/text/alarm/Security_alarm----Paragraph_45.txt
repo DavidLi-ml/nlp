@@ -1,0 +1,1 @@
+disadvantage: some systems have a high rate of false alarms because some of these sensors might be too sensitive. Although systems using DSP (Digital Signal Processing) will largely eliminate false alarms on some cases.

@@ -1,0 +1,1 @@
+Hyper duplex refers to duplex grades with a PRE > 48. UNS S32707 and S33207 are the only grades currently available on the market.

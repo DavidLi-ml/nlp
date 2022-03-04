@@ -1,0 +1,1 @@
+Fiber optic microphones do not react to or influence any electrical, magnetic, electrostatic or radioactive fields (this is called EMI/RFI immunity). The fiber optic microphone design is therefore ideal for use in areas where conventional microphones are ineffective or dangerous, such as inside industrial turbines or in magnetic resonance imaging (MRI) equipment environments.

@@ -1,0 +1,1 @@
+Walks plus hits per inning pitched (WHIP) measures a pitcher's ability at preventing hitters from reaching base. It is calculated exactly as its name suggests.

@@ -1,0 +1,1 @@
+Scanning system is identified with the letter p for progressive scanning or i for interlaced scanning.

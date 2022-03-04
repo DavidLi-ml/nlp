@@ -1,0 +1,1 @@
+Optical mice rely entirely on one or more light-emitting diodes (LEDs) and an imaging array of photodiodes to detect movement relative to the underlying surface, eschewing the internal moving parts a mechanical mouse uses in addition to its optics. A laser mouse is an optical mouse that uses coherent (laser) light.

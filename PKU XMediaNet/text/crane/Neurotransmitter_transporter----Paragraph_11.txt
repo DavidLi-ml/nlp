@@ -1,0 +1,1 @@
+Vesamicol, for example, is an inhibitor of the vesicular acetylcholine transporter. It prevents the loading of ACh into the presynaptic vesicles, causing a fall in the amount that is released in response to a neuronal action potential. It is not used clinically, but provides a useful tool for research into the behaviour of neurotransmitter vesicles.

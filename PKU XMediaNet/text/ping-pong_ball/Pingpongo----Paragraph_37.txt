@@ -1,0 +1,1 @@
+( * ) In any case, when losing the first game, either in first or second round, the participant will receive 1 point. In case of advancing to second round after winning a game during first round, the player will get the corresponding points, which in this example for 23 participants would be 14.

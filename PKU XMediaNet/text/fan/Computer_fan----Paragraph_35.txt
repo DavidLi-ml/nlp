@@ -1,0 +1,1 @@
+Ionic wind cooling is being researched, whereby air is moved by ionizing air between two electrodes. This replaces the fan and has the advantage of no moving parts and less noise.

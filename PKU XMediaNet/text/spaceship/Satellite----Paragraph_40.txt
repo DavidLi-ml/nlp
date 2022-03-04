@@ -1,0 +1,1 @@
+The commonly used altitude classifications of geocentric orbit are Low Earth orbit (LEO), Medium Earth orbit (MEO) and High Earth orbit (HEO). Low Earth orbit is any orbit below 2,000 km. Medium Earth orbit is any orbit between 2,000 km-35,786 km. High Earth orbit is any orbit higher than 35,786 km.

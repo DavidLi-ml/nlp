@@ -1,0 +1,1 @@
+Network technology independence is achieved using the low-level address resolution protocol (ARP) which is used to map Internet addresses to physical addresses. The mapping is called address resolution. This way physical addresses are only used by the protocols of the network interface layer. The TCP/IP protocols can make use of almost any underlying communication technology.

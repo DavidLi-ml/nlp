@@ -1,0 +1,1 @@
+In electronic clocks this is an electronic oscillator circuit that gives the vibrating quartz crystal or tuning fork tiny 'pushes', and generates a series of electrical pulses, one for each vibration of the crystal, which is called the clock signal.

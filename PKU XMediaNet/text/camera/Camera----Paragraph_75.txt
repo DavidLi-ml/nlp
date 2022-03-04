@@ -1,0 +1,1 @@
+VR cameras are panoramic cameras that also cover the top and bottom in their field of view. . There have also been camera rigs employing multiple cameras to cover the whole 360° by 360° field of view. The most famous VR camera rig is known as 'Google Jump'.

@@ -1,0 +1,1 @@
+DTS-encoded LaserDiscs have DTS soundtracks of 1,235 kbit/s instead of the reduced bitrate of 768 kbit/s commonly employed on DVDs with optional DTS audio.

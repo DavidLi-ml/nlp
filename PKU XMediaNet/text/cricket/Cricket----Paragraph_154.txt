@@ -1,0 +1,1 @@
+Batting average (Ave): The total number of runs divided by the total number of innings in which the batsman was out. Ave = Runs/[I – NO] (also Avge or Avg.)

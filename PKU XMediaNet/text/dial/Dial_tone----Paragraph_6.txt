@@ -1,0 +1,1 @@
+Private or internal PBX or key phone systems also have their own dial tone, sometimes the same as the external PSTN one, and sometimes different so as to remind users to dial a prefix for, or select in another way, an outside line.

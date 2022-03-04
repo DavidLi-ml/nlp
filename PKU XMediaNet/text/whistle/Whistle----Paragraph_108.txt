@@ -1,0 +1,1 @@
+The boundary layer on the airfoil of a glider is laminar and vortex shedding similar to that of a cylinder occurs at the trailing edge. The sound can be a nearly pure tone.

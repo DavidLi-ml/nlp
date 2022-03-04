@@ -1,0 +1,1 @@
+Articulated Robot: See Figure. An articulated robot is one which uses rotary joints to access its work space. Usually the joints are arranged in a “chain”, so that one joint supports another further in the chain.

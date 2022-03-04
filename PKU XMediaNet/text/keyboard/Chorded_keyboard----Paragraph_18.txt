@@ -1,0 +1,1 @@
+The only proposed modern standard, GKOS (or Global Keyboard Open Standard) can support most characters and functions found on a computer keyboard but has had little commercial development. There is, however, a GKOS keyboard application available for iPhone since May 8, 2010, for Android since October 3, 2010 and for MeeGo Harmattan since October 27, 2011.

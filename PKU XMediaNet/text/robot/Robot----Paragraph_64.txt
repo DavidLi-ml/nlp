@@ -1,0 +1,1 @@
+At present, there are two main types of robots, based on their use: general-purpose autonomous robots and dedicated robots.

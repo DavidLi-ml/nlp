@@ -1,0 +1,1 @@
+An example of how this system works is when a passive infrared or other sensor is triggered a designated number of video frames from before and after the event is sent to the central station.

@@ -1,0 +1,1 @@
+Large bass speakers often take advantage of the surroundings as part of the horn. For example, they can be put in the corners of a room, so the walls act as part of the horn. Even outdoors, the ground can form part of the horn surface, and thus a partial horn can help provide a good impedance match to ground, or one or more walls, even at very low frequencies.

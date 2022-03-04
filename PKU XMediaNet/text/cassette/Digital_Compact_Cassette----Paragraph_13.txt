@@ -1,0 +1,1 @@
+The PASC compression scheme was believed to give better quality audio than the 5:1 compression used by ATRAC in the original MiniDisc, but not as good as the uncompressed DAT, although both Philips and Sony stated the difference was imperceptible to listeners' ears (like MP3 or AAC files today).

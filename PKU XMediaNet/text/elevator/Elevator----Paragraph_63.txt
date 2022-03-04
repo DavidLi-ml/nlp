@@ -1,0 +1,1 @@
+Call buttons to choose a floor. Some of these may be key switches (to control access). In some elevators, certain floors are inaccessible unless one swipes a security card or enters a passcode (or both).

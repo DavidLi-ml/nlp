@@ -1,0 +1,1 @@
+The heads and other metallic components in the tape path (such as spindles and capstans) may become magnetized with use, and require degaussing.

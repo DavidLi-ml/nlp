@@ -1,0 +1,1 @@
+In "C versus A", C wins in 9 out of 16 cases.

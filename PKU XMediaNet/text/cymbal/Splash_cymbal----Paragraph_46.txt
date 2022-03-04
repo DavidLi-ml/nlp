@@ -1,0 +1,1 @@
+Allows the drummer to move between the two cymbals of the piggyback in a single motion.

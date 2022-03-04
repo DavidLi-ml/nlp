@@ -1,0 +1,1 @@
+It can be found in molecular beam epitaxy chambers to protect the growth areas from thermal radiation from hot sources. In cryostats, a radiation shield protects a sample from infrared radiation. An infrared detector is protected from thermal background radiation outside its optical field of view. These devices are usually cooled to the same temperature as the detector.

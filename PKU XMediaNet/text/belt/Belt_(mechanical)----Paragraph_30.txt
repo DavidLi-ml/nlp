@@ -1,0 +1,1 @@
+Belt drives are built under the following required conditions: speeds of and power transmitted between drive and driven unit; suitable distance between shafts; and appropriate operating conditions. The equation for power is:

@@ -1,0 +1,1 @@
+For example, a user might drag-and-drop a picture representing a file onto a picture of a trash can, thus instructing the system to delete the file.

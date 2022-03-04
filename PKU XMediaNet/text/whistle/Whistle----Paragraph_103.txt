@@ -1,0 +1,1 @@
+Is there a use of Aeolian tone knowledge other than making musical instruments? There are several accurate flow meters that are designed to take advantage of the constancy of the Strouhal Number with Reynolds Number to provide a linear relationship between flow rate and measured frequency. They are called vortex meters.

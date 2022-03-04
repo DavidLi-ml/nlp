@@ -1,0 +1,1 @@
+A black body absorbs all the radiation that hits it. Real world objects are gray objects, with their absorption being equal to their emissivity. Black plastic might have an emissivity of around 0.95, meaning 95 percent of all radiation that hits it will be absorbed, and the remaining 5 percent reflected.

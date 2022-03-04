@@ -1,0 +1,1 @@
+Formats for movies are AVI, DV, MPEG, MOV (often containing motion JPEG), WMV, and ASF (basically the same as WMV). Recent formats include MP4, which is based on the QuickTime format and uses newer compression algorithms to allow longer recording times in the same space.

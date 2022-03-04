@@ -1,0 +1,1 @@
+Application layer. At the highest layer, the services available across a TCP/IP internet are accessed by application programs. The application chooses the style of transport to be used which can be a sequence of individual messages or a continuous stream of bytes. The application program passes data to the transport layer for delivery.

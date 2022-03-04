@@ -1,0 +1,1 @@
+At each change of service, the previous receiver shall become the server and the partner of the previous server shall become the receiver. For example, if the previous order of play is A→X→B→Y, the order becomes X→B→Y→A after the change of service.

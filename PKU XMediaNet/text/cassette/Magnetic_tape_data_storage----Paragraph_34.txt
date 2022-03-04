@@ -1,0 +1,1 @@
+Some tape cartridges, notably LTO cartridges, have small, associated data storage chips built into the cartridges that record metadata about the tape, such as the type of encoding, size of the storage, dates and other information. It's also common for tape cartridges to have bar codes on their labels in order to assist an automated tape library.

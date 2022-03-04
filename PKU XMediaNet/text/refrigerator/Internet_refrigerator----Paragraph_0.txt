@@ -1,0 +1,1 @@
+Internet refrigerator (also known as an smart refrigerator) is a refrigerator which has been programmed to sense what kinds of products are being stored inside it and keep a track of the stock through barcode or RFID scanning. This kind of refrigerator is often equipped to determine itself whenever a food item needs to be replenished.

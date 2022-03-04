@@ -1,0 +1,1 @@
+The Herringbone pattern is made by placing a sailor to one side of a shiner making an 'L' shape, then repeatedly nesting further such combinations. The whole tessellation can be rotated by 45°. Herringbone is sometimes used as infill in timber framed buildings.

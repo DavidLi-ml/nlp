@@ -1,0 +1,1 @@
+Recording digitally from a source marked "unprotected" was also allowed; the "original/copy" marker was ignored.

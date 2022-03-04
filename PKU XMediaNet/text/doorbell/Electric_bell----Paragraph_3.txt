@@ -1,0 +1,1 @@
+Another type, the single-stroke bell, has no interrupting contacts. The hammer strikes the gong once each time the circuit is closed. These are used to signal brief notifications, such as a shop door opening for a customer, rather than continuous warnings.

@@ -1,0 +1,1 @@
+Agricultural applications use PIP sizes, which stands for Plastic Irrigation Pipe. PIP comes in pressure ratings of 22 psi (150 kPa), 50 psi (340 kPa), 80 psi (550 kPa), 100 psi (690 kPa), and 125 psi (860 kPa) and is generally available in diameters of 6", 8", 10", 12", 15", 18", 21", and 24".

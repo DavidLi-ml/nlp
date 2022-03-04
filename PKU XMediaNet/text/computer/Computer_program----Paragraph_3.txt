@@ -1,0 +1,1 @@
+The earliest programmable machines preceded the invention of the digital computer. In 1801, Joseph-Marie Jacquard devised a loom that would weave a pattern by following a series of perforated cards. Patterns, including flowers and leaves, could be weaved and repeated by arranging the cards.

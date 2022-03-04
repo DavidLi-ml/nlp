@@ -1,0 +1,1 @@
+The shell is added to, and increases in size, in two ways - by increments added to the open edge of the shell, and by a gradual thickening throughout the animal's life.

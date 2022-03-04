@@ -1,0 +1,1 @@
+Both players roll their dice; the player who rolls the higher number wins.

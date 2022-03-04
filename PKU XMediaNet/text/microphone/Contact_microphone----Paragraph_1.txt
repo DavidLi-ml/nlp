@@ -1,0 +1,1 @@
+The most commonly available contact microphone element is made of a thin piezoelectric ceramic round glued to a thin brass or alloy metal disc. This center disc is positive while the brass disc is negative. If this silver disc is cracked or scorched, the piezo will no longer function at full sensitivity.

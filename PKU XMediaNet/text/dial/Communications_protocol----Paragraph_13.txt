@@ -1,0 +1,1 @@
+Address mapping. Sometimes protocols need to map addresses of one scheme on addresses of another scheme. For instance to translate a logical IP address specified by the application to an Ethernet hardware address. This is referred to as address mapping.

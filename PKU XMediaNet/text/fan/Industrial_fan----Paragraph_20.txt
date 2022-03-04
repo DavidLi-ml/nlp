@@ -1,0 +1,1 @@
+Paddle-wheel – This is an open impeller design without shrouds. Although the efficiency is not high, this fan is well suited for applications with extremely high dust loading. It can be offered with field-replaceable blade liners from ceramic tiles or tungsten carbide. This fan may also be used in high-temperature applications.

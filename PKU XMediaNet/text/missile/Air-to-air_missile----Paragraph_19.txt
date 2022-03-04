@@ -1,0 +1,1 @@
+An added complication was that the beam will spread out into a cone shape as the distance from the attacking aircraft increases. This will result in less accuracy for the missile because the beam may actually be larger than the target aircraft when the missile arrives. The missile could be securely within the beam but still not be close enough to destroy the target.

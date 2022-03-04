@@ -1,0 +1,1 @@
+When considering propulsive engines, typically only the raw force of the core mass flow is considered, leading to such engines having their 'power' rated in any of the units discussed above for forces.

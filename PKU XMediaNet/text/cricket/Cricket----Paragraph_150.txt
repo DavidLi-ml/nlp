@@ -1,0 +1,1 @@
+Innings (I): The number of innings in which the batsman actually batted.

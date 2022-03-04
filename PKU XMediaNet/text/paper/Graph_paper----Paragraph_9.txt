@@ -1,0 +1,1 @@
+In general, graphs showing grids are sometimes called Cartesian graphs because the square can be used to map measurements onto a Cartesian (x vs. y) coordinate system. It is also available without lines but with dots at the positions where the lines would intersect.

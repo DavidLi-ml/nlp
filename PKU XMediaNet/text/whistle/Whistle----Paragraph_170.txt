@@ -1,0 +1,1 @@
+   and the characteristic dimension is L2, typically the corrected cavity depth or tube length. The non dimensional descriptors for each of these are the fluid mechanical Strouhal number and the acoustical Strouhal number. The tie between these two numbers is the commonality of the frequency.

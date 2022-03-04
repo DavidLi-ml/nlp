@@ -1,0 +1,1 @@
+Snake: Snake chain is a very tight-linked chain that has a round or square cross-section and has links that create a slight zigzag look.

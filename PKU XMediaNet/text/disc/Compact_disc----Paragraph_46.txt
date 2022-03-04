@@ -1,0 +1,1 @@
+352x240 (or SIF) resolution was chosen because it is half the vertical and half the horizontal resolution of NTSC video. 352x288 is similarly one quarter PAL/SECAM resolution. This approximates the (overall) resolution of an analog VHS tape, which, although it has double the number of (vertical) scan lines, has a much lower horizontal resolution.

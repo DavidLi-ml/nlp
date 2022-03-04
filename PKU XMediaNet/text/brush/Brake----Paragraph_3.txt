@@ -1,0 +1,1 @@
+  ), an object moving at 10 m/s has 100 times as much energy as one of the same mass moving at 1 m/s, and consequently the theoretical braking distance, when braking at the traction limit, is 100 times as long. In practice, fast vehicles usually have significant air drag, and energy lost to air drag rises quickly with speed.

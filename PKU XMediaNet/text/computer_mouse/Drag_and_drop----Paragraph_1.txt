@@ -1,0 +1,1 @@
+As a feature, drag-and-drop support is not found in all software, though it is sometimes a fast and easy-to-learn technique. However, it is not always clear to users that an item can be dragged and dropped, or what is the command performed by the drag and drop, which can decrease usability.

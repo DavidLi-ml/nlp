@@ -1,0 +1,1 @@
+The size of the gears and the sequence in which they engage define the ratio of the angular velocity ωA of the input gear to the angular velocity ωB of the output gear, known as the speed ratio, or gear ratio, of the gear train. Let R be the speed ratio, then

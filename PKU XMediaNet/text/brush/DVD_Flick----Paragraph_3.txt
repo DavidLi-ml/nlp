@@ -1,0 +1,1 @@
+DVD Flick features direct stream copy for DVD-compliant MPEG-2 video streams only, but such a feature is not available for audio streams, meaning audio streams are always re-encoded in the process of DVD creation.

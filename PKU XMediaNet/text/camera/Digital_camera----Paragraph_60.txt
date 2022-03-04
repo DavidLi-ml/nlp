@@ -1,0 +1,1 @@
+Linescan cameras are also extensively used in imaging from satellites (see push broom scanner). In this case the row of sensors is perpendicular to the direction of satellite motion. Linescan cameras are widely used in scanners. In this case, the camera moves horizntally.

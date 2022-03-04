@@ -1,0 +1,1 @@
+The energy usage in a pumping installation is determined by the flow required, the height lifted and the length and friction characteristics of the pipeline. The power required to drive a pump (

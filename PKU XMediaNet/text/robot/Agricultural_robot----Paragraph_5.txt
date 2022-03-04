@@ -1,0 +1,1 @@
+For spraying, the end effector consists of a spray nozzle that is attached to a manipulator. In practice, producers want to ensure that the chemical liquid is evenly distributed across the bunch. Thus, the design allows for an even distribution of the chemical by making the nozzle to move at a constant speed while keeping distance from the target.

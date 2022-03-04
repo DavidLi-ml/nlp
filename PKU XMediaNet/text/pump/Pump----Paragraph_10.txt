@@ -1,0 +1,1 @@
+Positive displacement pumps, unlike centrifugal or roto-dynamic pumps, theoretically can produce the same flow at a given speed (RPM) no matter what the discharge pressure. Thus, positive displacement pumps are constant flow machines. However, a slight increase in internal leakage as the pressure increases prevents a truly constant flow rate.

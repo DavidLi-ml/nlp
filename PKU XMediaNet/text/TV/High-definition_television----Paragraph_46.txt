@@ -1,0 +1,1 @@
+A very high resolution source may require more bandwidth than available in order to be transmitted without loss of fidelity. The lossy compression that is used in all digital HDTV storage and transmission systems will distort the received picture, when compared to the uncompressed source.

@@ -1,0 +1,1 @@
+Write the result from the ALU back to a memory location or to a register or perhaps an output device.

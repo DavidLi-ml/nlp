@@ -1,0 +1,1 @@
+Radio clocks keep time with a quartz crystal, but are periodically synchronized to time signals transmitted from dedicated standard time radio stations or satellite navigation signals, which are set by atomic clocks.

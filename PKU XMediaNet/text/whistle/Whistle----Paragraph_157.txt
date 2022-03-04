@@ -1,0 +1,1 @@
+The characteristic speed U is that of the annular jet. The characteristic dimension D is the cavity diameter and it appears that both cavities have similar dimensions. Again, the Rossby number V

@@ -1,0 +1,1 @@
+Robots with silicone bodies and flexible actuators (air muscles, electroactive polymers, and ferrofluids) look and feel different from robots with rigid skeletons, and can have different behaviors.

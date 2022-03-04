@@ -1,0 +1,1 @@
+B's value is constant; A beats it on 2/3 rolls because four of its six faces are higher.

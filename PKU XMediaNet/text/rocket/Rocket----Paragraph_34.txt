@@ -1,0 +1,1 @@
+Rocket exhaust generates a significant amount of acoustic energy. As the supersonic exhaust collides with the ambient air, shock waves are formed. The sound intensity from these shock waves depends on the size of the rocket as well as the exhaust velocity. The sound intensity of large, high performance rockets could potentially kill at close range.

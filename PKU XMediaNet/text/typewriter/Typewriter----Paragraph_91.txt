@@ -1,0 +1,1 @@
+Similarly, the exclamation point was created by combining an apostrophe and a period. These characters were omitted to simplify design and reduce manufacturing and maintenance costs; they were chosen specifically because they were "redundant" and could be recreated using other keys.

@@ -1,0 +1,1 @@
+In a two-innings-a-side match, one team's combined first and second innings total may be less than the other side's first innings total. The team with the greater score is then said to have won by an innings and n runs, and does not need to bat again: n is the difference between the two teams' aggregate scores.

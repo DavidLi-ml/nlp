@@ -1,0 +1,1 @@
+In pocket calculator-like programs (for example, Microsoft Calculator for Windows users), the enter key of the numeric keypad acts like the equal to (=) button to obtain the result of the previously entered operations.

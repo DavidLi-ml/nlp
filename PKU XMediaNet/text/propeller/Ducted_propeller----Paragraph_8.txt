@@ -1,0 +1,1 @@
+There are two types of ducts; accelerating and decelerating. With accelerating ducts, the inflow velocity and efficiency of the propeller is increased. This is the type that is used on heavily loaded propellers or propellers with limited diameter. As Ludwig Kort performed extensive research on this type, it is often called a "Kort nozzle".

@@ -1,0 +1,1 @@
+e.g. dragging a color onto a graphical object to change its color,

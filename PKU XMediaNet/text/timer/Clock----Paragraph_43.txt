@@ -1,0 +1,1 @@
+Atomic clocks were first theorized by Lord Kelvin in 1879. In the 1930s the development of Magnetic resonance created practical method for doing this. A prototype ammonia maser device was built in 1949 at the U.S. National Bureau of Standards (NBS, now NIST). Although it was less accurate than existing quartz clocks, it served to demonstrate the concept.

@@ -1,0 +1,1 @@
+Each of these methods use springs to return the retracted parts to their forward positions and restart the cycle.

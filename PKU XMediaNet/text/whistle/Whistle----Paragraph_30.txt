@@ -1,0 +1,1 @@
+One important source of instability in a fluid is the presence of a velocity gradient or shear layer with an inflection point. Thus, fluid instability can be described as a three dimensional region with flow speed on one axis, disturbance amplitude on the second, and velocity profile on the third.

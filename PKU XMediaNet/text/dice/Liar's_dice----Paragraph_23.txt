@@ -1,0 +1,1 @@
+A bid of the expected quantity (or twice the expected value when playing with wilds), rounded down, has a greater than 50% chance of being correct and the highest chance of being exactly correct.

@@ -1,0 +1,1 @@
+Used to cool the CPU (central processing unit) heatsink. Effective cooling of a concentrated heat source such as a large-scale integrated circuit requires a heatsink, which may be cooled by a fan; use of a fan alone will not prevent overheating of the small chip.

@@ -1,0 +1,1 @@
+Design considerations for chairs have been codified into standards. ISO 9241, "Ergonomic requirements for office work with visual display terminals (VDTs) -- Part 5: Workstation layout and postural requirements" is the most common one for modern chair design.

@@ -1,0 +1,1 @@
+Firmware is the technology which has the combination of both hardware and software such as BIOS chip inside a computer. This chip (hardware) is located on the motherboard and has the BIOS set up (software) stored in it.

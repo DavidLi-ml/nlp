@@ -1,0 +1,1 @@
+(left) Double-click: clicking the button two times in quick succession counts as a different gesture than two separate single clicks.
